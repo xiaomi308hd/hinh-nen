@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 1-0 | Chuối Kem | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 1-0 | Chuối Kem | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 1-0 | Chuối Kem | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-994936" tvg-name="Pachuca W vs Monterrey W - Chuối Lá - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_113520_b20e2b37.png" group-title="Nữ Mexico" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Pachuca W vs Monterrey W | 12/11 10:00 | Chuối Lá | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
@@ -347,6 +338,8 @@ https://live05.wecile.app/live/56998120.m3u8
 #EXTINF:-1 tvg-id="mhd-crawl-04945000abbb4359" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
 https://live05.wecile.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="mhd-crawl-91cdc179407c6904" tvg-name="BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN" group-title="Khác" x-source="biaomtv" x-source-name="Biaom TV" tvg-logo="https://biaomtv.fun/logo.png" start="2026-11-12T10:00:00.000Z",BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN | Biaom TV | HLS1
+https://lilive1.eu.cc/live/543aa283ed66bb6c288e100c9435ce21/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-91cdc179407c6904" tvg-name="BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN" group-title="Khác" x-source="biaomtv" x-source-name="Biaom TV" tvg-logo="https://biaomtv.fun/logo.png" start="2026-11-12T10:00:00.000Z",BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN | Biaom TV | HLS2
 https://lilive1.eu.cc/live/748ef30d8341aca2dfcca6c1b15ea265/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-crawl-e3f67d36021e322f" tvg-name="Xem trực tiếp ĐTQG U21 Iceland vs Hy Lạp U21 lúc 20:00 12-11-2026" group-title="Trang chủ" x-source="colatv1" x-source-name="CoLa TV 1" tvg-logo="https://colatv-1.com/wp-content/uploads/2026/10/cropped-Favicon-colatv.watch_.png",Xem trực tiếp ĐTQG U21 Iceland vs Hy Lạp U21 lúc 20:00 12-11-2026 | CoLa TV 1 | HLS1
 https://live05.wecile.app/live/49572724.m3u8
