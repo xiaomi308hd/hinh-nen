@@ -1,29 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mhd-match-1638311" tvg-name="Juventus W vs Lyon W - Chuối Nhỏ - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115838_f553e052.png" group-title="UEFA Champions League Women" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Juventus W vs Lyon W | 12/11 03:00 | 0-4 | Chuối Nhỏ | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1638311" tvg-name="Juventus W vs Lyon W - Chuối Nhỏ - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115838_f553e052.png" group-title="UEFA Champions League Women" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Juventus W vs Lyon W | 12/11 03:00 | 0-4 | Chuối Nhỏ | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1638311" tvg-name="Juventus W vs Lyon W - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115838_f553e052.png" group-title="UEFA Champions League Women" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Juventus W vs Lyon W | 12/11 03:00 | 0-4 | Chuối Nhỏ | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647450" tvg-name="Real Soacha vs Real Cartagena - Trốc Tru - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Real Soacha vs Real Cartagena | 12/11 06:00 | 0-0 | Trốc Tru | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647450" tvg-name="Real Soacha vs Real Cartagena - Trốc Tru - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Real Soacha vs Real Cartagena | 12/11 06:00 | 0-0 | Trốc Tru | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647450" tvg-name="Real Soacha vs Real Cartagena - Trốc Tru - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Real Soacha vs Real Cartagena | 12/11 06:00 | 0-0 | Trốc Tru | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 0-0 | Chuối Kem | HD1
+#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 1-0 | Chuối Kem | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 0-0 | Chuối Kem | HD2
+#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 1-0 | Chuối Kem | HD2
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 0-0 | Chuối Kem | FHD
+#EXTINF:-1 tvg-id="mhd-match-1647449" tvg-name="Quindio vs Tigres FC - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_111526_6d1164a7.png" group-title="Hạng 2 Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Quindio vs Tigres FC | 12/11 08:10 | 1-0 | Chuối Kem | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-994936" tvg-name="Pachuca W vs Monterrey W - Chuối Lá - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_113520_b20e2b37.png" group-title="Nữ Mexico" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Pachuca W vs Monterrey W | 12/11 10:00 | Chuối Lá | HD1
@@ -188,10 +170,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-1549870" tvg-name="Llaneros vs Chico - Chuối Sấy - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png" group-title="VĐQG Colombia" x-source="chuoichientv" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Llaneros vs Chico | 13/11 04:00 | 0-0 | Chuối Sấy | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9wh5893yryo" tvg-name="Juventus Women vs OL Lyonnes Women - Gà Siêu Tồ - HLS" tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="UEFA Women's Champions League" x-source="gavangtv" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Juventus Women vs OL Lyonnes Women | 12/11 03:00 | Gà Siêu Tồ | HLS
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9wh5893yryo" tvg-name="Juventus Women vs OL Lyonnes Women - Gà Siêu Tồ - FLV" tvg-logo="https://img.cltvap.cc/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="UEFA Women's Champions League" x-source="gavangtv" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Juventus Women vs OL Lyonnes Women | 12/11 03:00 | Gà Siêu Tồ | FLV
-https://live2.zktsva.app/live/796315.flv
 #EXTINF:-1 tvg-id="mhd-match-4wyrn4hyz2d0q86" tvg-name="New Zealand vs India - Gà Siêu Son - HLS" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="International Friendly" x-source="gavangtv" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",New Zealand vs India | 12/11 13:00 | Gà Siêu Son | HLS
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4wyrn4hyz2d0q86" tvg-name="New Zealand vs India - Gà Siêu Son - FLV" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="International Friendly" x-source="gavangtv" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",New Zealand vs India | 12/11 13:00 | Gà Siêu Son | FLV
@@ -362,13 +340,17 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/301263.flv
 #EXTINF:-1 tvg-id="mhd-crawl-261a9f0311a97db8" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
 https://colatv88xi.cc/video2/output.m3u8
-#EXTINF:-1 tvg-id="mhd-crawl-443650bd9baa55df" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
-https://live05.wecile.app/live/97885009.m3u8
-#EXTINF:-1 tvg-id="mhd-crawl-4545b8545135f8e6" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
-https://live05.wecile.app/live/87379114.m3u8
-#EXTINF:-1 tvg-id="mhd-crawl-8ef22412cd6356a7" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
-https://live05.wecile.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="mhd-crawl-91cdc179407c6904" tvg-name="BIAOMTV ⭐️ Trang Chủ Bia ôm TV Trực Tiếp Bóng Đá Full HD+ 2026" group-title="Khác" x-source="biaomtv" x-source-name="Biaom TV" tvg-logo="https://biaomtv.fun/logo.png",BIAOMTV ⭐️ Trang Chủ Bia ôm TV Trực Tiếp Bóng Đá Full HD+ 2026 | Biaom TV | HLS1
-https://lilive1.eu.cc/live/38daccd8d6128fa0de88056dc5094628/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-crawl-91cdc179407c6904" tvg-name="BIAOMTV ⭐️ Trang Chủ Bia ôm TV Trực Tiếp Bóng Đá Full HD+ 2026" group-title="Khác" x-source="biaomtv" x-source-name="Biaom TV" tvg-logo="https://biaomtv.fun/logo.png",BIAOMTV ⭐️ Trang Chủ Bia ôm TV Trực Tiếp Bóng Đá Full HD+ 2026 | Biaom TV | HLS2
-https://lilive1.eu.cc/live/7479ed4fbdac1b039edd4cad543f6dfc/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-562b6eee2207cd96" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
+https://live05.wecile.app/live/19919577.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-227fad277af84458" tvg-name="Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD" group-title="Trang chủ" x-source="colatv98" x-source-name="CoLa TV",Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD | CoLa TV | HLS1
+https://live05.wecile.app/live/56998120.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-91cdc179407c6904" tvg-name="BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN" group-title="Khác" x-source="biaomtv" x-source-name="Biaom TV" tvg-logo="https://biaomtv.fun/logo.png" start="2026-11-12T10:00:00.000Z",BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN | Biaom TV | HLS1
+https://lilive1.eu.cc/live/748ef30d8341aca2dfcca6c1b15ea265/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-91cdc179407c6904" tvg-name="BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN" group-title="Khác" x-source="biaomtv" x-source-name="Biaom TV" tvg-logo="https://biaomtv.fun/logo.png" start="2026-11-12T10:00:00.000Z",BIAOMTV - TRỰC TIẾP BÓNG ĐÁ BIA ÔM TV #1 VN | Biaom TV | HLS2
+https://lilive1.eu.cc/live/e0702041669ebc0091c9ba09c0a484cf/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-f80142bd9d9bde1a" tvg-name="Xem trực tiếp Bờ Biển Ngà vs Gambia lúc 02:00 13-11-2026" group-title="Trang chủ" x-source="colatv1" x-source-name="CoLa TV 1" tvg-logo="https://colatv-1.com/wp-content/uploads/2026/10/cropped-Favicon-colatv.watch_.png",Xem trực tiếp Bờ Biển Ngà vs Gambia lúc 02:00 13-11-2026 | CoLa TV 1 | HLS1
+https://live05.wecile.app/live/99121525.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-f9e2a9395d81f082" tvg-name="Xem trực tiếp Club America Nữ vs Toluca Nữ lúc 08:00 12-11-2026" group-title="Trang chủ" x-source="colatv1" x-source-name="CoLa TV 1" tvg-logo="https://colatv-1.com/wp-content/uploads/2026/10/cropped-Favicon-colatv.watch_.png",Xem trực tiếp Club America Nữ vs Toluca Nữ lúc 08:00 12-11-2026 | CoLa TV 1 | HLS1
+https://live05.wecile.app/live/59444581.m3u8
+#EXTINF:-1 tvg-id="mhd-crawl-e3f67d36021e322f" tvg-name="Xem trực tiếp ĐTQG U21 Iceland vs Hy Lạp U21 lúc 20:00 12-11-2026" group-title="Trang chủ" x-source="colatv1" x-source-name="CoLa TV 1" tvg-logo="https://colatv-1.com/wp-content/uploads/2026/10/cropped-Favicon-colatv.watch_.png",Xem trực tiếp ĐTQG U21 Iceland vs Hy Lạp U21 lúc 20:00 12-11-2026 | CoLa TV 1 | HLS1
+https://live05.wecile.app/live/49572724.m3u8
