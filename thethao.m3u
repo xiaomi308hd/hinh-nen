@@ -17,15 +17,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-c5e284ceae0b" tvg-name="Navalcarnero vs Real Betis - Trốc Tru - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115714_ac7e3867.png" group-title="Copa del Rey" x-source="chuoichientv" x-sport="FOOTBALL" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Navalcarnero vs Real Betis | 13/11 01:00 | Trốc Tru | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-bb3823a89399" tvg-name="Türkiye vs Belgium - Chuối Tây - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="UEFA Nations League" x-source="chuoichientv" x-sport="FOOTBALL" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Türkiye vs Belgium | 13/11 00:00 | Chuối Tây | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-bb3823a89399" tvg-name="Türkiye vs Belgium - Chuối Tây - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="UEFA Nations League" x-source="chuoichientv" x-sport="FOOTBALL" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Türkiye vs Belgium | 13/11 00:00 | Chuối Tây | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-bb3823a89399" tvg-name="Türkiye vs Belgium - Chuối Tây - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="UEFA Nations League" x-source="chuoichientv" x-sport="FOOTBALL" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Türkiye vs Belgium | 13/11 00:00 | Chuối Tây | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-b6fd5f9412dc" tvg-name="Italy vs France - Chuối Nhỏ - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="UEFA Nations League" x-source="chuoichientv" x-sport="FOOTBALL" x-source-name="Chuối Chiên TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Italy vs France | 13/11 02:45 | Chuối Nhỏ | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -70,14 +61,14 @@ https://live2.zktsva.app/live/432017.flv
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-id="mhd-match-9ba84f6688fe" tvg-name="Armenia vs Cyprus - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" group-title="UEFA Nations League" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Armenia vs Cyprus | Gà Vàng TV | Live
 https://live2.zktsva.app/live/741294.flv
-#EXTINF:-1 tvg-id="mhd-match-31d4c9ee3430" tvg-name="Guinea vs Eritrea - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png" group-title="CAF Africa Cup of Nations" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Guinea vs Eritrea | Gà Vàng TV | Live
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-id="mhd-match-31d4c9ee3430" tvg-name="Guinea vs Eritrea - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png" group-title="CAF Africa Cup of Nations" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Guinea vs Eritrea | Gà Vàng TV | Live
-https://live2.zktsva.app/live/301263.flv
 #EXTINF:-1 tvg-id="mhd-match-4ffc4c1c82e4" tvg-name="Cote d'Ivoire vs Gambia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/17962554eedf40e0af9df1fc346ce09e.png" group-title="CAF Africa Cup of Nations" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Cote d'Ivoire vs Gambia | Gà Vàng TV | Live
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4ffc4c1c82e4" tvg-name="Cote d'Ivoire vs Gambia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/17962554eedf40e0af9df1fc346ce09e.png" group-title="CAF Africa Cup of Nations" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Cote d'Ivoire vs Gambia | Gà Vàng TV | Live
 https://live2.zktsva.app/live/796315.flv
+#EXTINF:-1 tvg-id="mhd-match-8efcc520d0e6" tvg-name="Senegal vs Sudan - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/cb23b861bbdc4d258313dd94efca7493.png" group-title="CAF Africa Cup of Nations" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Senegal vs Sudan | Gà Vàng TV | Live
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-id="mhd-match-8efcc520d0e6" tvg-name="Senegal vs Sudan - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/cb23b861bbdc4d258313dd94efca7493.png" group-title="CAF Africa Cup of Nations" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Senegal vs Sudan | Gà Vàng TV | Live
+https://live2.zktsva.app/live/301263.flv
 #EXTINF:-1 tvg-id="mhd-match-6576bc72a0b9" tvg-name="Italy vs France - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png" group-title="UEFA Nations League" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Italy vs France | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-id="mhd-match-6576bc72a0b9" tvg-name="Italy vs France - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/775bc655c77d679c193f1982dac04668.png" group-title="UEFA Nations League" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Italy vs France | Gà Vàng TV | Live
@@ -110,12 +101,12 @@ https://live2.zktsva.app/live/307240.flv
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-id="mhd-match-6cce4924e6cc" tvg-name="Saudi Arabia vs South Korea - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="International Friendly" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Saudi Arabia vs South Korea | Gà Vàng TV | Live
 https://live2.zktsva.app/live/306290.flv
-#EXTINF:-1 tvg-id="mhd-match-1l4rjnh9vdw7m7v" tvg-name="Al Ahly vs Amman FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhln7vqwzv/image/small" group-title="Jordan League Division 1" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Al Ahly vs Amman FC | 12/11 22:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/e303d17f1154f4c84c2aa1b034e0456d/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-1l4rjnhny1wpm7v" tvg-name="Nữ Barcelona vs Nữ Arsenal - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h81p9q86p/image/small" group-title="UEFA Women's Champions League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Barcelona vs Nữ Arsenal | 13/11 00:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/fb55f8e9e22e1ea9257e065fcbbfe136/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-23xmvkh675xzqg8" tvg-name="Bờ Biển Ngà vs Gambia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghv0xq82w/image/small" group-title="CAF Africa Cup of Nations" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Bờ Biển Ngà vs Gambia | 13/11 02:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/b5d842c69eb6db296f546801689dce66/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-23xmvkhy36v3qg8" tvg-name="Rosario Central (R) vs River Plate (R) - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4he11yq86p/image/small" group-title="Argentine Reserve League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Rosario Central (R) vs River Plate (R) | 13/11 01:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/14b7cce175cfddf7418032edb0b6e12f/playlist.m3u8
@@ -152,9 +143,6 @@ https://pull.digitalcdn.net/live/4222a02620fa41ab89505c7873402f5e/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-6ypq3nhvkyjgmd7" tvg-name="Anh vs Croatia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hl08q0j6/image/small" group-title="UEFA Nations League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Anh vs Croatia | 13/11 02:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/3c88318b234ed09f579bd14a47cc4183/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-6ypq3nhvx94nmd7" tvg-name="Ghana vs Somalia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhoz6m7vx/image/small" group-title="CAF Africa Cup of Nations" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Ghana vs Somalia | 12/11 22:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/f02e000e35ecdedd7d5ec04e4fa22a26/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-8yomo4h1np5xq0j" tvg-name="Guinea vs Eritrea - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh72kqg8n/image/small" group-title="CAF Africa Cup of Nations" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Guinea vs Eritrea | 13/11 00:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/f6baacfab2f73689f0145edf5be077f6/playlist.m3u8
@@ -182,12 +170,15 @@ https://lilive1.eu.cc/live/88eb2f29f8be964bed4dda101c9cb712/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09h548exrz8" tvg-name="CS Puertollano vs Albacete - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghj5n7r6od/image/small" group-title="Copa del Rey" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",CS Puertollano vs Albacete | 13/11 00:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/db92abf99e0e53f225999786567e8f63/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09h5lpknrz8" tvg-name="Uzbekistan vs Nga - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkhjweqg8n/image/small" group-title="International Friendly" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Uzbekistan vs Nga | 12/11 22:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/d390def68da641e23269709c5c46d0df/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l5ergph46wzzr8k" tvg-name="Llaneros FC vs Boyaca Chico - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhe8p7qvy9/image/small" group-title="Categoría Primera A" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Llaneros FC vs Boyaca Chico | 13/11 07:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/cfdc6c45ad5437aa07decbcf753a3443/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-l5ergph4g15er8k" tvg-name="Senegal vs Sudan - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghlx3m0ve/image/small" group-title="CAF Africa Cup of Nations" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Senegal vs Sudan | 13/11 02:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/f381644638ef00c7686901bd225dcf30/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-l7oqdehg7pe1r51" tvg-name="Cameroon vs Namibia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryohod6q1zp/image/small" group-title="CAF Africa Cup of Nations" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Cameroon vs Namibia | 13/11 02:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/637ce6e1b720a8094964a0a7c53065b0/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l7oqdehjneg4r51" tvg-name="Malta vs Eswatini - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7ph6edm2wd/image/small" group-title="International Friendly" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Malta vs Eswatini | 13/11 00:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/34faa279d017c58a89a1763fba2de366/playlist.m3u8
