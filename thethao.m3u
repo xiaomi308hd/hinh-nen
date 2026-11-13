@@ -128,6 +128,9 @@ https://live2.zktsva.app/live/300523.flv
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-id="mhd-match-6dc05c30d233" tvg-name="Kuwait vs Syria - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" group-title="International Friendly" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Kuwait vs Syria | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301238.flv
+#EXTINF:-1 tvg-id="mhd-match-23xmvkhy3kjxqg8" tvg-name="FC Ulaanbaatar vs Hunters FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhe68lqwzv/image/small" group-title="Mongolia Premier League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",FC Ulaanbaatar vs Hunters FC | 13/11 12:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/31a352d2fdae127422d96dd7a75fe703/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2y8m4zhv3790ql0" tvg-name="Aruba vs Martinique - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whkw4gryox/image/small" group-title="CONCACAF Nations League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Aruba vs Martinique | 13/11 05:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/ecc6dd839e5748e9f64dd01dcd3420c9/playlist.m3u8
