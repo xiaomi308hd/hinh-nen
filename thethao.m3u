@@ -129,7 +129,7 @@ https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-id="mhd-match-6dc05c30d233" tvg-name="Kuwait vs Syria - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" group-title="International Friendly" x-source="gavangtv" x-sport="FOOTBALL" x-source-name="Gà Vàng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Kuwait vs Syria | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301238.flv
 #EXTINF:-1 tvg-id="mhd-match-l6kegir93e3hv75" tvg-name="Singapore vs Paraguay - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="Giao hữu Quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",Singapore vs Paraguay | 13/11 19:00 | ColaTV | Live
-https://live.hztx2020.com/live/14413745_30c40c66030001a7d96b7bbb6d43139d_autoChange.m3u8?auth_key=1794588236-0-0-d8594d1f7d502c832a697958e28f5894
+https://live.hztx2020.com/live/14413745_30c40c66030001a7d96b7bbb6d43139d_autoChange.m3u8?auth_key=1794588283-0-0-9643d64ec77740e16508d83e925b4eb5
 #EXTINF:-1 tvg-id="mhd-match-l6kegir93e3hv75" tvg-name="Singapore vs Paraguay - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="Giao hữu Quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",Singapore vs Paraguay | 13/11 19:00 | ColaTV | Live
 https://live05.wecile.app/live/08552895.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l6kegir93e3hv75" tvg-name="Singapore vs Paraguay - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="Giao hữu Quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",Singapore vs Paraguay | 13/11 19:00 | ColaTV | Live
@@ -137,7 +137,7 @@ https://live05.yefpwmc.app/live/08552895_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l6kegir93e3hv75" tvg-name="Singapore vs Paraguay - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="Giao hữu Quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",Singapore vs Paraguay | 13/11 19:00 | ColaTV | Live
 https://live05.wecile.app/live/08552895.flv
 #EXTINF:-1 tvg-id="mhd-match-ezk96ijnwlyh1kn" tvg-name="VfL Bochum vs SC Verl - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/2440249cd19586c39de8e05d55cc6b0d.png!w80" group-title="Giao hữu các CLB quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",VfL Bochum vs SC Verl | 13/11 18:30 | ColaTV | Live
-https://live.hztx2020.com/live/14678505_7a0499f7020664ee756a6149d9e79417_autoChange.m3u8?auth_key=1794588238-0-0-23d09553c4cccba5a6227a0f5069fe7e
+https://live.hztx2020.com/live/14678505_7a0499f7020664ee756a6149d9e79417_autoChange.m3u8?auth_key=1794588283-0-0-fdaeb54c4acaa8f298e5c72904351846
 #EXTINF:-1 tvg-id="mhd-match-ezk96ijnwlyh1kn" tvg-name="VfL Bochum vs SC Verl - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/2440249cd19586c39de8e05d55cc6b0d.png!w80" group-title="Giao hữu các CLB quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",VfL Bochum vs SC Verl | 13/11 18:30 | ColaTV | Live
 https://live05.wecile.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ezk96ijnwlyh1kn" tvg-name="VfL Bochum vs SC Verl - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/2440249cd19586c39de8e05d55cc6b0d.png!w80" group-title="Giao hữu các CLB quốc tế" x-source="colatv" x-sport="FOOTBALL" x-source-name="ColaTV",VfL Bochum vs SC Verl | 13/11 18:30 | ColaTV | Live
@@ -264,9 +264,6 @@ https://live05.wecile.app/live/87379114.m3u8
 https://live05.yefpwmc.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vrqw9s9dz9du47n" tvg-name="San Antonio Spurs vs Golden State Warriors - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="Hiệp hội Bóng rổ Quốc gia" x-source="colatv" x-sport="BASKETBALL" x-source-name="ColaTV",San Antonio Spurs vs Golden State Warriors | 14/11 09:30 | ColaTV | Live
 https://live05.wecile.app/live/87379114.flv
-#EXTINF:-1 tvg-id="mhd-match-1l4rjnhn699vm7v" tvg-name="ATM vs Kelantan City - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlopoqwzv/image/small" group-title="Malaysia A1 Semi-Pro League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",ATM vs Kelantan City | 13/11 15:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/d4d4ab574fb1693f174dc2a30baf41fa/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2y8m4zhv3e47ql0" tvg-name="Ayeyawady Utd U20 vs Mahar United U20 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09h1n4nrz84/image/small" group-title="Myanmar U20 League" x-source="phalangtv" x-sport="FOOTBALL" x-source-name="Phá Làng TV" x-source-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Ayeyawady Utd U20 vs Mahar United U20 | 13/11 16:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/f77d011e609ae44f523d65c3ebc6efa4/playlist.m3u8
