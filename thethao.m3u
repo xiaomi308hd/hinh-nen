@@ -26,15 +26,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-1c56a6582222" tvg-name="Qatar vs Australia - Chuối Chao - FHD" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Qatar vs Australia | 13/11 21:45 | Chuối Chao | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1cf520c4c504" tvg-name="Mozambique vs Ethiopia - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120144_c5f585be.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Chuối Kem | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1cf520c4c504" tvg-name="Mozambique vs Ethiopia - Chuối Kem - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_120144_c5f585be.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Chuối Kem | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1cf520c4c504" tvg-name="Mozambique vs Ethiopia - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_120144_c5f585be.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Chuối Kem | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-d250cbcd43cf" tvg-name="Cape Verde Islands vs Liberia - Chuối Tây - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120144_c5f585be.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Cape Verde Islands vs Liberia | 13/11 23:00 | Chuối Tây | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -80,6 +71,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-1fad7bda8300" tvg-name="Netherlands vs Greece - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Chuối Nhỏ | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-f57bb04dd0b8" tvg-name="Hisamitsu Springs W vs PFU Blue Cats W - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="VOLLEYBALL",Hisamitsu Springs W vs PFU Blue Cats W | 14/11 11:05 | Chuối Kem | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-f57bb04dd0b8" tvg-name="Hisamitsu Springs W vs PFU Blue Cats W - Chuối Kem - HD2" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="VOLLEYBALL",Hisamitsu Springs W vs PFU Blue Cats W | 14/11 11:05 | Chuối Kem | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-f57bb04dd0b8" tvg-name="Hisamitsu Springs W vs PFU Blue Cats W - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="VOLLEYBALL",Hisamitsu Springs W vs PFU Blue Cats W | 14/11 11:05 | Chuối Kem | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-5e11df0ef45e" tvg-name="Saudi Arabia vs South Korea - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Saudi Arabia vs South Korea | 13/11 21:30 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-id="mhd-match-5e11df0ef45e" tvg-name="Saudi Arabia vs South Korea - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Saudi Arabia vs South Korea | 13/11 21:30 | Gà Vàng TV | Live
@@ -92,10 +92,6 @@ https://live2.zktsva.app/live/304565.flv
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4616770856d1" tvg-name="United Arab Emirates vs Honduras - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",United Arab Emirates vs Honduras | 13/11 21:10 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/294335.flv
-#EXTINF:-1 tvg-id="mhd-match-21c5e06017ac" tvg-name="Mozambique vs Ethiopia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="mhd-match-21c5e06017ac" tvg-name="Mozambique vs Ethiopia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/4ebcf9e1e66c0ecb1723ddb6dfdddd43.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/303098.flv
 #EXTINF:-1 tvg-id="mhd-match-927cad35ae0a" tvg-name="Comoros vs Republic of the Congo - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/b26f48bd4e40423148b0089092638919.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Comoros vs Republic of the Congo | 13/11 20:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-id="mhd-match-927cad35ae0a" tvg-name="Comoros vs Republic of the Congo - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/b26f48bd4e40423148b0089092638919.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Comoros vs Republic of the Congo | 13/11 20:00 | Gà Vàng TV | Live
@@ -120,6 +116,10 @@ https://live2.zktsva.app/live/796315.flv
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 tvg-id="mhd-match-1f0ce5fcdf8c" tvg-name="Tunisia vs Libya - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/7cb09c45e2124a08ac950d31c7ebe0a6.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Tunisia vs Libya | 13/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/289650.flv
+#EXTINF:-1 tvg-id="mhd-match-03c82fdfd260" tvg-name="Cabo Verde vs Liberia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/3367956ae5c44991af49e1e2137f415b.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Cabo Verde vs Liberia | 13/11 23:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-id="mhd-match-03c82fdfd260" tvg-name="Cabo Verde vs Liberia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/3367956ae5c44991af49e1e2137f415b.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Cabo Verde vs Liberia | 13/11 23:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/303098.flv
 #EXTINF:-1 tvg-id="mhd-match-c5bb21db9f79" tvg-name="Turkiye U21 vs Czechia Republic U21 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Turkiye U21 vs Czechia Republic U21 | 13/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-id="mhd-match-c5bb21db9f79" tvg-name="Turkiye U21 vs Czechia Republic U21 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Turkiye U21 vs Czechia Republic U21 | 13/11 23:00 | Gà Vàng TV | Live
@@ -129,23 +129,15 @@ https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4a8246552204" tvg-name="Kuwait vs Syria - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Kuwait vs Syria | 13/11 23:30 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301238.flv
 #EXTINF:-1 tvg-id="mhd-match-vmqy9iyjdvrfgk9" tvg-name="Ả Rập Saudi vs Hàn Quốc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ả Rập Saudi vs Hàn Quốc | 13/11 21:30 | ColaTV | Live
-https://live.hztx2020.com/live/14610422_7158ccbb71af3e25990883f0c8d455fd_autoChange.m3u8?auth_key=1794596123-0-0-07170b61b4141784521e223168702d29
+https://live.hztx2020.com/live/14610422_7158ccbb71af3e25990883f0c8d455fd_autoChange.m3u8?auth_key=1794596431-0-0-c870229435daa2e96ce4e8c50f339881
 #EXTINF:-1 tvg-id="mhd-match-vmqy9iyjdvrfgk9" tvg-name="Ả Rập Saudi vs Hàn Quốc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ả Rập Saudi vs Hàn Quốc | 13/11 21:30 | ColaTV | Live
 https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vmqy9iyjdvrfgk9" tvg-name="Ả Rập Saudi vs Hàn Quốc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ả Rập Saudi vs Hàn Quốc | 13/11 21:30 | ColaTV | Live
 https://live05.yefpwmc.app/live/33982309_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vmqy9iyjdvrfgk9" tvg-name="Ả Rập Saudi vs Hàn Quốc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ả Rập Saudi vs Hàn Quốc | 13/11 21:30 | ColaTV | Live
 https://live05.wecile.app/live/33982309.flv
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi2rvoni879" tvg-name="Qatar vs ĐTQG Úc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Qatar vs ĐTQG Úc | 13/11 21:45 | ColaTV | Live
-https://live.hztx2020.com/live/14454228_d76440194301515664387fc6b35cc45b_autoChange.m3u8?auth_key=1794596123-0-0-5202cd8517c608944917efae9e9086f6
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi2rvoni879" tvg-name="Qatar vs ĐTQG Úc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Qatar vs ĐTQG Úc | 13/11 21:45 | ColaTV | Live
-https://live05.wecile.app/live/14830711.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi2rvoni879" tvg-name="Qatar vs ĐTQG Úc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Qatar vs ĐTQG Úc | 13/11 21:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi2rvoni879" tvg-name="Qatar vs ĐTQG Úc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Qatar vs ĐTQG Úc | 13/11 21:45 | ColaTV | Live
-https://live05.wecile.app/live/14830711.flv
 #EXTINF:-1 tvg-id="mhd-match-oj7x9imr8x9t47g" tvg-name="United Arab Emirates vs Honduras - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",United Arab Emirates vs Honduras | 13/11 21:10 | ColaTV | Live
-https://live.hztx2020.com/live/14625493_5b2d46ab3bbfb8f8179c860486bd5b47_autoChange.m3u8?auth_key=1794596123-0-0-79cfb6f6fc9552326f918143daaedad9
+https://live.hztx2020.com/live/14625493_5b2d46ab3bbfb8f8179c860486bd5b47_autoChange.m3u8?auth_key=1794596431-0-0-ee1d652eb24e5efca5aed8816ff3eb58
 #EXTINF:-1 tvg-id="mhd-match-oj7x9imr8x9t47g" tvg-name="United Arab Emirates vs Honduras - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",United Arab Emirates vs Honduras | 13/11 21:10 | ColaTV | Live
 https://live05.wecile.app/live/97885009.m3u8
 #EXTINF:-1 tvg-id="mhd-match-oj7x9imr8x9t47g" tvg-name="United Arab Emirates vs Honduras - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",United Arab Emirates vs Honduras | 13/11 21:10 | ColaTV | Live
@@ -153,7 +145,7 @@ https://live05.yefpwmc.app/live/97885009_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-oj7x9imr8x9t47g" tvg-name="United Arab Emirates vs Honduras - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",United Arab Emirates vs Honduras | 13/11 21:10 | ColaTV | Live
 https://live05.wecile.app/live/97885009.flv
 #EXTINF:-1 tvg-id="mhd-match-o07dni5jrexfmkn" tvg-name="Comoros vs Congo - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Comoros vs Congo | 13/11 20:00 | ColaTV | Live
-https://live2.hztx2020.com/live/14021497_16fa94242f9a4406f4efbcfc8a175260_autoChange.m3u8?auth_key=1794596125-0-0-a275740ccc1d0009060288ae56d50d5f
+https://live2.hztx2020.com/live/14021497_16fa94242f9a4406f4efbcfc8a175260_autoChange.m3u8?auth_key=1794596432-0-0-eee476f472a74c6e50c26531320dfda1
 #EXTINF:-1 tvg-id="mhd-match-o07dni5jrexfmkn" tvg-name="Comoros vs Congo - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Comoros vs Congo | 13/11 20:00 | ColaTV | Live
 https://live05.wecile.app/live/16226575.m3u8
 #EXTINF:-1 tvg-id="mhd-match-o07dni5jrexfmkn" tvg-name="Comoros vs Congo - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Comoros vs Congo | 13/11 20:00 | ColaTV | Live
@@ -169,7 +161,7 @@ https://live05.yefpwmc.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-edq09il6r9eseqx" tvg-name="Mozambique vs Ethiopia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | ColaTV | Live
 https://live05.wecile.app/live/75915087.flv
 #EXTINF:-1 tvg-id="mhd-match-g6763i5gz0dbo7r" tvg-name="Zambia vs Burundi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Zambia vs Burundi | 13/11 20:00 | ColaTV | Live
-https://live1.hztx2020.com/live/14021514_66a265268aa47edcefe84c15f30dc7ab_autoChange.m3u8?auth_key=1794596125-0-0-70acf4a94d301dfb6b38948406e359c7
+https://live1.hztx2020.com/live/14021514_66a265268aa47edcefe84c15f30dc7ab_autoChange.m3u8?auth_key=1794596432-0-0-aad67c5d080d1aa2dc1353da2757e3ce
 #EXTINF:-1 tvg-id="mhd-match-g6763i5gz0dbo7r" tvg-name="Zambia vs Burundi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Zambia vs Burundi | 13/11 20:00 | ColaTV | Live
 https://live05.wecile.app/live/02456966.m3u8
 #EXTINF:-1 tvg-id="mhd-match-g6763i5gz0dbo7r" tvg-name="Zambia vs Burundi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Zambia vs Burundi | 13/11 20:00 | ColaTV | Live
@@ -224,6 +216,12 @@ https://live05.wecile.app/live/78905744.m3u8
 https://live05.yefpwmc.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-63kv9i6m6e0fx7e" tvg-name="Kuwait vs Syria - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Kuwait vs Syria | 13/11 23:30 | ColaTV | Live
 https://live05.wecile.app/live/78905744.flv
+#EXTINF:-1 tvg-id="mhd-match-jek33i8m0z0a9ko" tvg-name="ĐTQG Moldova vs ĐTQG Kazakhstan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Moldova vs ĐTQG Kazakhstan | 14/11 00:00 | ColaTV | Live
+https://live05.wecile.app/live/14830711.m3u8
+#EXTINF:-1 tvg-id="mhd-match-jek33i8m0z0a9ko" tvg-name="ĐTQG Moldova vs ĐTQG Kazakhstan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Moldova vs ĐTQG Kazakhstan | 14/11 00:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-jek33i8m0z0a9ko" tvg-name="ĐTQG Moldova vs ĐTQG Kazakhstan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Moldova vs ĐTQG Kazakhstan | 14/11 00:00 | ColaTV | Live
+https://live05.wecile.app/live/14830711.flv
 #EXTINF:-1 tvg-id="mhd-match-527rjswd02ei4ke" tvg-name="Anadolu Efes S.K. vs Virtus Pallacanestro Bologna - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/3ffc7c468bbf72b4e7f86e468351272d.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Anadolu Efes S.K. vs Virtus Pallacanestro Bologna | 14/11 00:30 | ColaTV | Live
 https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="mhd-match-527rjswd02ei4ke" tvg-name="Anadolu Efes S.K. vs Virtus Pallacanestro Bologna - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/3ffc7c468bbf72b4e7f86e468351272d.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Anadolu Efes S.K. vs Virtus Pallacanestro Bologna | 14/11 00:30 | ColaTV | Live
@@ -353,15 +351,9 @@ https://lilive1.eu.cc/live/4f3bdf54763b62154fbe4d1a80333c29/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l5ergphk0yvyr8k" tvg-name="Singapore vs Paraguay - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwk9zqdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Singapore vs Paraguay | 13/11 19:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/d127c526682e1967402db3743b9d4970/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergphkodzor8k" tvg-name="Uzbekistan U20 vs Venezuela U20 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlx1lrz84/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Uzbekistan U20 vs Venezuela U20 | 13/11 18:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/92d8d70a93439e39173049f5f8e71621/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-n54qllhn4go4qvy" tvg-name="Serbia vs Đức - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd7prepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/f1fcec689269dcd7dae60a7a33b23fa2/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-n54qllhnv0dwqvy" tvg-name="Mozambique vs Ethiopia - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhonjm7vx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/1331bd463935462bab16cb1e421b609f/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-n54qllhnv0dwqvy" tvg-name="Mozambique vs Ethiopia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhonjm7vx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Mozambique vs Ethiopia | 13/11 20:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/7a3064170e5e7cb6b6d37a78ceef3f30/playlist.m3u8
