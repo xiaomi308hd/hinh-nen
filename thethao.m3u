@@ -80,10 +80,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-f57bb04dd0b8" tvg-name="Hisamitsu Springs W vs PFU Blue Cats W - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="VOLLEYBALL",Hisamitsu Springs W vs PFU Blue Cats W | 14/11 11:05 | Chuối Kem | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-181723d32f13" tvg-name="Qatar vs Australia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/efa8ac06cc6747b1835520f01650a0ab.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Qatar vs Australia | 13/11 21:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-id="mhd-match-181723d32f13" tvg-name="Qatar vs Australia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/efa8ac06cc6747b1835520f01650a0ab.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Qatar vs Australia | 13/11 21:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/304565.flv
 #EXTINF:-1 tvg-id="mhd-match-2de5819c1665" tvg-name="Nigeria vs Tanzania - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/7967d550a306a50276991b19ddb4d72e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Nigeria vs Tanzania | 13/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2de5819c1665" tvg-name="Nigeria vs Tanzania - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/7967d550a306a50276991b19ddb4d72e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Nigeria vs Tanzania | 13/11 23:00 | Gà Vàng TV | Live
@@ -116,6 +112,10 @@ https://live2.zktsva.app/live/741294.flv
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-id="mhd-match-98f549878a8b" tvg-name="Netherlands vs Greece - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/294335.flv
+#EXTINF:-1 tvg-id="mhd-match-dc155e3f9f02" tvg-name="Serbia vs Germany - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-id="mhd-match-dc155e3f9f02" tvg-name="Serbia vs Germany - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/304565.flv
 #EXTINF:-1 tvg-id="mhd-match-ddf53a8c30b7" tvg-name="Slovenia vs Switzerland - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/e4ba31fba036a999321d5460f7f2d1d1.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Slovenia vs Switzerland | 14/11 02:45 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ddf53a8c30b7" tvg-name="Slovenia vs Switzerland - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/e4ba31fba036a999321d5460f7f2d1d1.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Slovenia vs Switzerland | 14/11 02:45 | Gà Vàng TV | Live
@@ -301,6 +301,9 @@ https://lilive1.eu.cc/live/15d6be224883db470ccb132bbec6758a/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-3glrw7hnd8l7qdy" tvg-name="Cabo Verde vs Liberia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Cabo Verde vs Liberia | 13/11 23:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/f60f07f34f9a7598b9ff4cbedc2777c8/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4jwq2ghg4gd1m0v" tvg-name="Kuwait vs Syria - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Kuwait vs Syria | 13/11 23:30 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/f4332e8cff7f861140cb8e222954f076/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4jwq2ghngy3jm0v" tvg-name="Slovakia vs Faroe Islands - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66h916qo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Slovakia vs Faroe Islands | 14/11 02:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/031e3101c06896599f17e8ee2d0e3043/playlist.m3u8
@@ -322,6 +325,9 @@ https://lilive1.eu.cc/live/9d427a87ed292339742aff6fed8d1013/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-6ypq3nhvd267md7" tvg-name="Triglav Kranj vs ND Bilje - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn6k8r510/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Triglav Kranj vs ND Bilje | 13/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/8e50902d471bc4abb291b41504f7575d/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-6ypq3nhvj6zemd7" tvg-name="FK Dubocica vs Proleter 023 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghn2y1moep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",FK Dubocica vs Proleter 023 | 13/11 23:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/d439229442aec9a6f587ca41ef7f15b3/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-8yomo4hy751zq0j" tvg-name="Ả Rập Xê Út vs Hàn Quốc - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh05ym7vx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ả Rập Xê Út vs Hàn Quốc | 13/11 21:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/4e518fb90771c681b774e3e235dfb991/playlist.m3u8
