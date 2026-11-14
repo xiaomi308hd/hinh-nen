@@ -1,49 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mhd-match-65a796c7b7a8" tvg-name="Serbia vs Germany - Trốc Tru - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Trốc Tru | HD1
+#EXTINF:-1 tvg-id="mhd-match-0438d071bb72" tvg-name="Colombia vs Chile - Trốc Tru - HD1" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Colombia vs Chile | 14/11 07:00 | Trốc Tru | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-65a796c7b7a8" tvg-name="Serbia vs Germany - Trốc Tru - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Trốc Tru | HD2
+#EXTINF:-1 tvg-id="mhd-match-0438d071bb72" tvg-name="Colombia vs Chile - Trốc Tru - HD2" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Colombia vs Chile | 14/11 07:00 | Trốc Tru | HD2
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-65a796c7b7a8" tvg-name="Serbia vs Germany - Trốc Tru - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Trốc Tru | FHD
+#EXTINF:-1 tvg-id="mhd-match-0438d071bb72" tvg-name="Colombia vs Chile - Trốc Tru - FHD" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Colombia vs Chile | 14/11 07:00 | Trốc Tru | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1fad7bda8300" tvg-name="Netherlands vs Greece - Chuối Nhỏ - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Chuối Nhỏ | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1fad7bda8300" tvg-name="Netherlands vs Greece - Chuối Nhỏ - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Chuối Nhỏ | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1fad7bda8300" tvg-name="Netherlands vs Greece - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Chuối Nhỏ | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-32552baf63ca" tvg-name="Slovenia vs Faroe Islands - Chuối Lá - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Slovenia vs Faroe Islands | 14/11 02:45 | Chuối Lá | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-32552baf63ca" tvg-name="Slovenia vs Faroe Islands - Chuối Lá - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Slovenia vs Faroe Islands | 14/11 02:45 | Chuối Lá | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-32552baf63ca" tvg-name="Slovenia vs Faroe Islands - Chuối Lá - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Slovenia vs Faroe Islands | 14/11 02:45 | Chuối Lá | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-b6133c8fd717" tvg-name="Scotland vs FYR Macedonia - Chuối Già - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Scotland vs FYR Macedonia | 14/11 02:45 | Chuối Già | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-b6133c8fd717" tvg-name="Scotland vs FYR Macedonia - Chuối Già - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Scotland vs FYR Macedonia | 14/11 02:45 | Chuối Già | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-b6133c8fd717" tvg-name="Scotland vs FYR Macedonia - Chuối Già - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Scotland vs FYR Macedonia | 14/11 02:45 | Chuối Già | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-a8f3c728ca0e" tvg-name="Argentina vs Uruguay - Chuối Chao - HD1" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Argentina vs Uruguay | 14/11 06:00 | Chuối Chao | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-a8f3c728ca0e" tvg-name="Argentina vs Uruguay - Chuối Chao - HD2" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Argentina vs Uruguay | 14/11 06:00 | Chuối Chao | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-a8f3c728ca0e" tvg-name="Argentina vs Uruguay - Chuối Chao - FHD" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Argentina vs Uruguay | 14/11 06:00 | Chuối Chao | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-962fc497dcb4" tvg-name="Guatemala vs Canada - Chuối Tây - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120026_f5783203.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Guatemala vs Canada | 14/11 09:00 | Chuối Tây | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -80,164 +44,107 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-5ac65c0fc70b" tvg-name="Okayama Seagulls W vs NEC Red Rockets W - Chuối Lửa - FHD" tvg-logo="https://media.chuoichientv.net/media/20260508_185415_1b4dab26.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="VOLLEYBALL",Okayama Seagulls W vs NEC Red Rockets W | 14/11 12:05 | Chuối Lửa | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dc155e3f9f02" tvg-name="Serbia vs Germany - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dc155e3f9f02" tvg-name="Serbia vs Germany - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Serbia vs Germany | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/304565.flv
-#EXTINF:-1 tvg-id="mhd-match-98f549878a8b" tvg-name="Netherlands vs Greece - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-id="mhd-match-98f549878a8b" tvg-name="Netherlands vs Greece - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Netherlands vs Greece | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/294335.flv
-#EXTINF:-1 tvg-id="mhd-match-9de318263953" tvg-name="Egypt vs Malawi - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/52655c6b9f28486b9e478bd9711428cd.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Egypt vs Malawi | 14/11 02:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="mhd-match-9de318263953" tvg-name="Egypt vs Malawi - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/52655c6b9f28486b9e478bd9711428cd.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Egypt vs Malawi | 14/11 02:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/303098.flv
-#EXTINF:-1 tvg-id="mhd-match-7f84cf525b43" tvg-name="Scotland vs North Macedonia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/40812113b19045bfac9e0fd11134ac87.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Scotland vs North Macedonia | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-id="mhd-match-7f84cf525b43" tvg-name="Scotland vs North Macedonia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/40812113b19045bfac9e0fd11134ac87.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Scotland vs North Macedonia | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/301238.flv
-#EXTINF:-1 tvg-id="mhd-match-0e2b51dea74d" tvg-name="Mali vs Rwanda - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/0a94eea42ecd117d87eb79c61bdd656e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-id="mhd-match-0e2b51dea74d" tvg-name="Mali vs Rwanda - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/0a94eea42ecd117d87eb79c61bdd656e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/301263.flv
-#EXTINF:-1 tvg-id="mhd-match-ddf53a8c30b7" tvg-name="Slovenia vs Switzerland - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/e4ba31fba036a999321d5460f7f2d1d1.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Slovenia vs Switzerland | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ddf53a8c30b7" tvg-name="Slovenia vs Switzerland - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/e4ba31fba036a999321d5460f7f2d1d1.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Slovenia vs Switzerland | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/432017.flv
-#EXTINF:-1 tvg-id="mhd-match-93bc553763e1" tvg-name="Slovakia vs Faroe Islands - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/e2fcc738438c4e7ca4b605ef8764db73.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Slovakia vs Faroe Islands | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 tvg-id="mhd-match-93bc553763e1" tvg-name="Slovakia vs Faroe Islands - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/e2fcc738438c4e7ca4b605ef8764db73.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Slovakia vs Faroe Islands | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/300523.flv
-#EXTINF:-1 tvg-id="mhd-match-ec929050c709" tvg-name="Luxembourg vs Estonia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/a878dbebc902328b41dbf02aa87abb58.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ec929050c709" tvg-name="Luxembourg vs Estonia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/a878dbebc902328b41dbf02aa87abb58.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/741294.flv
-#EXTINF:-1 tvg-id="mhd-match-30f63f68a1e3" tvg-name="Bulgaria vs Iceland - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/3c057cb2b41f22c0e740974d7a428918.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Bulgaria vs Iceland | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="mhd-match-30f63f68a1e3" tvg-name="Bulgaria vs Iceland - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/3c057cb2b41f22c0e740974d7a428918.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Bulgaria vs Iceland | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/796315.flv
-#EXTINF:-1 tvg-id="mhd-match-f626ec342eb1" tvg-name="Andorra vs Gibraltar - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/15fa1fad1fc582dd65403f6f950b1e21.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-id="mhd-match-f626ec342eb1" tvg-name="Andorra vs Gibraltar - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/15fa1fad1fc582dd65403f6f950b1e21.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/289650.flv
-#EXTINF:-1 tvg-id="mhd-match-b286921cc7e5" tvg-name="Morocco vs Niger - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/85a768d7c6a14d51b24bcb19c280b4c6.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Morocco vs Niger | 14/11 03:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-id="mhd-match-b286921cc7e5" tvg-name="Morocco vs Niger - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/85a768d7c6a14d51b24bcb19c280b4c6.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Morocco vs Niger | 14/11 03:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/307240.flv
+#EXTINF:-1 tvg-id="mhd-match-4d2ceeda43e0" tvg-name="Central Coast Mariners W vs Perth Glory FC W - Chuối Chao - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_111532_af6fdb08.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Central Coast Mariners W vs Perth Glory FC W | 14/11 13:00 | Chuối Chao | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4d2ceeda43e0" tvg-name="Central Coast Mariners W vs Perth Glory FC W - Chuối Chao - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_111532_af6fdb08.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Central Coast Mariners W vs Perth Glory FC W | 14/11 13:00 | Chuối Chao | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4d2ceeda43e0" tvg-name="Central Coast Mariners W vs Perth Glory FC W - Chuối Chao - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_111532_af6fdb08.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Central Coast Mariners W vs Perth Glory FC W | 14/11 13:00 | Chuối Chao | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-8fc7e3468dc9" tvg-name="India U17 vs Guam U17 - Chuối Nhỏ - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",India U17 vs Guam U17 | 14/11 14:30 | Chuối Nhỏ | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-8fc7e3468dc9" tvg-name="India U17 vs Guam U17 - Chuối Nhỏ - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",India U17 vs Guam U17 | 14/11 14:30 | Chuối Nhỏ | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-8fc7e3468dc9" tvg-name="India U17 vs Guam U17 - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",India U17 vs Guam U17 | 14/11 14:30 | Chuối Nhỏ | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-85cdce526b76" tvg-name="Bayswater City vs Sydney Olympic - Chuối Già - HD1" tvg-logo="https://media.api-sports.io/football/leagues/1202.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Bayswater City vs Sydney Olympic | 14/11 15:30 | Chuối Già | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-85cdce526b76" tvg-name="Bayswater City vs Sydney Olympic - Chuối Già - HD2" tvg-logo="https://media.api-sports.io/football/leagues/1202.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Bayswater City vs Sydney Olympic | 14/11 15:30 | Chuối Già | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-85cdce526b76" tvg-name="Bayswater City vs Sydney Olympic - Chuối Già - FHD" tvg-logo="https://media.api-sports.io/football/leagues/1202.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL",Bayswater City vs Sydney Olympic | 14/11 15:30 | Chuối Già | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-88105009761c" tvg-name="Colombia vs Chile - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/ef2635db12914681ae86ece2d97bd6c2.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Colombia vs Chile | 14/11 07:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-id="mhd-match-88105009761c" tvg-name="Colombia vs Chile - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/ef2635db12914681ae86ece2d97bd6c2.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Colombia vs Chile | 14/11 07:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/306290.flv
-#EXTINF:-1 tvg-id="mhd-match-edq09il2j32teqx" tvg-name="Serbia vs Đức - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | ColaTV | Live
-https://live3.hztx2020.com/live/13596737_6fd275e612f0807fe7a61b720f815ec8_autoChange.m3u8?auth_key=1794614009-0-0-c534fe8014ddee2d348d2ac571b5dbcf
-#EXTINF:-1 tvg-id="mhd-match-edq09il2j32teqx" tvg-name="Serbia vs Đức - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 tvg-id="mhd-match-edq09il2j32teqx" tvg-name="Serbia vs Đức - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-edq09il2j32teqx" tvg-name="Serbia vs Đức - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/08552895.flv
-#EXTINF:-1 tvg-id="mhd-match-wv78xiv19lvuokr" tvg-name="ĐTQG Hà Lan vs CLB Greece - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Hà Lan vs CLB Greece | 14/11 02:45 | ColaTV | Live
-https://live2.hztx2020.com/live/13596720_36c9b0020d6b9e15ba493549fcd6c5eb_autoChange.m3u8?auth_key=1794614009-0-0-4b0a4606166866f3bb85927c1decdba3
-#EXTINF:-1 tvg-id="mhd-match-wv78xiv19lvuokr" tvg-name="ĐTQG Hà Lan vs CLB Greece - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Hà Lan vs CLB Greece | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-id="mhd-match-wv78xiv19lvuokr" tvg-name="ĐTQG Hà Lan vs CLB Greece - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Hà Lan vs CLB Greece | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-wv78xiv19lvuokr" tvg-name="ĐTQG Hà Lan vs CLB Greece - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Hà Lan vs CLB Greece | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/07428422.flv
-#EXTINF:-1 tvg-id="mhd-match-o07dnindnp3bmkn" tvg-name="Tây Ban Nha U21 vs Japan U21 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Tây Ban Nha U21 vs Japan U21 | 14/11 01:00 | ColaTV | Live
-https://live.hztx2020.com/live/14659100_9d2926d771b0c80cf06cdcfb594fafb8_autoChange.m3u8?auth_key=1794613953-0-0-25b188b2d486f223bfb826f3826728a2
-#EXTINF:-1 tvg-id="mhd-match-o07dnindnp3bmkn" tvg-name="Tây Ban Nha U21 vs Japan U21 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Tây Ban Nha U21 vs Japan U21 | 14/11 01:00 | ColaTV | Live
-https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 tvg-id="mhd-match-o07dnindnp3bmkn" tvg-name="Tây Ban Nha U21 vs Japan U21 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Tây Ban Nha U21 vs Japan U21 | 14/11 01:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-o07dnindnp3bmkn" tvg-name="Tây Ban Nha U21 vs Japan U21 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Tây Ban Nha U21 vs Japan U21 | 14/11 01:00 | ColaTV | Live
-https://live05.wecile.app/live/07808742.flv
-#EXTINF:-1 tvg-id="mhd-match-jek33i8l4yzt9ko" tvg-name="Ai Cập vs Malawi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ai Cập vs Malawi | 14/11 02:00 | ColaTV | Live
-https://live.hztx2020.com/live/14654397_5d108fbc2234710a8d4f0e314aef61e7_autoChange.m3u8?auth_key=1794614011-0-0-6a19e589b1a5e97d0a330e861242d35a
-#EXTINF:-1 tvg-id="mhd-match-jek33i8l4yzt9ko" tvg-name="Ai Cập vs Malawi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ai Cập vs Malawi | 14/11 02:00 | ColaTV | Live
-https://live05.wecile.app/live/02456966.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jek33i8l4yzt9ko" tvg-name="Ai Cập vs Malawi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ai Cập vs Malawi | 14/11 02:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jek33i8l4yzt9ko" tvg-name="Ai Cập vs Malawi - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ai Cập vs Malawi | 14/11 02:00 | ColaTV | Live
-https://live05.wecile.app/live/02456966.flv
-#EXTINF:-1 tvg-id="mhd-match-wv78xivo4nybokr" tvg-name="Mali vs Rwanda - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | ColaTV | Live
-https://live1.hztx2020.com/live/14660003_f635aad1ac2eaf88bfb08ee80e494e00_autoChange.m3u8?auth_key=1794614011-0-0-78d0d5183ba8f39f3fb25e4adcfc44ff
-#EXTINF:-1 tvg-id="mhd-match-wv78xivo4nybokr" tvg-name="Mali vs Rwanda - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | ColaTV | Live
-https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 tvg-id="mhd-match-wv78xivo4nybokr" tvg-name="Mali vs Rwanda - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-wv78xivo4nybokr" tvg-name="Mali vs Rwanda - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | ColaTV | Live
-https://live05.wecile.app/live/99121525.flv
-#EXTINF:-1 tvg-id="mhd-match-vrqwni40pyys4qn" tvg-name="ĐTQG Bulgaria vs ĐTQG Iceland - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Bulgaria vs ĐTQG Iceland | 14/11 02:45 | ColaTV | Live
-https://live1.hztx2020.com/live/13590648_7d6360168f8f3e1370c72eef57b0dd0b_autoChange.m3u8?auth_key=1794614009-0-0-e1c8c21c633c3f25c510daba49eb183a
-#EXTINF:-1 tvg-id="mhd-match-vrqwni40pyys4qn" tvg-name="ĐTQG Bulgaria vs ĐTQG Iceland - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Bulgaria vs ĐTQG Iceland | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/97885009.m3u8
-#EXTINF:-1 tvg-id="mhd-match-vrqwni40pyys4qn" tvg-name="ĐTQG Bulgaria vs ĐTQG Iceland - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Bulgaria vs ĐTQG Iceland | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-vrqwni40pyys4qn" tvg-name="ĐTQG Bulgaria vs ĐTQG Iceland - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Bulgaria vs ĐTQG Iceland | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/97885009.flv
-#EXTINF:-1 tvg-id="mhd-match-34kgmiog8j4aeko" tvg-name="ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia | 14/11 02:45 | ColaTV | Live
-https://live.hztx2020.com/live/13591626_e822d672b61e6ec78383dcbd21a1dbd8_autoChange.m3u8?auth_key=1794614009-0-0-3280e9ce0def4e2866454596bf12829c
-#EXTINF:-1 tvg-id="mhd-match-34kgmiog8j4aeko" tvg-name="ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 tvg-id="mhd-match-34kgmiog8j4aeko" tvg-name="ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-34kgmiog8j4aeko" tvg-name="ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Scotland vs Đội tuyển QG Bắc Macedonia | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/78905744.flv
-#EXTINF:-1 tvg-id="mhd-match-69759igr9mdagk2" tvg-name="Slovenia vs Thụy Sĩ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Slovenia vs Thụy Sĩ | 14/11 02:45 | ColaTV | Live
-https://live2.hztx2020.com/live/13591627_e0d46ed786a404277b4cb6e800e8e7ab_autoChange.m3u8?auth_key=1794614009-0-0-e0cafd266f80ee811607c013c62f50fa
-#EXTINF:-1 tvg-id="mhd-match-69759igr9mdagk2" tvg-name="Slovenia vs Thụy Sĩ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Slovenia vs Thụy Sĩ | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 tvg-id="mhd-match-69759igr9mdagk2" tvg-name="Slovenia vs Thụy Sĩ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Slovenia vs Thụy Sĩ | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-69759igr9mdagk2" tvg-name="Slovenia vs Thụy Sĩ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Slovenia vs Thụy Sĩ | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/75748097.flv
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6nyltx7e" tvg-name="Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe | 14/11 02:45 | ColaTV | Live
-https://live1.hztx2020.com/live/13590604_e7a3ead80708f83415d2c776fbc6f692_autoChange.m3u8?auth_key=1794614009-0-0-03a3765b381b2afd544eba7d49ea6439
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6nyltx7e" tvg-name="Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6nyltx7e" tvg-name="Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6nyltx7e" tvg-name="Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Quốc gia Slovakia vs Quần đảo Faroe | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/16226575.flv
-#EXTINF:-1 tvg-id="mhd-match-o07dni5n9lrsmkn" tvg-name="Luxembourg vs Estonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | ColaTV | Live
-https://live.hztx2020.com/live/13590647_af1402cd3abebf5ea0892ad7996a3ef8_autoChange.m3u8?auth_key=1794614009-0-0-bd89d1dc1eeff04c534e7e9744e1d9af
-#EXTINF:-1 tvg-id="mhd-match-o07dni5n9lrsmkn" tvg-name="Luxembourg vs Estonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 tvg-id="mhd-match-o07dni5n9lrsmkn" tvg-name="Luxembourg vs Estonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-o07dni5n9lrsmkn" tvg-name="Luxembourg vs Estonia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/18812304.flv
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw96lrfrkv" tvg-name="Andorra vs Gibraltar - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | ColaTV | Live
-https://live5.hztx2020.com/live/13761839_6e39815ada17358241eba7fd4f4b3fa1_autoChange.m3u8?auth_key=1794614009-0-0-cadd9eec7bc8b8863b6b97f78896feef
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw96lrfrkv" tvg-name="Andorra vs Gibraltar - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw96lrfrkv" tvg-name="Andorra vs Gibraltar - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/33860426_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw96lrfrkv" tvg-name="Andorra vs Gibraltar - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/33860426.flv
-#EXTINF:-1 tvg-id="mhd-match-j374oi04xjpigqo" tvg-name="ĐTQG Liechtenstein vs Azerbaijan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Liechtenstein vs Azerbaijan | 14/11 02:45 | ColaTV | Live
-https://live4.hztx2020.com/live/13592361_aea77b44a0f372302f7595165e157c29_autoChange.m3u8?auth_key=1794614009-0-0-e3c81e441775485c23d331ea51143f93
-#EXTINF:-1 tvg-id="mhd-match-j374oi04xjpigqo" tvg-name="ĐTQG Liechtenstein vs Azerbaijan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Liechtenstein vs Azerbaijan | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-id="mhd-match-j374oi04xjpigqo" tvg-name="ĐTQG Liechtenstein vs Azerbaijan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Liechtenstein vs Azerbaijan | 14/11 02:45 | ColaTV | Live
-https://live05.yefpwmc.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-j374oi04xjpigqo" tvg-name="ĐTQG Liechtenstein vs Azerbaijan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",ĐTQG Liechtenstein vs Azerbaijan | 14/11 02:45 | ColaTV | Live
-https://live05.wecile.app/live/87547578.flv
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi86wglb879" tvg-name="Ma Rốc vs Niger - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ma Rốc vs Niger | 14/11 03:00 | ColaTV | Live
-https://live.hztx2020.com/live/14639402_6d6397e155b24baef7967cd484294716_autoChange.m3u8?auth_key=1794614010-0-0-962edac917c4479c1b0fa4da14462ec6
-#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
-https://live05.wecile.app/live/82054853.m3u8
-#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
-https://live05.wecile.app/live/82054853.flv
+#EXTINF:-1 tvg-id="mhd-match-0a940a775731" tvg-name="Ecuador vs Costa Rica - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-id="mhd-match-0a940a775731" tvg-name="Ecuador vs Costa Rica - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/10c94f16a2db4872b22d66aa3949bdc0.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/307240.flv
+#EXTINF:-1 tvg-id="mhd-match-aac28fd6d936" tvg-name="Peru vs Bolivia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-id="mhd-match-aac28fd6d936" tvg-name="Peru vs Bolivia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/77da2f07ed6c94afa27b5f113bea7ebe.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/796315.flv
+#EXTINF:-1 tvg-id="mhd-match-b5d83f0869d8" tvg-name="Vietnam U19 vs South Korea U19 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Vietnam U19 vs South Korea U19 | 14/11 14:30 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 tvg-id="mhd-match-b5d83f0869d8" tvg-name="Vietnam U19 vs South Korea U19 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Vietnam U19 vs South Korea U19 | 14/11 14:30 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/294335.flv
+#EXTINF:-1 tvg-id="mhd-match-84dd10d51740" tvg-name="Thailand U23 vs Singapore U23 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Thailand U23 vs Singapore U23 | 14/11 15:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 tvg-id="mhd-match-84dd10d51740" tvg-name="Thailand U23 vs Singapore U23 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Thailand U23 vs Singapore U23 | 14/11 15:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/301238.flv
+#EXTINF:-1 tvg-id="mhd-match-a1588c23460a" tvg-name="Bayswater City vs Sydney Olympic - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/15809b305455c1e964ccd454cc180e51.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Bayswater City vs Sydney Olympic | 14/11 15:30 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 tvg-id="mhd-match-a1588c23460a" tvg-name="Bayswater City vs Sydney Olympic - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/15809b305455c1e964ccd454cc180e51.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Bayswater City vs Sydney Olympic | 14/11 15:30 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/741294.flv
+#EXTINF:-1 tvg-id="mhd-match-9aa7fb6d777f" tvg-name="Japan vs Brazil - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Japan vs Brazil | 14/11 17:15 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-id="mhd-match-9aa7fb6d777f" tvg-name="Japan vs Brazil - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Japan vs Brazil | 14/11 17:15 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/432017.flv
+#EXTINF:-1 tvg-id="mhd-match-4000b613f571" tvg-name="China U19 vs Tajikistan U19 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",China U19 vs Tajikistan U19 | 14/11 18:35 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4000b613f571" tvg-name="China U19 vs Tajikistan U19 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",China U19 vs Tajikistan U19 | 14/11 18:35 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/289650.flv
+#EXTINF:-1 tvg-id="mhd-match-ea6cbc155513" tvg-name="Vietnam U23 vs Qatar U23 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Vietnam U23 vs Qatar U23 | 14/11 19:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 tvg-id="mhd-match-ea6cbc155513" tvg-name="Vietnam U23 vs Qatar U23 - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Vietnam U23 vs Qatar U23 | 14/11 19:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/304565.flv
+#EXTINF:-1 tvg-id="mhd-match-99c765a3577b" tvg-name="Thailand vs Brunei Darussalam - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Thailand vs Brunei Darussalam | 14/11 19:30 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-id="mhd-match-99c765a3577b" tvg-name="Thailand vs Brunei Darussalam - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Thailand vs Brunei Darussalam | 14/11 19:30 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/301263.flv
+#EXTINF:-1 tvg-id="mhd-match-cc659c88fef3" tvg-name="Al Dhafra FC vs Ajman - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/8872919405e0076fb753ae6492a0a2db.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Al Dhafra FC vs Ajman | 14/11 19:50 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 tvg-id="mhd-match-cc659c88fef3" tvg-name="Al Dhafra FC vs Ajman - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/8872919405e0076fb753ae6492a0a2db.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Al Dhafra FC vs Ajman | 14/11 19:50 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/303098.flv
+#EXTINF:-1 tvg-id="mhd-match-747ad70e0df8" tvg-name="Real Valladolid CF vs Castellon - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/fdf63461c00668597319a4f0db14dcee.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Real Valladolid CF vs Castellon | 14/11 20:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 tvg-id="mhd-match-747ad70e0df8" tvg-name="Real Valladolid CF vs Castellon - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/fdf63461c00668597319a4f0db14dcee.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL",Real Valladolid CF vs Castellon | 14/11 20:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/300523.flv
+#EXTINF:-1 tvg-id="mhd-match-zrkn6i1r39vhwql" tvg-name="Colombia vs Chilê - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Colombia vs Chilê | 14/11 07:00 | ColaTV | Live
+https://live3.hztx2020.com/live/14460855_061a2b88b8cb8a08ddd7cf307df1f3bd_autoChange.m3u8?auth_key=1794633044-0-0-d18a97b8499f42267f9c1ff624a4d952
 #EXTINF:-1 tvg-id="mhd-match-zrkn6i1r39vhwql" tvg-name="Colombia vs Chilê - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Colombia vs Chilê | 14/11 07:00 | ColaTV | Live
 https://live05.wecile.app/live/59444581.m3u8
 #EXTINF:-1 tvg-id="mhd-match-zrkn6i1r39vhwql" tvg-name="Colombia vs Chilê - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Colombia vs Chilê | 14/11 07:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/59444581_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-zrkn6i1r39vhwql" tvg-name="Colombia vs Chilê - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Colombia vs Chilê | 14/11 07:00 | ColaTV | Live
 https://live05.wecile.app/live/59444581.flv
+#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
+https://live3.hztx2020.com/live/14585851_41d1fc7bdca380e468fbdc7ae5eaa494_autoChange.m3u8?auth_key=1794633040-0-0-862cd8fa238c39508695aa790a226ef7
+#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
+https://live05.wecile.app/live/75915087.m3u8
+#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
+https://live05.wecile.app/live/75915087.flv
+#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
+https://live.hztx2020.com/live/14319582_87e2c1efa0b7489932e2bba2bcaa688e_autoChange.m3u8?auth_key=1794633041-0-0-8da5bc20b8de2626f2421d06e0bc5c8d
+#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
+https://live05.wecile.app/live/82054853.m3u8
+#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-34kgps1lw1gieko" tvg-name="Indiana Pacers vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Indiana Pacers vs New York Knicks | 14/11 07:00 | ColaTV | Live
+https://live05.wecile.app/live/82054853.flv
+#EXTINF:-1 tvg-id="mhd-match-ndkz6i2zg3jixq3" tvg-name="Ecuador vs Costa Rica - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | ColaTV | Live
+https://live2.hztx2020.com/live/14595224_15d6f00d3fdf88faeb0523fefd988305_autoChange.m3u8?auth_key=1794633044-0-0-ed1593eae3d68a8704f308d25ae0aed0
 #EXTINF:-1 tvg-id="mhd-match-ndkz6i2zg3jixq3" tvg-name="Ecuador vs Costa Rica - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | ColaTV | Live
 https://live05.wecile.app/live/49572724.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndkz6i2zg3jixq3" tvg-name="Ecuador vs Costa Rica - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | ColaTV | Live
@@ -245,23 +152,21 @@ https://live05.yefpwmc.app/live/49572724_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndkz6i2zg3jixq3" tvg-name="Ecuador vs Costa Rica - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | ColaTV | Live
 https://live05.wecile.app/live/49572724.flv
 #EXTINF:-1 tvg-id="mhd-match-63kvlsop2oeux7e" tvg-name="Chicago Bulls vs Atlanta Hawks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Chicago Bulls vs Atlanta Hawks | 14/11 08:00 | ColaTV | Live
+https://live.hztx2020.com/live/14319585_f69e8a41ed16b8f416b63c71d136c444_autoChange.m3u8?auth_key=1794633040-0-0-eb8f850bd1a78291fabe336938af52f9
+#EXTINF:-1 tvg-id="mhd-match-63kvlsop2oeux7e" tvg-name="Chicago Bulls vs Atlanta Hawks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Chicago Bulls vs Atlanta Hawks | 14/11 08:00 | ColaTV | Live
 https://live05.wecile.app/live/56998120.m3u8
 #EXTINF:-1 tvg-id="mhd-match-63kvlsop2oeux7e" tvg-name="Chicago Bulls vs Atlanta Hawks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Chicago Bulls vs Atlanta Hawks | 14/11 08:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/56998120_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-63kvlsop2oeux7e" tvg-name="Chicago Bulls vs Atlanta Hawks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Chicago Bulls vs Atlanta Hawks | 14/11 08:00 | ColaTV | Live
 https://live05.wecile.app/live/56998120.flv
 #EXTINF:-1 tvg-id="mhd-match-8lk2ys6zy6waz73" tvg-name="Miami Heat vs Cleveland Cavaliers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Miami Heat vs Cleveland Cavaliers | 14/11 08:00 | ColaTV | Live
+https://live1.hztx2020.com/live/14319584_1070bf8be188aac9f7cc92b2302c13a0_autoChange.m3u8?auth_key=1794633040-0-0-323b028bf1b088fe3fca02405e3ca25d
+#EXTINF:-1 tvg-id="mhd-match-8lk2ys6zy6waz73" tvg-name="Miami Heat vs Cleveland Cavaliers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Miami Heat vs Cleveland Cavaliers | 14/11 08:00 | ColaTV | Live
 https://live05.wecile.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="mhd-match-8lk2ys6zy6waz73" tvg-name="Miami Heat vs Cleveland Cavaliers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Miami Heat vs Cleveland Cavaliers | 14/11 08:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/90865415_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-8lk2ys6zy6waz73" tvg-name="Miami Heat vs Cleveland Cavaliers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Miami Heat vs Cleveland Cavaliers | 14/11 08:00 | ColaTV | Live
 https://live05.wecile.app/live/90865415.flv
-#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
-https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-527r3i3em4ws47e" tvg-name="Peru vs Bolivia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | ColaTV | Live
-https://live05.wecile.app/live/75915087.flv
 #EXTINF:-1 tvg-id="mhd-match-o07dzsmrgm9smkn" tvg-name="Houston Rockets vs Utah Jazz - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Houston Rockets vs Utah Jazz | 14/11 08:30 | ColaTV | Live
 https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="mhd-match-o07dzsmrgm9smkn" tvg-name="Houston Rockets vs Utah Jazz - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL",Houston Rockets vs Utah Jazz | 14/11 08:30 | ColaTV | Live
@@ -280,165 +185,117 @@ https://live05.wecile.app/live/14830711.m3u8
 https://live05.yefpwmc.app/live/14830711_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-m2q15izj8x2ie76" tvg-name="Melbourne City Nữ vs Newcastle Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Melbourne City Nữ vs Newcastle Nữ | 14/11 11:00 | ColaTV | Live
 https://live05.wecile.app/live/14830711.flv
+#EXTINF:-1 tvg-id="mhd-match-m2q15izxzgdfe76" tvg-name="Shonan Bellmare vs Yokohama FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Shonan Bellmare vs Yokohama FC | 14/11 12:00 | ColaTV | Live
+https://live05.wecile.app/live/99121525.m3u8
+#EXTINF:-1 tvg-id="mhd-match-m2q15izxzgdfe76" tvg-name="Shonan Bellmare vs Yokohama FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Shonan Bellmare vs Yokohama FC | 14/11 12:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-m2q15izxzgdfe76" tvg-name="Shonan Bellmare vs Yokohama FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Shonan Bellmare vs Yokohama FC | 14/11 12:00 | ColaTV | Live
+https://live05.wecile.app/live/99121525.flv
+#EXTINF:-1 tvg-id="mhd-match-oj7x9ix4mj6f47g" tvg-name="Central Coast Mariners women vs Perth Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Central Coast Mariners women vs Perth Nữ | 14/11 13:00 | ColaTV | Live
+https://live05.wecile.app/live/02456966.m3u8
+#EXTINF:-1 tvg-id="mhd-match-oj7x9ix4mj6f47g" tvg-name="Central Coast Mariners women vs Perth Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Central Coast Mariners women vs Perth Nữ | 14/11 13:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-oj7x9ix4mj6f47g" tvg-name="Central Coast Mariners women vs Perth Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Central Coast Mariners women vs Perth Nữ | 14/11 13:00 | ColaTV | Live
+https://live05.wecile.app/live/02456966.flv
 #EXTINF:-1 tvg-id="mhd-match-o07dnindoensmkn" tvg-name="Thái Lan U23 vs Singapore U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Thái Lan U23 vs Singapore U23 | 14/11 15:00 | ColaTV | Live
 https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 tvg-id="mhd-match-o07dnindoensmkn" tvg-name="Thái Lan U23 vs Singapore U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Thái Lan U23 vs Singapore U23 | 14/11 15:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/33982309_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-o07dnindoensmkn" tvg-name="Thái Lan U23 vs Singapore U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Thái Lan U23 vs Singapore U23 | 14/11 15:00 | ColaTV | Live
 https://live05.wecile.app/live/33982309.flv
-#EXTINF:-1 tvg-id="mhd-match-1l4rjnh9v7eom7v" tvg-name="Gabon vs Lesotho - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh68wqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Gabon vs Lesotho | 13/11 23:00 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi293xgi879" tvg-name="Đội tuyển quốc gia Ấn Độ vs Bhutan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển quốc gia Ấn Độ vs Bhutan | 14/11 16:00 | ColaTV | Live
+https://live05.wecile.app/live/87547578.m3u8
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi293xgi879" tvg-name="Đội tuyển quốc gia Ấn Độ vs Bhutan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển quốc gia Ấn Độ vs Bhutan | 14/11 16:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi293xgi879" tvg-name="Đội tuyển quốc gia Ấn Độ vs Bhutan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e48ec6accf15144ae6161518e6e58d1f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển quốc gia Ấn Độ vs Bhutan | 14/11 16:00 | ColaTV | Live
+https://live05.wecile.app/live/87547578.flv
+#EXTINF:-1 tvg-id="mhd-match-g6763ipvynpbo7r" tvg-name="Oman vs Cộng hòa Tajikistan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/962e39b00f6c15b673b3440ec860b241.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Oman vs Cộng hòa Tajikistan | 14/11 16:00 | ColaTV | Live
+https://live05.wecile.app/live/07808742.m3u8
+#EXTINF:-1 tvg-id="mhd-match-g6763ipvynpbo7r" tvg-name="Oman vs Cộng hòa Tajikistan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/962e39b00f6c15b673b3440ec860b241.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Oman vs Cộng hòa Tajikistan | 14/11 16:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-g6763ipvynpbo7r" tvg-name="Oman vs Cộng hòa Tajikistan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/962e39b00f6c15b673b3440ec860b241.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Oman vs Cộng hòa Tajikistan | 14/11 16:00 | ColaTV | Live
+https://live05.wecile.app/live/07808742.flv
+#EXTINF:-1 tvg-id="mhd-match-oj7x9im1d6xf47g" tvg-name="Đội tuyển Bóng đá Quốc gia Nhật Bản vs Brazil - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Bóng đá Quốc gia Nhật Bản vs Brazil | 14/11 17:15 | ColaTV | Live
+https://live05.wecile.app/live/78905744.m3u8
+#EXTINF:-1 tvg-id="mhd-match-oj7x9im1d6xf47g" tvg-name="Đội tuyển Bóng đá Quốc gia Nhật Bản vs Brazil - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Bóng đá Quốc gia Nhật Bản vs Brazil | 14/11 17:15 | ColaTV | Live
+https://live05.yefpwmc.app/live/78905744_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-oj7x9im1d6xf47g" tvg-name="Đội tuyển Bóng đá Quốc gia Nhật Bản vs Brazil - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đội tuyển Bóng đá Quốc gia Nhật Bản vs Brazil | 14/11 17:15 | ColaTV | Live
+https://live05.wecile.app/live/78905744.flv
+#EXTINF:-1 tvg-id="mhd-match-g6763ipvdl1co7r" tvg-name="Trung Quốc U19 vs Tajikistan U19 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/9094b320d7a7e099aa582e802c594276.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Trung Quốc U19 vs Tajikistan U19 | 14/11 18:35 | ColaTV | Live
+https://live05.wecile.app/live/18812304.m3u8
+#EXTINF:-1 tvg-id="mhd-match-g6763ipvdl1co7r" tvg-name="Trung Quốc U19 vs Tajikistan U19 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/9094b320d7a7e099aa582e802c594276.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Trung Quốc U19 vs Tajikistan U19 | 14/11 18:35 | ColaTV | Live
+https://live05.yefpwmc.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-g6763ipvdl1co7r" tvg-name="Trung Quốc U19 vs Tajikistan U19 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/9094b320d7a7e099aa582e802c594276.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Trung Quốc U19 vs Tajikistan U19 | 14/11 18:35 | ColaTV | Live
+https://live05.wecile.app/live/18812304.flv
+#EXTINF:-1 tvg-id="mhd-match-zrkn6i1m24ntwql" tvg-name="Đài Bắc Trung Hoa vs Cộng hoà Kyrgyzstan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đài Bắc Trung Hoa vs Cộng hoà Kyrgyzstan | 14/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/75748097.m3u8
+#EXTINF:-1 tvg-id="mhd-match-zrkn6i1m24ntwql" tvg-name="Đài Bắc Trung Hoa vs Cộng hoà Kyrgyzstan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đài Bắc Trung Hoa vs Cộng hoà Kyrgyzstan | 14/11 19:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-zrkn6i1m24ntwql" tvg-name="Đài Bắc Trung Hoa vs Cộng hoà Kyrgyzstan - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Đài Bắc Trung Hoa vs Cộng hoà Kyrgyzstan | 14/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/75748097.flv
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0or62u4qn" tvg-name="Việt Nam U23 vs Qatar U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Việt Nam U23 vs Qatar U23 | 14/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/08552895.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0or62u4qn" tvg-name="Việt Nam U23 vs Qatar U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Việt Nam U23 vs Qatar U23 | 14/11 19:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0or62u4qn" tvg-name="Việt Nam U23 vs Qatar U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Việt Nam U23 vs Qatar U23 | 14/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/07428422.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0or62u4qn" tvg-name="Việt Nam U23 vs Qatar U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Việt Nam U23 vs Qatar U23 | 14/11 19:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0or62u4qn" tvg-name="Việt Nam U23 vs Qatar U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Việt Nam U23 vs Qatar U23 | 14/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/08552895.flv
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0or62u4qn" tvg-name="Việt Nam U23 vs Qatar U23 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Việt Nam U23 vs Qatar U23 | 14/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/07428422.flv
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0o68vc4qn" tvg-name="CLB Al Dhafra vs Ajman - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",CLB Al Dhafra vs Ajman | 14/11 19:50 | ColaTV | Live
+https://live05.wecile.app/live/97885009.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0o68vc4qn" tvg-name="CLB Al Dhafra vs Ajman - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",CLB Al Dhafra vs Ajman | 14/11 19:50 | ColaTV | Live
+https://live05.yefpwmc.app/live/97885009_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vrqwni0o68vc4qn" tvg-name="CLB Al Dhafra vs Ajman - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",CLB Al Dhafra vs Ajman | 14/11 19:50 | ColaTV | Live
+https://live05.wecile.app/live/97885009.flv
+#EXTINF:-1 tvg-id="mhd-match-o17pjiojl58by7j" tvg-name="Neftchi Fargona vs CLB Kuruvchi Bunyodkor - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Neftchi Fargona vs CLB Kuruvchi Bunyodkor | 14/11 20:00 | ColaTV | Live
+https://live05.wecile.app/live/33860426.m3u8
+#EXTINF:-1 tvg-id="mhd-match-o17pjiojl58by7j" tvg-name="Neftchi Fargona vs CLB Kuruvchi Bunyodkor - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Neftchi Fargona vs CLB Kuruvchi Bunyodkor | 14/11 20:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-o17pjiojl58by7j" tvg-name="Neftchi Fargona vs CLB Kuruvchi Bunyodkor - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Neftchi Fargona vs CLB Kuruvchi Bunyodkor | 14/11 20:00 | ColaTV | Live
+https://live05.wecile.app/live/33860426.flv
+#EXTINF:-1 tvg-id="mhd-match-oj7x9ixog8ec47g" tvg-name="Uganda vs Botswana - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Uganda vs Botswana | 14/11 23:00 | ColaTV | Live
+https://live05.wecile.app/live/16226575.m3u8
+#EXTINF:-1 tvg-id="mhd-match-oj7x9ixog8ec47g" tvg-name="Uganda vs Botswana - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Uganda vs Botswana | 14/11 23:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-oj7x9ixog8ec47g" tvg-name="Uganda vs Botswana - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL",Uganda vs Botswana | 14/11 23:00 | ColaTV | Live
+https://live05.wecile.app/live/16226575.flv
+#EXTINF:-1 tvg-id="mhd-match-1l4rjnh9nowpm7v" tvg-name="Kosovo vs Israel - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohke43q1zp/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Kosovo vs Israel | 14/11 21:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/ea3524b2198ba598190f00cc86f2d257/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-23xmvkh675o8qg8" tvg-name="Puerto Rico vs Dominica - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3p9gql07/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Puerto Rico vs Dominica | 14/11 02:00 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/77ce4f2945813413800ad53bb60721ad/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-23xmvkhy36ynqg8" tvg-name="Calor de San Pedro vs Real Apodaca FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh40pkr1ge/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Calor de San Pedro vs Real Apodaca FC | 14/11 04:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/e1e04f28fdb200c215e91ababa4cb891/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-23xmvkh6y1n2qg8" tvg-name="Scotland vs Bắc Macedonia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh4kkrepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Scotland vs Bắc Macedonia | 14/11 02:45 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/0a852d36e369ff141b118d8f8a39cb2a/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-3glrw7h4wln6qdy" tvg-name="Argentina vs Uruguay - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh868q1zp/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Argentina vs Uruguay | 14/11 06:00 | Phá Làng TV | HD1
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/ba8023dd3feda5ab6c5d25447a9f9bf6/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-23xmvkhy3g5vqg8" tvg-name="Deportivo Lara vs Zamora FC Barinas B - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl8z8qwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Deportivo Lara vs Zamora FC Barinas B | 14/11 02:00 | Phá Làng TV | Live
+https://pull.digitalcdn.net/live/a429a9ae97de4b9aaa64078d17adc7fb/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-3glrw7h4wln6qdy" tvg-name="Argentina vs Uruguay - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh868q1zp/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Argentina vs Uruguay | 14/11 06:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/f9362d3fde37005e3f003ebfd64cb4ce/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zhv372zql0" tvg-name="Costa Rica U19(w) vs Guatemala U19(w) - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhv2x8ryk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Costa Rica U19(w) vs Guatemala U19(w) | 14/11 03:00 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/0744b783d49350766ea3bb8fe913489b/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4jwq2ghn3og9m0v" tvg-name="Nữ Manchester Utd vs Nữ Crystal Palace - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhyxl9repz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nữ Manchester Utd vs Nữ Crystal Palace | 14/11 19:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/8df81799e40da7aeddc9452156d71425/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zhv3e6oql0" tvg-name="Halcones Zuniga SC vs Aztecas AMF Soccer - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h4l33qo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Halcones Zuniga SC vs Aztecas AMF Soccer | 13/11 23:00 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/4b624c3aafcde57f904da8affddae1bf/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4wyrn4hy8553q86" tvg-name="Nữ Lexington SC vs Nữ Fort Lauderdale Utd - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whg0g8ryox/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nữ Lexington SC vs Nữ Fort Lauderdale Utd | 14/11 07:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/18131f2879bb3892389f90aa37742210/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-318q66hx8y5lqo9" tvg-name="Liechtenstein vs Azerbaijan - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghd4kr6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Liechtenstein vs Azerbaijan | 14/11 02:45 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/1de5a466fd5b81d8dfaa96ec012e949b/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-dj2ryoh7v4j1q1z" tvg-name="Colombia vs Chile - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5y7qdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Colombia vs Chile | 14/11 07:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/15d6be224883db470ccb132bbec6758a/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3glrw7hnd8l7qdy" tvg-name="Cabo Verde vs Liberia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Cabo Verde vs Liberia | 13/11 23:00 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/0e9807566fbeda1e47d7a55ee171078b/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-l5ergphko73pr8k" tvg-name="French Saint Martin vs El Salvador - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe35kmoep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",French Saint Martin vs El Salvador | 14/11 06:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/f60f07f34f9a7598b9ff4cbedc2777c8/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4jwq2ghg4gd1m0v" tvg-name="Kuwait vs Syria - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whk855ryox/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Kuwait vs Syria | 13/11 23:30 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/2d3d49060b84aaa286679e6642d0c200/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-l7oqdehjn96dr51" tvg-name="Montserrat vs Nicaragua - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2wo6qvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Montserrat vs Nicaragua | 14/11 07:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/f4332e8cff7f861140cb8e222954f076/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4jwq2ghngy3jm0v" tvg-name="Slovakia vs Faroe Islands - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66h916qo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Slovakia vs Faroe Islands | 14/11 02:45 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/ba29b5ebe4c2ef9b865972fb9aa279bf/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-vjxm8ghk42ewr6o" tvg-name="Ecuador vs Costa Rica - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h2z5qdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ecuador vs Costa Rica | 14/11 07:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/031e3101c06896599f17e8ee2d0e3043/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4jwq2ghnl212m0v" tvg-name="Nigeria vs Tanzania - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhlo0ql07/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nigeria vs Tanzania | 13/11 23:00 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/06204bb7419ec28303805fe0a6838f0a/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-x7lm7phxk5j3m2w" tvg-name="Peru vs Bolivia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1gh6kkmoep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Peru vs Bolivia | 14/11 08:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/9b1e55c491b8fee7fc2fcb9572181679/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4wyrn4h6n2l1q86" tvg-name="Leganes vs Burgos CF - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh663r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Leganes vs Burgos CF | 14/11 02:30 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/20ece04249a85162dfbab82c3961589b/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-zp5rzghgly30q82" tvg-name="Nữ Chelsea vs Nữ Manchester City - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66hlo5qo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nữ Chelsea vs Nữ Manchester City | 14/11 20:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/cd7e9d5e12e340ab765e3a896aa076df/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-6ypq3nhk04v4md7" tvg-name="Pháp U21 vs Italy U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd3wm0ve/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Pháp U21 vs Italy U21 | 14/11 00:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/39e61e248c6f76f25e41ae34e318f85b/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-6ypq3nhk0kzlmd7" tvg-name="Nữ Racing Club vs Nữ CA Independiente - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhz429m7vx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nữ Racing Club vs Nữ CA Independiente | 14/11 03:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/9d427a87ed292339742aff6fed8d1013/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-6ypq3nhvd267md7" tvg-name="Triglav Kranj vs ND Bilje - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn6k8r510/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Triglav Kranj vs ND Bilje | 13/11 23:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/8e50902d471bc4abb291b41504f7575d/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-6ypq3nhvj6zemd7" tvg-name="FK Dubocica vs Proleter 023 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghn2y1moep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",FK Dubocica vs Proleter 023 | 13/11 23:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/d439229442aec9a6f587ca41ef7f15b3/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-965mkyh87891r1g" tvg-name="Tây Ban Nha U21 vs Japan U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hozvvqo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Tây Ban Nha U21 vs Japan U21 | 14/11 01:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/b52a4ce400ce7c9dbed8b4eee511b25e/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-965mkyh878dkr1g" tvg-name="Thổ Nhĩ Kỳ U21 vs CH Séc U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4vn3moep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Thổ Nhĩ Kỳ U21 vs CH Séc U21 | 13/11 23:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/4d9e6da9740182c063a22dd412c09bbe/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-965mkyhk8d6vr1g" tvg-name="Luxembourg vs Estonia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkl5qwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Luxembourg vs Estonia | 14/11 02:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/97f66766462e698e39a68620d4e3009f/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-965mkyhkd6kor1g" tvg-name="Nữ Hamburger SV vs 1.FSV Mainz 05Women(w) - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehnd0vr510/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nữ Hamburger SV vs 1.FSV Mainz 05Women(w) | 14/11 00:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/e22a5fce1951aa66b7f48d9abcfbe625/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-965mkyhkj8k9r1g" tvg-name="Ba Lan U20 vs Đức U20 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn2d2r510/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ba Lan U20 vs Đức U20 | 14/11 02:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/ab115f769a0d11584f315b74f108f961/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dj2ryoh7kpwgq1z" tvg-name="Panama U19(w) vs El Salvador U19(w) - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghx25zr6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Panama U19(w) vs El Salvador U19(w) | 14/11 03:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/277d1c9bf7ff3f43c9d3b9a295bba894/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dn1m1ghlwe06moe" tvg-name="Latina Calcio 1932 vs Campobasso - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh400pmoep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Latina Calcio 1932 vs Campobasso | 14/11 02:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/ec299899f061bc6b796e3fc0df9849ee/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9wh5k5ldryo" tvg-name="Ba Lan U21 vs Na Uy U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phy3km2wd/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ba Lan U21 vs Na Uy U21 | 13/11 23:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/7b6b9c35feff1775b42d7c72b8457b3b/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9whw1ne3ryo" tvg-name="Ai Cập vs Malawi - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ai Cập vs Malawi | 14/11 02:00 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/01604229336745d7825662a00d2f856a/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9whw1ne3ryo" tvg-name="Ai Cập vs Malawi - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh84yq82w/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ai Cập vs Malawi | 14/11 02:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/9292b0121645e09d775054faf4752de5/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9whw5y3yryo" tvg-name="Moldova vs Kazakhstan - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhylpmd7o/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Moldova vs Kazakhstan | 14/11 00:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/9484ec52f0fcb5dcd1f5491f4c64c6fa/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ednm9whwn8kdryo" tvg-name="Znicz Pruszkow vs Sokol Kleczew - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergpho884r8k0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Znicz Pruszkow vs Sokol Kleczew | 14/11 00:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/97abffc297454c1cf9199780ddb54fcc/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09h5l65orz8" tvg-name="Albania U21 vs Luxembourg U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh9x8q82w/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Albania U21 vs Luxembourg U21 | 14/11 01:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/c00a8f7ede67796ad7564c731c7ec05c/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09hk8zpwrz8" tvg-name="Ma Rốc vs Niger - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh9nzmd7o/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Ma Rốc vs Niger | 14/11 03:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/cddcfa9b68284a2483a9a4b60c452e30/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-k82rekh2v2perep" tvg-name="Đan Mạch U21 vs Hà Lan U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9why66ryox/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Đan Mạch U21 vs Hà Lan U21 | 14/11 00:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/ae9a67239a1a7c170fae5f9a3d0c68fc/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-k82rekhg2p75rep" tvg-name="Andorra vs Gibraltar - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hg6omojx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Andorra vs Gibraltar | 14/11 02:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/4f3bdf54763b62154fbe4d1a80333c29/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-k82rekhglk8zrep" tvg-name="Nam Phi vs Kenya - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpwnm7vx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nam Phi vs Kenya | 13/11 23:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/120bca625172d1604d4ad7b67ee7752d/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergph4gzvlr8k" tvg-name="Nữ Nantes vs Lens(w) - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh4pypqwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Nữ Nantes vs Lens(w) | 14/11 01:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/3e1090e48cb27d6090443128598f5da3/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergphkolk1r8k" tvg-name="Đức U21 vs Bỉ U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h25zmojx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Đức U21 vs Bỉ U21 | 14/11 00:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/69f3d55e7b602d317bde813f633da12f/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l7oqdehg5nwer51" tvg-name="A.C. Ospitaletto vs AC Dolomiti Bellunesi - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhv9d4ryk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",A.C. Ospitaletto vs AC Dolomiti Bellunesi | 14/11 02:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/8d928cb4ba196f6cf2bc57f183e06ab5/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-n54qllhn4go4qvy" tvg-name="Serbia vs Đức - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd7prepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/cdff319e281140a99549d50424f74bc2/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-n54qllhn4go4qvy" tvg-name="Serbia vs Đức - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhd7prepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Serbia vs Đức | 14/11 02:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/f1fcec689269dcd7dae60a7a33b23fa2/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-pxwrxlhlg0yjryk" tvg-name="Tuzos Pachuca vs Santiago Tulantepec - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h4g5nq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Tuzos Pachuca vs Santiago Tulantepec | 14/11 00:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/36ffea7c85f37e1fadad0fe325140279/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-pxwrxlhyd42xryk" tvg-name="Tunisia vs Libya - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzgh8oxq82w/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Tunisia vs Libya | 13/11 23:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/a075c2060884c2a34a20714b0b89cc7b/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-vjxm8ghk47exr6o" tvg-name="Necaxa II vs Trinca de Mi Vida - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hng50rz84/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Necaxa II vs Trinca de Mi Vida | 14/11 00:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/468efdc521e80bc41e0030a111e2e33c/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-x7lm7phxk2jom2w" tvg-name="Mineros de Zacatecas II vs Pabellon FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h19vvqdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Mineros de Zacatecas II vs Pabellon FC | 14/11 00:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/6cf7b01f09a32e0b058a694f83060c28/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y0or5jh87p15qwz" tvg-name="Mali vs Rwanda - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh92omd7o/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Mali vs Rwanda | 14/11 02:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/143bb0b711d3a664a7a4f79137380906/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y0or5jh87ploqwz" tvg-name="Bermuda vs St. Lucia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhv80krepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Bermuda vs St. Lucia | 14/11 02:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/4b5dd1605c89e1d7c7708e7a2521c3c4/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y0or5jh89y28qwz" tvg-name="Hà Lan vs Hy Lạp - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzj5moep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Hà Lan vs Hy Lạp | 14/11 02:45 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/f05d321342694479b8dafdba59d3a05e/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y0or5jh89y28qwz" tvg-name="Hà Lan vs Hy Lạp - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghzj5moep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Hà Lan vs Hy Lạp | 14/11 02:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/b5152a8b32f8eeba5770fe47bc3cb83a/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y0or5jh9x7v8qwz" tvg-name="Salmantino vs Celta - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghgxy2r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Salmantino vs Celta | 14/11 03:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/836d9855dc00ccb9b6181a2ccf988886/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y39mp1h67l97moj" tvg-name="Burkina Faso vs Mauritania - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghelgq82w/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Burkina Faso vs Mauritania | 13/11 23:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/1805aa9ea9542cce6a4e495615572cd5/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y39mp1h6dg22moj" tvg-name="Bulgaria vs Iceland - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h5j7qdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Bulgaria vs Iceland | 14/11 02:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/8b9bc16092d19da394b88511831c1c34/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y39mp1hd3dgdmoj" tvg-name="Phần Lan U21 vs Ireland U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergphjzgr8k0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Phần Lan U21 vs Ireland U21 | 13/11 23:15 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/0560fb2303d33a4adcfd765a59eda4ba/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-zp5rzghg3vldq82" tvg-name="Slovenia vs Thụy Sĩ - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllholdqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Slovenia vs Thụy Sĩ | 14/11 02:45 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/93bcce3d73cb420eb9c53119c2086a92/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-zp5rzghg3vldq82" tvg-name="Slovenia vs Thụy Sĩ - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllholdqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL",Slovenia vs Thụy Sĩ | 14/11 02:45 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/c64b4dd11d13d5178b226c6644e8d33c/playlist.m3u8
+https://lilive1.eu.cc/live/690c4872e45f7597e0f25ac0fb6a80e1/playlist.m3u8
