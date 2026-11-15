@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mhd-match-3ef4b95294b4" tvg-name="Belarus vs Albania - Chuối Lá - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belarus vs Albania | 16/11 00:00 | Chuối Lá | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3ef4b95294b4" tvg-name="Belarus vs Albania - Chuối Lá - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belarus vs Albania | 16/11 00:00 | Chuối Lá | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3ef4b95294b4" tvg-name="Belarus vs Albania - Chuối Lá - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belarus vs Albania | 16/11 00:00 | Chuối Lá | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2320f001c40d" tvg-name="Finland vs San Marino - Chuối Nhỏ - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Finland vs San Marino | 16/11 00:00 | Chuối Nhỏ | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2320f001c40d" tvg-name="Finland vs San Marino - Chuối Nhỏ - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Finland vs San Marino | 16/11 00:00 | Chuối Nhỏ | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2320f001c40d" tvg-name="Finland vs San Marino - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Finland vs San Marino | 16/11 00:00 | Chuối Nhỏ | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-5ec8c2bedf3a" tvg-name="Eibar vs Cadiz - Chuối Lửa - HD1" tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Eibar vs Cadiz | 16/11 00:30 | Chuối Lửa | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
@@ -26,15 +8,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-5ec8c2bedf3a" tvg-name="Eibar vs Cadiz - Chuối Lửa - FHD" tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Eibar vs Cadiz | 16/11 00:30 | Chuối Lửa | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-45ae451b61cf" tvg-name="Granada CF vs Las Palmas - Chuối Kem - HD1" tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Granada CF vs Las Palmas | 15/11 22:15 | Chuối Kem | HD1
+#EXTINF:-1 tvg-id="mhd-match-3ef4b95294b4" tvg-name="Belarus vs Albania - Chuối Lá - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belarus vs Albania | 16/11 00:00 | Chuối Lá | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-45ae451b61cf" tvg-name="Granada CF vs Las Palmas - Chuối Kem - HD2" tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Granada CF vs Las Palmas | 15/11 22:15 | Chuối Kem | HD2
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-3ef4b95294b4" tvg-name="Belarus vs Albania - Chuối Lá - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belarus vs Albania | 16/11 00:00 | Chuối Lá | HD2
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-45ae451b61cf" tvg-name="Granada CF vs Las Palmas - Chuối Kem - FHD" tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Granada CF vs Las Palmas | 15/11 22:15 | Chuối Kem | FHD
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-3ef4b95294b4" tvg-name="Belarus vs Albania - Chuối Lá - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belarus vs Albania | 16/11 00:00 | Chuối Lá | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2f0dfd942f7f" tvg-name="France vs Türkiye - Chuối Chao - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",France vs Türkiye | 16/11 02:45 | Chuối Chao | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
@@ -53,6 +35,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-e34cbbd49d68" tvg-name="Belgium vs Italy - Trốc Tru - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Belgium vs Italy | 16/11 02:45 | Trốc Tru | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-900cb814ce96" tvg-name="Spain vs England - Chuối Nhỏ - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Spain vs England | 16/11 02:45 | Chuối Nhỏ | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-900cb814ce96" tvg-name="Spain vs England - Chuối Nhỏ - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Spain vs England | 16/11 02:45 | Chuối Nhỏ | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-900cb814ce96" tvg-name="Spain vs England - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Spain vs England | 16/11 02:45 | Chuối Nhỏ | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-48553822ebbd" tvg-name="Croatia vs Czech Republic - Chuối Già - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Croatia vs Czech Republic | 16/11 02:45 | Chuối Già | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
@@ -62,6 +53,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-48553822ebbd" tvg-name="Croatia vs Czech Republic - Chuối Già - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Croatia vs Czech Republic | 16/11 02:45 | Chuối Già | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-bff371da8e70" tvg-name="New Mexico United vs Sacramento Republic - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_112654_56ebae78.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",New Mexico United vs Sacramento Republic | 16/11 07:00 | Chuối Kem | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-bff371da8e70" tvg-name="New Mexico United vs Sacramento Republic - Chuối Kem - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_112654_56ebae78.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",New Mexico United vs Sacramento Republic | 16/11 07:00 | Chuối Kem | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-bff371da8e70" tvg-name="New Mexico United vs Sacramento Republic - Chuối Kem - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_112654_56ebae78.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",New Mexico United vs Sacramento Republic | 16/11 07:00 | Chuối Kem | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-fcb2a827c2de" tvg-name="Monterrey W vs Pachuca W - Chuối Tây - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Monterrey W vs Pachuca W | 16/11 08:00 | Chuối Tây | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -80,66 +80,8 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-0b51297eab24" tvg-name="Piratas FC vs América W - Chuối Sấy - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Piratas FC vs América W | 16/11 10:10 | Chuối Sấy | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi29dmni879" tvg-name="Al Jazira vs Bani Yas - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Al Jazira vs Bani Yas | 15/11 22:30 | ColaTV | Live
-https://live4.hztx2020.com/live/xvkjoi29dmni879_b8866b6455bbc2015b6b8b690b598529_autoChange.m3u8?auth_key=1794776785-0-0-d6e3f1c1fbecd1a829000fbb92f65147
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi29dmni879" tvg-name="Al Jazira vs Bani Yas - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Al Jazira vs Bani Yas | 15/11 22:30 | ColaTV | Live
-https://live05.wecile.app/live/07428422.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi29dmni879" tvg-name="Al Jazira vs Bani Yas - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Al Jazira vs Bani Yas | 15/11 22:30 | ColaTV | Live
-https://live05.yefpwmc.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi29dmni879" tvg-name="Al Jazira vs Bani Yas - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Al Jazira vs Bani Yas | 15/11 22:30 | ColaTV | Live
-https://live05.wecile.app/live/07428422.flv
-#EXTINF:-1 tvg-id="mhd-match-l6kegirzgx3sv75" tvg-name="Ittihad Kalba vs CLB Al Ahli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ittihad Kalba vs CLB Al Ahli | 15/11 22:30 | ColaTV | Live
-https://live3.hztx2020.com/live/l6kegirzgx3sv75_cd1145b5e340b6c0ed7db4a3dd6c043f_autoChange.m3u8?auth_key=1794776785-0-0-46bb7fc523b7507ec010a1af7b1e51b6
-#EXTINF:-1 tvg-id="mhd-match-l6kegirzgx3sv75" tvg-name="Ittihad Kalba vs CLB Al Ahli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ittihad Kalba vs CLB Al Ahli | 15/11 22:30 | ColaTV | Live
-https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l6kegirzgx3sv75" tvg-name="Ittihad Kalba vs CLB Al Ahli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ittihad Kalba vs CLB Al Ahli | 15/11 22:30 | ColaTV | Live
-https://live05.yefpwmc.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l6kegirzgx3sv75" tvg-name="Ittihad Kalba vs CLB Al Ahli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/b593ed5215075593a7c62f60d875c3aa.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ittihad Kalba vs CLB Al Ahli | 15/11 22:30 | ColaTV | Live
-https://live05.wecile.app/live/16226575.flv
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir3mjptz73" tvg-name="ĐTQG Phần Lan vs CLB San Marino - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",ĐTQG Phần Lan vs CLB San Marino | 16/11 00:00 | ColaTV | Live
-https://live.hztx2020.com/live/13590559_bb7f55dff7c4189ebd515077a7226777_autoChange.m3u8?auth_key=1794776785-0-0-6201edee2668bd99ac7bc4ed60c9d37f
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir3mjptz73" tvg-name="ĐTQG Phần Lan vs CLB San Marino - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",ĐTQG Phần Lan vs CLB San Marino | 16/11 00:00 | ColaTV | Live
-https://live05.wecile.app/live/14830711.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir3mjptz73" tvg-name="ĐTQG Phần Lan vs CLB San Marino - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",ĐTQG Phần Lan vs CLB San Marino | 16/11 00:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir3mjptz73" tvg-name="ĐTQG Phần Lan vs CLB San Marino - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",ĐTQG Phần Lan vs CLB San Marino | 16/11 00:00 | ColaTV | Live
-https://live05.wecile.app/live/14830711.flv
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw6o63hrkv" tvg-name="Penafiel vs Lusitania FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Penafiel vs Lusitania FC | 15/11 22:30 | ColaTV | Live
-https://live2.hztx2020.com/live/ndqmliw6o63hrkv_41bb7c528030f3465e94ce6d8ae02a5b_autoChange.m3u8?auth_key=1794776785-0-0-bf8f7bc9077d139c5431e09b0a91379e
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw6o63hrkv" tvg-name="Penafiel vs Lusitania FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Penafiel vs Lusitania FC | 15/11 22:30 | ColaTV | Live
-https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw6o63hrkv" tvg-name="Penafiel vs Lusitania FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Penafiel vs Lusitania FC | 15/11 22:30 | ColaTV | Live
-https://live05.yefpwmc.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-ndqmliw6o63hrkv" tvg-name="Penafiel vs Lusitania FC - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Penafiel vs Lusitania FC | 15/11 22:30 | ColaTV | Live
-https://live05.wecile.app/live/87547578.flv
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi84mzmb879" tvg-name="Ravenna vs Forli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ravenna vs Forli | 15/11 23:30 | ColaTV | Live
-https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi84mzmb879" tvg-name="Ravenna vs Forli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ravenna vs Forli | 15/11 23:30 | ColaTV | Live
-https://live05.yefpwmc.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi84mzmb879" tvg-name="Ravenna vs Forli - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Ravenna vs Forli | 15/11 23:30 | ColaTV | Live
-https://live05.wecile.app/live/08552895.flv
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir203yuz73" tvg-name="Arsenal Nữ vs London City Lionesses Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Arsenal Nữ vs London City Lionesses Nữ | 15/11 23:30 | ColaTV | Live
-https://live2.hztx2020.com/live/14248817_c657724f8062a92cf8134186c9ee7a29_autoChange.m3u8?auth_key=1794776784-0-0-af2fb67ba48d9b58e9060b74bf0f734a
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir203yuz73" tvg-name="Arsenal Nữ vs London City Lionesses Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Arsenal Nữ vs London City Lionesses Nữ | 15/11 23:30 | ColaTV | Live
-https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir203yuz73" tvg-name="Arsenal Nữ vs London City Lionesses Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Arsenal Nữ vs London City Lionesses Nữ | 15/11 23:30 | ColaTV | Live
-https://live05.yefpwmc.app/live/33860426_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8lk2dir203yuz73" tvg-name="Arsenal Nữ vs London City Lionesses Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Arsenal Nữ vs London City Lionesses Nữ | 15/11 23:30 | ColaTV | Live
-https://live05.wecile.app/live/33860426.flv
-#EXTINF:-1 tvg-id="mhd-match-g6763i5xvjwto7r" tvg-name="CLB Cittadella vs CLB US Folgore Caratese - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Cittadella vs CLB US Folgore Caratese | 15/11 23:30 | ColaTV | Live
-https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 tvg-id="mhd-match-g6763i5xvjwto7r" tvg-name="CLB Cittadella vs CLB US Folgore Caratese - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Cittadella vs CLB US Folgore Caratese | 15/11 23:30 | ColaTV | Live
-https://live05.yefpwmc.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-g6763i5xvjwto7r" tvg-name="CLB Cittadella vs CLB US Folgore Caratese - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/ed94e6389456957de772c629b5338ac9.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Cittadella vs CLB US Folgore Caratese | 15/11 23:30 | ColaTV | Live
-https://live05.wecile.app/live/18812304.flv
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6n1lcx7e" tvg-name="Belarus vs Đội tuyển QG Albania - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Belarus vs Đội tuyển QG Albania | 16/11 00:00 | ColaTV | Live
-https://live5.hztx2020.com/live/13590560_5187a6fe4c77b18ab6a10663c7196bba_autoChange.m3u8?auth_key=1794776785-0-0-feaf4123d3e8f6311f25101e3e190b33
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6n1lcx7e" tvg-name="Belarus vs Đội tuyển QG Albania - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Belarus vs Đội tuyển QG Albania | 16/11 00:00 | ColaTV | Live
-https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6n1lcx7e" tvg-name="Belarus vs Đội tuyển QG Albania - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Belarus vs Đội tuyển QG Albania | 16/11 00:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-63kv9ig6n1lcx7e" tvg-name="Belarus vs Đội tuyển QG Albania - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Belarus vs Đội tuyển QG Albania | 16/11 00:00 | ColaTV | Live
-https://live05.wecile.app/live/75915087.flv
+#EXTINF:-1 tvg-id="mhd-match-ndqmliwvg89srkv" tvg-name="CLB Eibar vs Cadiz CF - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Eibar vs Cadiz CF | 16/11 00:30 | ColaTV | Live
+https://live4.hztx2020.com/live/14091291_776cc9d1b474a567d0f4bdefe5526652_autoChange.m3u8?auth_key=1794783087-0-0-d4dc9c6bdde987141eb139dcc5217087
 #EXTINF:-1 tvg-id="mhd-match-ndqmliwvg89srkv" tvg-name="CLB Eibar vs Cadiz CF - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Eibar vs Cadiz CF | 16/11 00:30 | ColaTV | Live
 https://live05.wecile.app/live/97885009.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndqmliwvg89srkv" tvg-name="CLB Eibar vs Cadiz CF - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Eibar vs Cadiz CF | 16/11 00:30 | ColaTV | Live
@@ -147,11 +89,15 @@ https://live05.yefpwmc.app/live/97885009_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndqmliwvg89srkv" tvg-name="CLB Eibar vs Cadiz CF - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Eibar vs Cadiz CF | 16/11 00:30 | ColaTV | Live
 https://live05.wecile.app/live/97885009.flv
 #EXTINF:-1 tvg-id="mhd-match-j374oi0mw36sgqo" tvg-name="Eldense vs CLB Sabadell - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Eldense vs CLB Sabadell | 16/11 00:30 | ColaTV | Live
+https://live3.hztx2020.com/live/14091292_65c51db25f98558f57f2e89886cc3500_autoChange.m3u8?auth_key=1794783087-0-0-c27df97863907b7804a70709f433829e
+#EXTINF:-1 tvg-id="mhd-match-j374oi0mw36sgqo" tvg-name="Eldense vs CLB Sabadell - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Eldense vs CLB Sabadell | 16/11 00:30 | ColaTV | Live
 https://live05.wecile.app/live/78905744.m3u8
 #EXTINF:-1 tvg-id="mhd-match-j374oi0mw36sgqo" tvg-name="Eldense vs CLB Sabadell - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Eldense vs CLB Sabadell | 16/11 00:30 | ColaTV | Live
 https://live05.yefpwmc.app/live/78905744_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-j374oi0mw36sgqo" tvg-name="Eldense vs CLB Sabadell - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Eldense vs CLB Sabadell | 16/11 00:30 | ColaTV | Live
 https://live05.wecile.app/live/78905744.flv
+#EXTINF:-1 tvg-id="mhd-match-vrqwni4pnp3i4qn" tvg-name="Leixoes S.C. vs Chaves - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Leixoes S.C. vs Chaves | 16/11 01:00 | ColaTV | Live
+https://live.hztx2020.com/live/14103264_39129b43b2801971fbf05a6b3bd14f69_autoChange.m3u8?auth_key=1794783087-0-0-b577f9243c83549705d25481418c9cf3
 #EXTINF:-1 tvg-id="mhd-match-vrqwni4pnp3i4qn" tvg-name="Leixoes S.C. vs Chaves - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Leixoes S.C. vs Chaves | 16/11 01:00 | ColaTV | Live
 https://live05.wecile.app/live/88508431.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vrqwni4pnp3i4qn" tvg-name="Leixoes S.C. vs Chaves - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Leixoes S.C. vs Chaves | 16/11 01:00 | ColaTV | Live
@@ -159,23 +105,53 @@ https://live05.yefpwmc.app/live/88508431_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vrqwni4pnp3i4qn" tvg-name="Leixoes S.C. vs Chaves - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a725e20ce8fe99d067b01c91abd88e43.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Leixoes S.C. vs Chaves | 16/11 01:00 | ColaTV | Live
 https://live05.wecile.app/live/88508431.flv
 #EXTINF:-1 tvg-id="mhd-match-jr7owip8dywagq0" tvg-name="Comerciantes Unidos vs Sport Boys - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/c34077b7ac3592e339bd375e72fe441b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Comerciantes Unidos vs Sport Boys | 16/11 01:00 | ColaTV | Live
+https://live1.hztx2020.com/live/13973791_993b0ecb39591686946b92ff4e568c46_autoChange.m3u8?auth_key=1794783087-0-0-e81eb217173394e982e05205af189047
+#EXTINF:-1 tvg-id="mhd-match-jr7owip8dywagq0" tvg-name="Comerciantes Unidos vs Sport Boys - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/c34077b7ac3592e339bd375e72fe441b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Comerciantes Unidos vs Sport Boys | 16/11 01:00 | ColaTV | Live
 https://live05.wecile.app/live/14707124.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jr7owip8dywagq0" tvg-name="Comerciantes Unidos vs Sport Boys - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/c34077b7ac3592e339bd375e72fe441b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Comerciantes Unidos vs Sport Boys | 16/11 01:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/14707124_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jr7owip8dywagq0" tvg-name="Comerciantes Unidos vs Sport Boys - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/c34077b7ac3592e339bd375e72fe441b.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Comerciantes Unidos vs Sport Boys | 16/11 01:00 | ColaTV | Live
 https://live05.wecile.app/live/14707124.flv
 #EXTINF:-1 tvg-id="mhd-match-wv784sx4e90aoqr" tvg-name="Philadelphia 76ers vs Indiana Pacers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Philadelphia 76ers vs Indiana Pacers | 16/11 01:00 | ColaTV | Live
+https://live2.hztx2020.com/live/14315877_75b32faf530a42231076e87921479ba7_autoChange.m3u8?auth_key=1794783087-0-0-349b0a34b003161c41d4fb383d6d7288
+#EXTINF:-1 tvg-id="mhd-match-wv784sx4e90aoqr" tvg-name="Philadelphia 76ers vs Indiana Pacers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Philadelphia 76ers vs Indiana Pacers | 16/11 01:00 | ColaTV | Live
 https://live05.wecile.app/live/56998120.m3u8
 #EXTINF:-1 tvg-id="mhd-match-wv784sx4e90aoqr" tvg-name="Philadelphia 76ers vs Indiana Pacers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Philadelphia 76ers vs Indiana Pacers | 16/11 01:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/56998120_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-wv784sx4e90aoqr" tvg-name="Philadelphia 76ers vs Indiana Pacers - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Philadelphia 76ers vs Indiana Pacers | 16/11 01:00 | ColaTV | Live
 https://live05.wecile.app/live/56998120.flv
+#EXTINF:-1 tvg-id="mhd-match-m2q15i828ddfe76" tvg-name="CLB Leones Univ Guadalajara vs Atl. Morelia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/55f09f44c319763fd155d3d68895f405.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Leones Univ Guadalajara vs Atl. Morelia | 16/11 01:00 | ColaTV | Live
+https://live2.hztx2020.com/live/14669831_f3b42d5424660acca5a8c97f0e2c855f_autoChange.m3u8?auth_key=1794783087-0-0-c4261c6f9f1a78acdd2ba8ef2333a4e8
+#EXTINF:-1 tvg-id="mhd-match-m2q15i828ddfe76" tvg-name="CLB Leones Univ Guadalajara vs Atl. Morelia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/55f09f44c319763fd155d3d68895f405.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Leones Univ Guadalajara vs Atl. Morelia | 16/11 01:00 | ColaTV | Live
+https://live05.wecile.app/live/87547578.m3u8
+#EXTINF:-1 tvg-id="mhd-match-m2q15i828ddfe76" tvg-name="CLB Leones Univ Guadalajara vs Atl. Morelia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/55f09f44c319763fd155d3d68895f405.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Leones Univ Guadalajara vs Atl. Morelia | 16/11 01:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-m2q15i828ddfe76" tvg-name="CLB Leones Univ Guadalajara vs Atl. Morelia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/55f09f44c319763fd155d3d68895f405.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",CLB Leones Univ Guadalajara vs Atl. Morelia | 16/11 01:00 | ColaTV | Live
+https://live05.wecile.app/live/87547578.flv
 #EXTINF:-1 tvg-id="mhd-match-69759ir3ldmsgk2" tvg-name="Danubio FC vs Liverpool M - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Danubio FC vs Liverpool M | 16/11 02:30 | ColaTV | Live
 https://live05.wecile.app/live/07808742.m3u8
 #EXTINF:-1 tvg-id="mhd-match-69759ir3ldmsgk2" tvg-name="Danubio FC vs Liverpool M - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Danubio FC vs Liverpool M | 16/11 02:30 | ColaTV | Live
 https://live05.yefpwmc.app/live/07808742_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-69759ir3ldmsgk2" tvg-name="Danubio FC vs Liverpool M - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Danubio FC vs Liverpool M | 16/11 02:30 | ColaTV | Live
 https://live05.wecile.app/live/07808742.flv
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/08552895.m3u8
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.yefpwmc.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/07428422.m3u8
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.yefpwmc.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/14830711.m3u8
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.yefpwmc.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/08552895.flv
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/07428422.flv
+#EXTINF:-1 tvg-id="mhd-match-69759igr9odfgk2" tvg-name="Tây Ban Nha vs ĐTQG Anh - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tây Ban Nha vs ĐTQG Anh | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/14830711.flv
 #EXTINF:-1 tvg-id="mhd-match-wv78xiv190vtokr" tvg-name="Pháp vs Thổ nhĩ kỳ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Pháp vs Thổ nhĩ kỳ | 16/11 02:45 | ColaTV | Live
 https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 tvg-id="mhd-match-wv78xiv190vtokr" tvg-name="Pháp vs Thổ nhĩ kỳ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Pháp vs Thổ nhĩ kỳ | 16/11 02:45 | ColaTV | Live
@@ -188,6 +164,12 @@ https://live05.yefpwmc.app/live/75748097_tsc.m3u8
 https://live05.wecile.app/live/33982309.flv
 #EXTINF:-1 tvg-id="mhd-match-wv78xiv190vtokr" tvg-name="Pháp vs Thổ nhĩ kỳ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Pháp vs Thổ nhĩ kỳ | 16/11 02:45 | ColaTV | Live
 https://live05.wecile.app/live/75748097.flv
+#EXTINF:-1 tvg-id="mhd-match-34kgmiog8r4feko" tvg-name="Croatia vs Cộng hòa Séc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Croatia vs Cộng hòa Séc | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/33860426.m3u8
+#EXTINF:-1 tvg-id="mhd-match-34kgmiog8r4feko" tvg-name="Croatia vs Cộng hòa Séc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Croatia vs Cộng hòa Séc | 16/11 02:45 | ColaTV | Live
+https://live05.yefpwmc.app/live/33860426_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-34kgmiog8r4feko" tvg-name="Croatia vs Cộng hòa Séc - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/245bff452fbdc34d417164e361097ae7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Croatia vs Cộng hòa Séc | 16/11 02:45 | ColaTV | Live
+https://live05.wecile.app/live/33860426.flv
 #EXTINF:-1 tvg-id="mhd-match-j374oi410g3agqo" tvg-name="Yumbo FC vs CLB Envigado - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yumbo FC vs CLB Envigado | 16/11 04:00 | ColaTV | Live
 https://live05.wecile.app/live/99121525.m3u8
 #EXTINF:-1 tvg-id="mhd-match-j374oi410g3agqo" tvg-name="Yumbo FC vs CLB Envigado - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yumbo FC vs CLB Envigado | 16/11 04:00 | ColaTV | Live
@@ -218,6 +200,12 @@ https://live05.wecile.app/live/89756030.m3u8
 https://live05.yefpwmc.app/live/89756030_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-63kvlsop2p4bx7e" tvg-name="Toronto Raptors vs New York Knicks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Toronto Raptors vs New York Knicks | 16/11 06:00 | ColaTV | Live
 https://live05.wecile.app/live/89756030.flv
+#EXTINF:-1 tvg-id="mhd-match-8lk2di3gxwjiz73" tvg-name="Defensor Sp vs CA Penarol - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Defensor Sp vs CA Penarol | 16/11 06:00 | ColaTV | Live
+https://live05.wecile.app/live/18812304.m3u8
+#EXTINF:-1 tvg-id="mhd-match-8lk2di3gxwjiz73" tvg-name="Defensor Sp vs CA Penarol - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Defensor Sp vs CA Penarol | 16/11 06:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-8lk2di3gxwjiz73" tvg-name="Defensor Sp vs CA Penarol - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Defensor Sp vs CA Penarol | 16/11 06:00 | ColaTV | Live
+https://live05.wecile.app/live/18812304.flv
 #EXTINF:-1 tvg-id="mhd-match-l6kegirzmjgbv75" tvg-name="Panama vs Curacao - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Panama vs Curacao | 16/11 06:00 | ColaTV | Live
 https://live05.wecile.app/live/59444581.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l6kegirzmjgbv75" tvg-name="Panama vs Curacao - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Panama vs Curacao | 16/11 06:00 | ColaTV | Live
@@ -236,15 +224,24 @@ https://live05.wecile.app/live/87379114.m3u8
 https://live05.yefpwmc.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
 https://live05.wecile.app/live/87379114.flv
+#EXTINF:-1 tvg-id="mhd-match-jr7owip0xj1bgq0" tvg-name="Graficar Beograd vs Câu lạc bộ bóng đá Vozdovac - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/eeff411759fcef3be14861e55069675c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Graficar Beograd vs Câu lạc bộ bóng đá Vozdovac | 16/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/75915087.m3u8
+#EXTINF:-1 tvg-id="mhd-match-jr7owip0xj1bgq0" tvg-name="Graficar Beograd vs Câu lạc bộ bóng đá Vozdovac - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/eeff411759fcef3be14861e55069675c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Graficar Beograd vs Câu lạc bộ bóng đá Vozdovac | 16/11 19:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-jr7owip0xj1bgq0" tvg-name="Graficar Beograd vs Câu lạc bộ bóng đá Vozdovac - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/eeff411759fcef3be14861e55069675c.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Graficar Beograd vs Câu lạc bộ bóng đá Vozdovac | 16/11 19:00 | ColaTV | Live
+https://live05.wecile.app/live/75915087.flv
 #EXTINF:-1 tvg-id="mhd-match-ndqmli94grdbrkv" tvg-name="Tunisia U17 vs Ma Rốc U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tunisia U17 vs Ma Rốc U17 | 16/11 20:00 | ColaTV | Live
 https://live05.wecile.app/live/02456966.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndqmli94grdbrkv" tvg-name="Tunisia U17 vs Ma Rốc U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tunisia U17 vs Ma Rốc U17 | 16/11 20:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/02456966_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndqmli94grdbrkv" tvg-name="Tunisia U17 vs Ma Rốc U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/56e74a0ff4b7dac6763a73bac11c7f34.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Tunisia U17 vs Ma Rốc U17 | 16/11 20:00 | ColaTV | Live
 https://live05.wecile.app/live/02456966.flv
-#EXTINF:-1 tvg-id="mhd-match-1l4rjnh9no8pm7v" tvg-name="Phần Lan vs San Marino - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoz9r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Phần Lan vs San Marino | 16/11 00:00 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/c76f7f60bf264638893e31c3128bf288/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-ndqmliwr9w6irkv" tvg-name="Bồ Đào Nha U20 vs Anh U20 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Bồ Đào Nha U20 vs Anh U20 | 16/11 23:00 | ColaTV | Live
+https://live05.wecile.app/live/16226575.m3u8
+#EXTINF:-1 tvg-id="mhd-match-ndqmliwr9w6irkv" tvg-name="Bồ Đào Nha U20 vs Anh U20 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Bồ Đào Nha U20 vs Anh U20 | 16/11 23:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-ndqmliwr9w6irkv" tvg-name="Bồ Đào Nha U20 vs Anh U20 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Bồ Đào Nha U20 vs Anh U20 | 16/11 23:00 | ColaTV | Live
+https://live05.wecile.app/live/16226575.flv
 #EXTINF:-1 tvg-id="mhd-match-1l4rjnh9no8pm7v" tvg-name="Phần Lan vs San Marino - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghoz9r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Phần Lan vs San Marino | 16/11 00:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/3e38b3939950a5afa633390fd6ec939e/playlist.m3u8
@@ -254,22 +251,10 @@ https://lilive1.eu.cc/live/00431f3d782e544c7955473dda98fd20/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-23xmvkh6y1e2qg8" tvg-name="Croatia vs CH Séc - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryohoj7q1zp/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Croatia vs CH Séc | 16/11 02:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/94758f869e85f3dd55b4f8c6b1d8b013/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zh5kgjoql0" tvg-name="Cavese vs Crotone - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh4xevm0ve/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Cavese vs Crotone | 15/11 20:30 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-318q66hxp2g1qo9" tvg-name="Eldense vs Sabadell - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh49e0r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Eldense vs Sabadell | 16/11 00:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/028ed22aec320cda6ef4e9b72bbddf3b/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zhv37j8ql0" tvg-name="Zenit StPetersburg vs Trabzonspor - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnhpnxm7vx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Zenit StPetersburg vs Trabzonspor | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/612071119e9c6681d2a95cb31a8f3c2b/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-318q66hx50g9qo9" tvg-name="Guidonia vs AS Ostia Mare - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3y3pqg8n/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Guidonia vs AS Ostia Mare | 15/11 20:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/9ad17870ad24216b48d0a812e17294ea/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-318q66hxezo6qo9" tvg-name="GKS Tychy vs Rekord Bielsko - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4ej4r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",GKS Tychy vs Rekord Bielsko | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/cb91ccf83f1aecbd2fe460d919f25e85/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-318q66hxyvywqo9" tvg-name="Portimonense vs Academica Coimbra - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekhlg0repz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Portimonense vs Academica Coimbra | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/cf8a6df63aa3004655c0049a14c3afd1/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3glrw7h4wg14qdy" tvg-name="New Mexico United vs Sacramento Republic - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh94p5repz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",New Mexico United vs Sacramento Republic | 17/11 07:00 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/09b45893c645c61be58b0e9802ce3b90/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-3glrw7h4wg14qdy" tvg-name="New Mexico United vs Sacramento Republic - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh94p5repz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",New Mexico United vs Sacramento Republic | 17/11 09:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/44ec194b9f8f960c3038ae3a19d64893/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-3glrw7h4wnngqdy" tvg-name="Nữ Monterrey vs Nữ Pachuca - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jheg51qwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Monterrey vs Nữ Pachuca | 16/11 08:00 | Phá Làng TV | Live
@@ -278,24 +263,15 @@ https://lilive1.eu.cc/live/021c03a44f2164a7ce48fe8b0716ec96/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-3glrw7hnd807qdy" tvg-name="Zimbabwe vs Guinea Xích Đạo - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh73wer1ge/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Zimbabwe vs Guinea Xích Đạo | 16/11 20:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/41398672c3ed295dce0aa283960be833/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3glrw7hnvjjkqdy" tvg-name="Salernitana vs Catania FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh684r1ge/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Salernitana vs Catania FC | 15/11 20:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/6f65286418cdf982707d89b4df463402/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4jwq2ghn3e0pm0v" tvg-name="Nữ Deportivo Coruna vs Nữ Barcelona - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh6k97r510/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Deportivo Coruna vs Nữ Barcelona | 16/11 00:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/fdfed4d08a4de6733f3ab4905fde2cee/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4jwq2ghngy8jm0v" tvg-name="Belarus vs Albania - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh62wqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Belarus vs Albania | 16/11 00:00 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/a37ee78bd34e4873bdb9cecb76813509/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4jwq2ghngy8jm0v" tvg-name="Belarus vs Albania - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllh62wqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Belarus vs Albania | 16/11 00:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/d608980cb6a600aa8c39d412451de4e2/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4wyrn4h6k8p4q86" tvg-name="JuventusU23 vs Treviso - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghj5j1r6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",JuventusU23 vs Treviso | 15/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/a6d16176d601dbc6ee143b657d878bdc/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4wyrn4h6kzkdq86" tvg-name="Nữ Nottingham Forest vs Nữ Leicester City - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvwxjrepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Nottingham Forest vs Nữ Leicester City | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/c3af81a13cff85587782f45ca0367189/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4wyrn4hy8l4dq86" tvg-name="ADR Jicaral vs Guadalupe - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4he3dxq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",ADR Jicaral vs Guadalupe | 16/11 00:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/b72efb4488812589885cd5afe2ce895c/playlist.m3u8
@@ -305,57 +281,30 @@ https://lilive1.eu.cc/live/87415644bdfc53c163a116a1170cf146/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-8yomo4h1d2kdq0j" tvg-name="Cosenza Calcio vs US Casertana 1908 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h89pdq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Cosenza Calcio vs US Casertana 1908 | 15/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/613414b9ae593ef48adf6b2c3f6edf00/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-c6401c301f8642dbad216cdc8007f41e" tvg-name="Scandicci Women vs UYBA Busto Arsizio Women - Phá Làng TV - HD1" tvg-logo="https://static.flashscore.com/res/image/data/0QZRMbg5-MuuCgGgG.png" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Scandicci Women vs UYBA Busto Arsizio Women | 15/11 23:00 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/6e71a46e074d4714a565010024d83573/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dj2ryoh7ke78q1z" tvg-name="Scotland U21 vs USA U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlh8x9ryk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Scotland U21 vs USA U21 | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/21f4be263b45bf03562e8ae657e47560/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-dj2ryohlzk65q1z" tvg-name="Us Pergolettese vs Pro Vercelli - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhex20qvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Us Pergolettese vs Pro Vercelli | 15/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/b93ffeb782a6995a36332cf9ae200aee/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dj2ryohlzyegq1z" tvg-name="Spezia vs FC Vado - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hy8prz84/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Spezia vs FC Vado | 15/11 20:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/9f2f5a464efb953f2da02957e26a6ee4/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-dn1m1ghlw4ynmoe" tvg-name="Cittadella vs US Folgore Caratese - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghzeor6od/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Cittadella vs US Folgore Caratese | 15/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/a1501e7f6234bbae98993bdb430bd415/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dn1m1ghlwvwemoe" tvg-name="Burnley(w) vs Nữ Southampton - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hv42jqo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Burnley(w) vs Nữ Southampton | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/e1f1b4a9164475d73893d71d67a178fd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-dn1m1ghlz70gmoe" tvg-name="Granada vs Las Palmas - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdp6ql07/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Granada vs Las Palmas | 15/11 22:15 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/d4e1b052ee6c6cda837d10e953df4d44/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09h5l1n0rz8" tvg-name="Al Jazira vs Baniyas Club - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgzperyk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Al Jazira vs Baniyas Club | 15/11 22:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/ed920a287bd20208ba0c98a85c06dd95/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09hko4owrz8" tvg-name="Nữ Watford vs Ipswich Town(w) - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwl30qdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Watford vs Ipswich Town(w) | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/bdbef95765898d695216a495a1a61773/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09hkon6nrz8" tvg-name="Ravenna vs Forli - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hw7jdqdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Ravenna vs Forli | 15/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/67b3ba0f279c3bfbc80be6e7c872eed8/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-k82rekhg46x2rep" tvg-name="Eibar vs Cadiz - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h84jmojx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Eibar vs Cadiz | 16/11 00:30 | Phá Làng TV | HD1
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://pull.digitalcdn.net/live/519c3164c9a44a9680e1288632be580f/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-k82rekhg7z22rep" tvg-name="Nữ Aston Villa vs Nữ Birmingham - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phkexem2wd/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Aston Villa vs Nữ Birmingham | 15/11 21:00 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-k82rekhg46x2rep" tvg-name="Eibar vs Cadiz - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h84jmojx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Eibar vs Cadiz | 16/11 00:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/811cbe40ea06cf514f6d2192b31540cb/playlist.m3u8
+https://lilive1.eu.cc/live/2b5c5287c0d04d394a162d934f0c7cd0/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-k82rekhgpyp0rep" tvg-name="Penafiel vs Lusitania - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4h15xq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Penafiel vs Lusitania | 15/11 22:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/304c4fe58a9c811fbefa3d005c13a9f5/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergph4909er8k" tvg-name="Nữ Sunderland vs Nữ Newcastle - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvyljrepz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Sunderland vs Nữ Newcastle | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/79faed20c02b60874039977b3f848b3d/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergph493lor8k" tvg-name="Pescara vs US Sambenedettese - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh6x0q1zp/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Pescara vs US Sambenedettese | 15/11 20:30 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/b2220b9786ebb910b905a933f22cbed4/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergph4wovjr8k" tvg-name="FC Spaeri vs FC Saburtalo - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphvkl8r8k0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",FC Spaeri vs FC Saburtalo | 15/11 22:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/1e85356a900ebeac31e1495b99732c13/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergph4xo8jr8k" tvg-name="FC Sochi vs Shinnik - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whk686ryox/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",FC Sochi vs Shinnik | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/24dd9b977c8194387ae1a079164fc772/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l5ergphkolzpr8k" tvg-name="Panama vs Curacao - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho2eql07/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Panama vs Curacao | 16/11 06:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/5856f61474784ac756a31777f73e2e43/playlist.m3u8
@@ -365,39 +314,39 @@ https://lilive1.eu.cc/live/337a9f004f0869fa9de0fd1b4eebfae1/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l7oqdehg546kr51" tvg-name="Barletta vs Altamura - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwg26qdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Barletta vs Altamura | 15/11 23:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/943195f9197c8c75254cd44fcaebeedd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l7oqdehg5y51r51" tvg-name="Nữ Wolverhampton vs Nữ Durham - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phk1k2m2wd/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Wolverhampton vs Nữ Durham | 15/11 21:00 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-l7oqdehjnj99r51" tvg-name="U. de G. vs CA Morelia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whkwj0ryox/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",U. de G. vs CA Morelia | 16/11 01:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/4f8e605cc3fae7c473e5013c9a15baaf/playlist.m3u8
+https://lilive1.eu.cc/live/b41c1ac1053c05f9f5117d4efbe879ee/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-n54qllhn4gl4qvy" tvg-name="Bỉ vs Italy - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66hd5eqo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Bỉ vs Italy | 16/11 02:45 | Phá Làng TV | HD1
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://pull.digitalcdn.net/live/74f0dbf7e2fa4b0f84f77b81505005ad/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-n54qllhn4gl4qvy" tvg-name="Bỉ vs Italy - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66hd5eqo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Bỉ vs Italy | 16/11 02:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/d9261f6aea9c4be16d4a75ec9812f50d/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-pxwrxlhy4e4yryk" tvg-name="Como 1907(w) vs Nữ Como 2000 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzz4m2wd/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Como 1907(w) vs Nữ Como 2000 | 15/11 21:00 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-pxwrxlhlgyy3ryk" tvg-name="Deportivo Moron vs Colegiales - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh1gz7ryk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Deportivo Moron vs Colegiales | 16/11 01:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/96969e08840a2ce2d748da89912bccfd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-pxwrxlhyk91dryk" tvg-name="Potenza vs Scafatese - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h344pmojx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Potenza vs Scafatese | 15/11 20:30 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/bea4e138c0db5a232868ad6cc3369662/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-pxwrxlhywjl0ryk" tvg-name="CD Comerciantes vs Sport Boys - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh4o88qwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",CD Comerciantes vs Sport Boys | 16/11 01:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/2027697b8110efe9089d2f26a1b7af07/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-vjxm8ghekdn5r6o" tvg-name="Latvia vs Armenia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jh2vgqwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Latvia vs Armenia | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/e592634eb329b449c6101e02261fb956/playlist.m3u8
+https://lilive1.eu.cc/live/30370d03573ef2802791c7fbe97fb426/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vjxm8ghk47w4r6o" tvg-name="Nga U21 vs Kyrgyzstan U23 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hggzq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nga U21 vs Kyrgyzstan U23 | 16/11 19:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/12a83350c6560a1135280b2cbbd9561e/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-x7lm7phjxylzm2w" tvg-name="Đảo Síp vs Montenegro - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hzx2rz84/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Đảo Síp vs Montenegro | 15/11 21:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/7721a3a6a65f724841cef110965111fa/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-x7lm7phxk7kxm2w" tvg-name="Tigres Zipaquira vs Valledupar FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl3nvqwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Tigres Zipaquira vs Valledupar FC | 16/11 06:05 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/e40dcf76635c89cf8aa35a86328faaae/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-y0or5jh89yv8qwz" tvg-name="Pháp vs Thổ Nhĩ Kỳ - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdj9m0ve/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Pháp vs Thổ Nhĩ Kỳ | 16/11 02:45 | Phá Làng TV | HD1
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://pull.digitalcdn.net/live/358453246c4c43979f66a22054b1344a/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-y0or5jh9lol5qwz" tvg-name="Deportes Quindio vs Real Cartagena - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2578qvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Deportes Quindio vs Real Cartagena | 16/11 08:10 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/39b6fe7353d6c405969776db3b0be2e5/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y39mp1h62vd6moj" tvg-name="Nữ West Ham vs Nữ Charlton - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh4wjzm0ve/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ West Ham vs Nữ Charlton | 15/11 21:00 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-y39mp1h6gjg4moj" tvg-name="Leixoes vs GD Chaves - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhvz88repz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Leixoes vs GD Chaves | 16/11 01:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/2abce5de8230b81919653a649bdb1d99/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y39mp1h6ngdomoj" tvg-name="Beroe Stara Zagora vs Vihren Sandanski - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7h21nqdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Beroe Stara Zagora vs Vihren Sandanski | 15/11 20:30 | Phá Làng TV | Live
+https://lilive1.eu.cc/live/3701e8021198e0fbd3b61315b8a68dcc/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-zp5rzghg3vndq82" tvg-name="Tây Ban Nha vs Anh - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4vgymoep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Tây Ban Nha vs Anh | 16/11 02:45 | Phá Làng TV | HD1
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/57f3463c1ecd60ec5fed11f28ce8a62b/playlist.m3u8
+https://pull.digitalcdn.net/live/322d5ff64943457ebf7da1c22731af74/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-zp5rzghg3vndq82" tvg-name="Tây Ban Nha vs Anh - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4vgymoep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Tây Ban Nha vs Anh | 16/11 02:45 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/dd5a78574f2f87526b97ae497faf730b/playlist.m3u8
