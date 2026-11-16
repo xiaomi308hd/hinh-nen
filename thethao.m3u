@@ -129,7 +129,7 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-id="mhd-match-52fdb702a353" tvg-name="Central African Republic vs Benin - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/24b9e0931d66349fbfb639e2d60de183.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Central African Republic vs Benin | 16/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/741294.flv
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
-https://live.hztx2020.com/live/14301014_4f016da37c51aac5e1485ca9a3b3d848_autoChange.m3u8?auth_key=1794842475-0-0-95f4066ab6da32715f25b3fa4530d523
+https://live.hztx2020.com/live/14301014_4f016da37c51aac5e1485ca9a3b3d848_autoChange.m3u8?auth_key=1794842525-0-0-d9fb6ce19f2705e10b461bc136d93956
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
 https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
@@ -316,15 +316,15 @@ https://playback.antlive.pro/app/crackthà/llhls.m3u8
 #EXTINF:-1 tvg-id="mhd-match-3glrw7hnd807qdy-6a5df755b89dded67b39b8bc" tvg-name="ĐOÀN DỰ vs Livestream - ĐOÀN DỰ - HLS" tvg-logo="" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",ĐOÀN DỰ vs Livestream | 16/11 13:00 | ĐOÀN DỰ | HLS
 #EXTVLCOPT:http-referrer=https://tieulamtv.com/
 https://playback.antlive.pro/app/doandu123123/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4jwq2ghg45o8m0v-6acdcf4a1ba0f2f86b254fe9" tvg-name="Lá Chanh vs Livestream - Lá Chanh - HLS" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocK_P1qJlTsrpe5MsZbxbc9LgOElhKHax9vDfCzo-uZnaIyz9A=s96-c" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Lá Chanh vs Livestream | 16/11 11:00 | Lá Chanh | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/ureterđị/llhls.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4jwq2ghg4e5lm0v-69a1aaa7230584579e2d5ce1" tvg-name="cố tư nghiêm vs Livestream - cố tư nghiêm - HLS" tvg-logo="https://bucket.antlive.pro/7f48cb6be263b855a4ef00efe73c08fa-1772263379587-photo_2026-02-28_13-24-03.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",cố tư nghiêm vs Livestream | 16/11 23:00 | cố tư nghiêm | HLS
 #EXTVLCOPT:http-referrer=https://tieulamtv.com/
 https://playback.antlive.pro/app/blv_co/llhls.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4wyrn4h6ypg8q86-69ef10b47146e04fbe6d4363" tvg-name="A Long vs Livestream - A Long - HLS" tvg-logo="https://bucket.antlive.pro/72c5d985048b93e07a183b62af1d22a9-1777295016730-cropped_photo_2026-04-21_03-48-56.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",A Long vs Livestream | 16/11 19:45 | A Long | HLS
 #EXTVLCOPT:http-referrer=https://tieulamtv.com/
 https://playback.antlive.pro/app/along102/llhls.m3u8
+#EXTINF:-1 tvg-id="mhd-match-965mkyhk8djvr1g-6acdcf4a1ba0f2f86b254fe9" tvg-name="Lá Chanh vs Livestream - Lá Chanh - HLS" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocK_P1qJlTsrpe5MsZbxbc9LgOElhKHax9vDfCzo-uZnaIyz9A=s96-c" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Lá Chanh vs Livestream | 16/11 15:00 | Lá Chanh | HLS
+#EXTVLCOPT:http-referrer=https://tieulamtv.com/
+https://playback.antlive.pro/app/ureterđị/llhls.m3u8
 #EXTINF:-1 tvg-id="mhd-match-965mkyhk8djvr1g-6ae3500b1ba0f2f86b29d7a5" tvg-name="Lucie23 vs Livestream - Lucie23 - HLS" tvg-logo="" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Lucie23 vs Livestream | 16/11 15:00 | Lucie23 | HLS
 #EXTVLCOPT:http-referrer=https://tieulamtv.com/
 https://playback.antlive.pro/app/lucie23/llhls.m3u8
@@ -362,154 +362,154 @@ https://playback.antlive.pro/app/giangcoi/llhls.m3u8
 #EXTVLCOPT:http-referrer=https://tieulamtv.com/
 https://playback.antlive.pro/app/leeking/llhls.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="Xôi Lạc TV" x-source="xoilac" x-sport="BASKETBALL",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
-https://live.hztx2020.com/live/14301014_4f016da37c51aac5e1485ca9a3b3d848_autoChange.m3u8?auth_key=1794842505-0-0-6c303927481a9964fdac6a0438593fa1
-#EXTINF:-1 tvg-id="mhd-match-2121137418908299265" tvg-name="Khoảnh khắc huyền thoại CR7 đỉnh chóp! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc huyền thoại CR7 đỉnh chóp! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553518695_ahjUFQlr0TeM.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122213827667914754" tvg-name="Khoảnh khắc đỉnh cao của CR7 số 17! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc đỉnh cao của CR7 số 17! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810176839_mRKid9fNrAlq.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122214111836205057" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810243813_j8KJGQ4toFh4.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121545996232126465" tvg-name="Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650944966_UbmzBaPBkROc.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137473379725313" tvg-name="Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553536721_wWDVrQr4BNV8.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121546166416011265" tvg-name="Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650994194_iI0gpMTWZl5M.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121476440411172865" tvg-name="Neymar Prime Skill vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Neymar Prime Skill vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121476440411172865/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122219436047953921" tvg-name="cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2033838191200518145/2122219436047953921/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121196768217624577" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121196768217624577/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122137793035595778" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2122137793035595778/index.m3u8
+https://live.hztx2020.com/live/14301014_4f016da37c51aac5e1485ca9a3b3d848_autoChange.m3u8?auth_key=1794842535-0-0-634b67bf0d4873f3a92a0d03e9f9503e
 #EXTINF:-1 tvg-id="mhd-match-2122214001807028226" tvg-name="Khoảnh khắc nào của Ronaldo khiến bạn nhớ nhất? CR7 🐐 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc nào của Ronaldo khiến bạn nhớ nhất? CR7 🐐 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810219425_L1CLGuzhx6Aj.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121195048880140289" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2121137540962545665" tvg-name="Khoảnh khắc Ronaldo ghi bàn và ăn mừng đầy cảm xúc bên Georgina! 🥹 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc Ronaldo ghi bàn và ăn mừng đầy cảm xúc bên Georgina! 🥹 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121195048880140289/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122214054483292162" tvg-name="Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810230853_4FunPygElG1L.mp4
+https://static.wex1sora.com/sstboot/temp/video/1794553546199_7MfhKMoQfgUF.mp4
 #EXTINF:-1 tvg-id="mhd-match-2121243937435906050" tvg-name="Tuyệt phẩm vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyệt phẩm vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121243937435906050/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122214221890547713" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2122214278895333377" tvg-name="Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810270129_PqbxYX0a6afM.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121546085239451650" tvg-name="Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650955620_uztd7Kmxziab.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121872007280816129" tvg-name="Ronaldinho Goals vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldinho Goals vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121872007280816129/index.m3u8
+https://static.wex1sora.com/sstboot/temp/video/1794810284366_GSQmY5h0PjB8.mp4
 #EXTINF:-1 tvg-id="mhd-match-2122214165720428546" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810257867_4Y03Lxdilwad.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122213946584821762" tvg-name="Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2121476440411172865" tvg-name="Neymar Prime Skill vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Neymar Prime Skill vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810205227_E6TJpZF2NUCk.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137595199090690" tvg-name="Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553578962_kXJBNKtdBlST.mp4
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121476440411172865/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2122213877508829186" tvg-name="Khi Ronaldo biến mọi thử thách thành động lực vĩ đại! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi Ronaldo biến mọi thử thách thành động lực vĩ đại! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810188304_KqqM8Zuoo2uk.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137606347550722" tvg-name="Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2122213946584821762" tvg-name="Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553557097_Zitu1zeZA6UM.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137357818261506" tvg-name="Cái ôm chia tay 2 huyền thoại Ronaldo & Messi của Lamine Yamal 💔 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cái ôm chia tay 2 huyền thoại Ronaldo & Messi của Lamine Yamal 💔 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794810205227_E6TJpZF2NUCk.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121545860672221185" tvg-name="Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553504748_XH2nJKJH7sAq.mp4
+https://static.wex1sora.com/sstboot/temp/video/1794650917433_KKzh7jdsuBm2.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121196768217624577" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121196768217624577/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121546166416011265" tvg-name="Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794650994194_iI0gpMTWZl5M.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122213827667914754" tvg-name="Khoảnh khắc đỉnh cao của CR7 số 17! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc đỉnh cao của CR7 số 17! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810176839_mRKid9fNrAlq.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121546085239451650" tvg-name="Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794650955620_uztd7Kmxziab.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122214221890547713" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810270129_PqbxYX0a6afM.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137473379725313" tvg-name="Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553536721_wWDVrQr4BNV8.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137418908299265" tvg-name="Khoảnh khắc huyền thoại CR7 đỉnh chóp! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc huyền thoại CR7 đỉnh chóp! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553518695_ahjUFQlr0TeM.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137616862670849" tvg-name="Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553567171_ddM4RUe27xWo.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122219436047953921" tvg-name="cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2033838191200518145/2122219436047953921/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121872007280816129" tvg-name="Ronaldinho Goals vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldinho Goals vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121872007280816129/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2121546155758284801" tvg-name="Cú sút phạt 130km/h của Ronaldo khiến cầu thủ đối phương gục ngã! 😱 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cú sút phạt 130km/h của Ronaldo khiến cầu thủ đối phương gục ngã! 😱 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794650979971_WHNOuShjL85o.mp4
 #EXTINF:-1 tvg-id="mhd-match-2121545930364776449" tvg-name="Cái chân trái không thuận của Ronaldo vẫn quá đáng sợ 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cái chân trái không thuận của Ronaldo vẫn quá đáng sợ 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794650929617_hlxr6lgT514V.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137595199090690" tvg-name="Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553578962_kXJBNKtdBlST.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121545996232126465" tvg-name="Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794650944966_UbmzBaPBkROc.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137606347550722" tvg-name="Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553557097_Zitu1zeZA6UM.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121195048880140289" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121195048880140289/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122214111836205057" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810243813_j8KJGQ4toFh4.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122137793035595778" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2122137793035595778/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122214054483292162" tvg-name="Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810230853_4FunPygElG1L.mp4
 #EXTINF:-1 tvg-id="mhd-match-2122213768377233410" tvg-name="Khoảnh khắc Ronaldo cực gắt và siêu phẩm khiến tất cả nín lặng! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc Ronaldo cực gắt và siêu phẩm khiến tất cả nín lặng! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810162430_amIrIX4f5n6T.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137616862670849" tvg-name="Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2121137357818261506" tvg-name="Cái ôm chia tay 2 huyền thoại Ronaldo & Messi của Lamine Yamal 💔 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cái ôm chia tay 2 huyền thoại Ronaldo & Messi của Lamine Yamal 💔 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553567171_ddM4RUe27xWo.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122214278895333377" tvg-name="Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810284366_GSQmY5h0PjB8.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121545860672221185" tvg-name="Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650917433_KKzh7jdsuBm2.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137540962545665" tvg-name="Khoảnh khắc Ronaldo ghi bàn và ăn mừng đầy cảm xúc bên Georgina! 🥹 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc Ronaldo ghi bàn và ăn mừng đầy cảm xúc bên Georgina! 🥹 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553546199_7MfhKMoQfgUF.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137148249862146" tvg-name="Khi bóng dính vào chân Cristiano Ronaldo! Đẳng cấp không tuổi 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi bóng dính vào chân Cristiano Ronaldo! Đẳng cấp không tuổi 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553466639_OtB1Dto1DoJJ.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764067488559106" tvg-name="Ronaldo & ĐT Bồ Đào Nha: Ai đúng, ai sai trong câu chuyện cuối? vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo & ĐT Bồ Đào Nha: Ai đúng, ai sai trong câu chuyện cuối? vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464516073_kXhmaz3bOvwF.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137231037034498" tvg-name="Khi CR7 đổi giày và cái kết... 🤯 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi CR7 đổi giày và cái kết... 🤯 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553481680_YyON1Vj4c1N3.mp4
+https://static.wex1sora.com/sstboot/temp/video/1794553504748_XH2nJKJH7sAq.mp4
 #EXTINF:-1 tvg-id="mhd-match-2121070352750702593" tvg-name="Manchester City rất mạnh🔥🔥💯#bongda #football #viral #GOAT vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Manchester City rất mạnh🔥🔥💯#bongda #football #viral #GOAT vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/hls/2033838191200518145/2121070352750702593/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121137301530701826" tvg-name="Bóng đá Việt Nam: Khoảnh khắc bùng nổ khiến triệu fan tự hào! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá Việt Nam: Khoảnh khắc bùng nổ khiến triệu fan tự hào! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2120764067488559106" tvg-name="Ronaldo & ĐT Bồ Đào Nha: Ai đúng, ai sai trong câu chuyện cuối? vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo & ĐT Bồ Đào Nha: Ai đúng, ai sai trong câu chuyện cuối? vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553499471_LwJl5QB9w9BW.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764124736614401" tvg-name="Sức hút khó cưỡng của CR7: Dù lắm tật vẫn vạn người mê! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức hút khó cưỡng của CR7: Dù lắm tật vẫn vạn người mê! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464525053_oG13V6AugAj2.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764115580448770" tvg-name="Bồ Đào Nha không Ronaldo vẫn thắng lớn: Lời chia tay hay chương mới? vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bồ Đào Nha không Ronaldo vẫn thắng lớn: Lời chia tay hay chương mới? vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464538509_BGKKSEv2IxmF.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121048515643797505" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 2 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 2 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121048515643797505/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2120875824496340993" tvg-name="Beckham sút phạt thì chỉ có đỉnh vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Beckham sút phạt thì chỉ có đỉnh vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2120875824496340993/index.m3u8
+https://static.wex1sora.com/sstboot/temp/video/1794464516073_kXhmaz3bOvwF.mp4
 #EXTINF:-1 tvg-id="mhd-match-2121049235965177858" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 3  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 3  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121049235965177858/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2120763679406387202" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2121137231037034498" tvg-name="Khi CR7 đổi giày và cái kết... 🤯 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi CR7 đổi giày và cái kết... 🤯 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464422687_PuWdvGZFc8xm.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763944498982913" tvg-name="Nhánh đấu tử thần World Cup 2026: Bồ Đào Nha và ác mộng của Ronaldo! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Nhánh đấu tử thần World Cup 2026: Bồ Đào Nha và ác mộng của Ronaldo! vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794553481680_YyON1Vj4c1N3.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120764115580448770" tvg-name="Bồ Đào Nha không Ronaldo vẫn thắng lớn: Lời chia tay hay chương mới? vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bồ Đào Nha không Ronaldo vẫn thắng lớn: Lời chia tay hay chương mới? vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464486187_vWs6iDJNHqKa.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120447703712362498" tvg-name="CR7 Show Kỹ Năng Đỉnh Cao vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",CR7 Show Kỹ Năng Đỉnh Cao vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794464538509_BGKKSEv2IxmF.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120764124736614401" tvg-name="Sức hút khó cưỡng của CR7: Dù lắm tật vẫn vạn người mê! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức hút khó cưỡng của CR7: Dù lắm tật vẫn vạn người mê! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794389101338_KnN2cMhfns4Z.mp4
+https://static.wex1sora.com/sstboot/temp/video/1794464525053_oG13V6AugAj2.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137148249862146" tvg-name="Khi bóng dính vào chân Cristiano Ronaldo! Đẳng cấp không tuổi 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi bóng dính vào chân Cristiano Ronaldo! Đẳng cấp không tuổi 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553466639_OtB1Dto1DoJJ.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137301530701826" tvg-name="Bóng đá Việt Nam: Khoảnh khắc bùng nổ khiến triệu fan tự hào! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá Việt Nam: Khoảnh khắc bùng nổ khiến triệu fan tự hào! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553499471_LwJl5QB9w9BW.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120875824496340993" tvg-name="Beckham sút phạt thì chỉ có đỉnh vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Beckham sút phạt thì chỉ có đỉnh vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2120875824496340993/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121048515643797505" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 2 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 2 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121048515643797505/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2120707703152144386" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》- Tập  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》- Tập  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2120707703152144386/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-2120712526392029185" tvg-name="Bốn mục tiêu tôi thích🐐🤯🔥🔥💯#bongda #football #viral #goal#GOAT vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bốn mục tiêu tôi thích🐐🤯🔥🔥💯#bongda #football #viral #goal#GOAT vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/hls/2033838191200518145/2120712526392029185/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2120763679406387202" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794464422687_PuWdvGZFc8xm.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120764008525033474" tvg-name="Các phiên bản 'quái vật' của Cristiano Ronaldo qua từng thời kỳ 🐐 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Các phiên bản 'quái vật' của Cristiano Ronaldo qua từng thời kỳ 🐐 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794464499502_a6MOJqxTXNi4.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120763944498982913" tvg-name="Nhánh đấu tử thần World Cup 2026: Bồ Đào Nha và ác mộng của Ronaldo! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Nhánh đấu tử thần World Cup 2026: Bồ Đào Nha và ác mộng của Ronaldo! vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794464486187_vWs6iDJNHqKa.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120763738923560962" tvg-name="Thủ môn bỏ sân đi cắt tóc giữa trận và cái kết! 😱 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Thủ môn bỏ sân đi cắt tóc giữa trận và cái kết! 😱 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794464435893_Xwm0yjF3g8nf.mp4
+#EXTINF:-1 tvg-id="mhd-match-2120763877276872706" tvg-name="4 luật mới tại World Cup cực gắt! Cầu thủ còn dám câu giờ nữa không? ⚽ vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",4 luật mới tại World Cup cực gắt! Cầu thủ còn dám câu giờ nữa không? ⚽ vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794464451248_3jnMl1cojMNW.mp4
 #EXTINF:-1 tvg-id="mhd-match-2120763569326878722" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794464394062_yZB97NMUMm6E.mp4
 #EXTINF:-1 tvg-id="mhd-match-2120763623219490817" tvg-name="Kỹ năng bóng đá đỉnh cao khiến tất cả phải trầm trồ! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Kỹ năng bóng đá đỉnh cao khiến tất cả phải trầm trồ! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794464409390_2pSI13G1BT8r.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120707703152144386" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》- Tập  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》- Tập  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2120447703712362498" tvg-name="CR7 Show Kỹ Năng Đỉnh Cao vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",CR7 Show Kỹ Năng Đỉnh Cao vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2120707703152144386/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2120763877276872706" tvg-name="4 luật mới tại World Cup cực gắt! Cầu thủ còn dám câu giờ nữa không? ⚽ vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",4 luật mới tại World Cup cực gắt! Cầu thủ còn dám câu giờ nữa không? ⚽ vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464451248_3jnMl1cojMNW.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763738923560962" tvg-name="Thủ môn bỏ sân đi cắt tóc giữa trận và cái kết! 😱 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Thủ môn bỏ sân đi cắt tóc giữa trận và cái kết! 😱 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464435893_Xwm0yjF3g8nf.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764008525033474" tvg-name="Các phiên bản 'quái vật' của Cristiano Ronaldo qua từng thời kỳ 🐐 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Các phiên bản 'quái vật' của Cristiano Ronaldo qua từng thời kỳ 🐐 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464499502_a6MOJqxTXNi4.mp4
+https://static.wex1sora.com/sstboot/temp/video/1794389101338_KnN2cMhfns4Z.mp4
