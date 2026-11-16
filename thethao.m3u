@@ -129,6 +129,8 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 tvg-id="mhd-match-52fdb702a353" tvg-name="Central African Republic vs Benin - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/24b9e0931d66349fbfb639e2d60de183.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Central African Republic vs Benin | 16/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/741294.flv
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
+https://live.hztx2020.com/live/14301014_4f016da37c51aac5e1485ca9a3b3d848_autoChange.m3u8?auth_key=1794839952-0-0-54f9df61f38bd301cdfdb51be1deac90
+#EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
 https://live05.wecile.app/live/19919577.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndkzysnp384ix73" tvg-name="Seoul Knights vs Mobis Phoebus - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Seoul Knights vs Mobis Phoebus | 16/11 17:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/19919577_tsc.m3u8
@@ -293,12 +295,15 @@ https://lilive1.eu.cc/live/e527d0158be76150d1d8a645c82c8574/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-dj2ryoh7k76wq1z" tvg-name="FC United Stars vs South United - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzl8m2wd/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",FC United Stars vs South United | 16/11 17:25 | Phá Làng TV | HD1
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://pull.digitalcdn.net/live/2cb79bfa43b747cf9765ca87cdbc2379/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-dj2ryoh7k76wq1z" tvg-name="FC United Stars vs South United - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzl8m2wd/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",FC United Stars vs South United | 16/11 17:25 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/18fa2aa7a91e04b2c43e6ad2c457cca8/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-k82rekhgkz41rep" tvg-name="UCSA vs Polissya Zhytomyr B - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhnywpr1ge/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",UCSA vs Polissya Zhytomyr B | 16/11 17:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/05e4f07cfecb9a18340c13a52974019a/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-l7oqdehjnjw5r51" tvg-name="Kickstart Karnataka vs MEG - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh47lvr510/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Kickstart Karnataka vs MEG | 16/11 15:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/611ad6fe6e500cb07ea2eef1814e4231/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vjxm8ghk47w4r6o" tvg-name="Nga U21 vs Kyrgyzstan U23 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hggzq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nga U21 vs Kyrgyzstan U23 | 16/11 19:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/12a83350c6560a1135280b2cbbd9561e/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-zp5rzgh3j939q82" tvg-name="Gamba Osaka U21 vs Shimizu S-Pulse U21 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh1n6yq82w/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Gamba Osaka U21 vs Shimizu S-Pulse U21 | 16/11 13:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/c1913e437bb0471a7970442e37135414/playlist.m3u8
