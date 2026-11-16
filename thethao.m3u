@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mhd-match-fcb2a827c2de" tvg-name="Monterrey W vs Pachuca W - Chuối Tây - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Monterrey W vs Pachuca W | 16/11 08:00 | Chuối Tây | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-fcb2a827c2de" tvg-name="Monterrey W vs Pachuca W - Chuối Tây - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Monterrey W vs Pachuca W | 16/11 08:00 | Chuối Tây | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-fcb2a827c2de" tvg-name="Monterrey W vs Pachuca W - Chuối Tây - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Monterrey W vs Pachuca W | 16/11 08:00 | Chuối Tây | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-0b51297eab24" tvg-name="Piratas FC vs América W - Chuối Sấy - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Piratas FC vs América W | 16/11 10:10 | Chuối Sấy | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
@@ -62,6 +53,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-17d028c35053" tvg-name="Kazakhstan vs Slovenia - Chuối Nhỏ - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Kazakhstan vs Slovenia | 16/11 22:00 | Chuối Nhỏ | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-75412bff6a46" tvg-name="Faroe Islands vs Moldova - Chuối Tây - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Faroe Islands vs Moldova | 16/11 22:00 | Chuối Tây | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-75412bff6a46" tvg-name="Faroe Islands vs Moldova - Chuối Tây - HD2" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Faroe Islands vs Moldova | 16/11 22:00 | Chuối Tây | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-75412bff6a46" tvg-name="Faroe Islands vs Moldova - Chuối Tây - FHD" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Faroe Islands vs Moldova | 16/11 22:00 | Chuối Tây | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-99731f6ce722" tvg-name="Somalia vs Ghana - Chuối Kem - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120144_c5f585be.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Somalia vs Ghana | 16/11 22:00 | Chuối Kem | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
@@ -136,14 +136,6 @@ https://live05.wecile.app/live/19919577.m3u8
 https://live05.yefpwmc.app/live/19919577_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-o07dzsmrgr1smkn" tvg-name="Milwaukee Bucks vs Atlanta Hawks - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Milwaukee Bucks vs Atlanta Hawks | 16/11 08:00 | ColaTV | Live
 https://live05.wecile.app/live/19919577.flv
-#EXTINF:-1 tvg-id="mhd-match-9gklzi5011wfm7x" tvg-name="Monterrey Nữ vs Pachuca Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a6350b03022c4e5344c808657c3282bb.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Monterrey Nữ vs Pachuca Nữ | 16/11 08:00 | ColaTV | Live
-https://live.hztx2020.com/live/14662689_11135f76b24fc2c2df6f0167fe36b82a_autoChange.m3u8?auth_key=1794812152-0-0-3727a8f8fc6109119238bd681a3b0d73
-#EXTINF:-1 tvg-id="mhd-match-9gklzi5011wfm7x" tvg-name="Monterrey Nữ vs Pachuca Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a6350b03022c4e5344c808657c3282bb.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Monterrey Nữ vs Pachuca Nữ | 16/11 08:00 | ColaTV | Live
-https://live05.wecile.app/live/59444581.m3u8
-#EXTINF:-1 tvg-id="mhd-match-9gklzi5011wfm7x" tvg-name="Monterrey Nữ vs Pachuca Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a6350b03022c4e5344c808657c3282bb.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Monterrey Nữ vs Pachuca Nữ | 16/11 08:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-9gklzi5011wfm7x" tvg-name="Monterrey Nữ vs Pachuca Nữ - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/a6350b03022c4e5344c808657c3282bb.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Monterrey Nữ vs Pachuca Nữ | 16/11 08:00 | ColaTV | Live
-https://live05.wecile.app/live/59444581.flv
 #EXTINF:-1 tvg-id="mhd-match-vrqw9s9dzd6f47n" tvg-name="Sacramento Kings vs Oklahoma City Thunder - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Sacramento Kings vs Oklahoma City Thunder | 16/11 09:00 | ColaTV | Live
 https://live.hztx2020.com/live/14315885_47e3fa91261cb780e2a28118dd8b16c7_autoChange.m3u8?auth_key=1794812152-0-0-c0010f12833fa2d94e443855f03f58b5
 #EXTINF:-1 tvg-id="mhd-match-vrqw9s9dzd6f47n" tvg-name="Sacramento Kings vs Oklahoma City Thunder - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Sacramento Kings vs Oklahoma City Thunder | 16/11 09:00 | ColaTV | Live
@@ -254,6 +246,12 @@ https://live05.wecile.app/live/99121525.m3u8
 https://live05.yefpwmc.app/live/99121525_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-j374oi414xrbgqo" tvg-name="Hy Lạp U21 vs ĐTQG U21 Iceland - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/0f2d2e79833b106e3c0407d4c7131307.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Hy Lạp U21 vs ĐTQG U21 Iceland | 17/11 00:00 | ColaTV | Live
 https://live05.wecile.app/live/99121525.flv
+#EXTINF:-1 tvg-id="mhd-match-63kv9i6mxwdtx7e" tvg-name="Wanderers FC vs Juventud - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Wanderers FC vs Juventud | 17/11 06:00 | ColaTV | Live
+https://live05.wecile.app/live/59444581.m3u8
+#EXTINF:-1 tvg-id="mhd-match-63kv9i6mxwdtx7e" tvg-name="Wanderers FC vs Juventud - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Wanderers FC vs Juventud | 17/11 06:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-63kv9i6mxwdtx7e" tvg-name="Wanderers FC vs Juventud - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/57bb4f7957510c2da5fd076e75618f5f.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Wanderers FC vs Juventud | 17/11 06:00 | ColaTV | Live
+https://live05.wecile.app/live/59444581.flv
 #EXTINF:-1 tvg-id="mhd-match-ndqmrs3ege5irkv" tvg-name="Đội bóng rổ Boston Celtics vs Orlando Magic - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Đội bóng rổ Boston Celtics vs Orlando Magic | 17/11 07:00 | ColaTV | Live
 https://live05.wecile.app/live/56998120.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ndqmrs3ege5irkv" tvg-name="Đội bóng rổ Boston Celtics vs Orlando Magic - ColaTV - Live" tvg-logo="https://img.cltvap.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV" x-source="colatv" x-sport="BASKETBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Đội bóng rổ Boston Celtics vs Orlando Magic | 17/11 07:00 | ColaTV | Live
@@ -281,9 +279,6 @@ https://live05.wecile.app/live/14830711.flv
 #EXTINF:-1 tvg-id="mhd-match-1l4rjnh97y06m7v" tvg-name="Inhulets Petrove vs Probiy Horodenka - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh23jwqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Inhulets Petrove vs Probiy Horodenka | 16/11 16:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/cb6b6fd93b5df95754e4b95619fb42ff/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1l4rjnhn64d8m7v" tvg-name="Defensor SC vs CA Penarol - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1hlxkmojx/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Defensor SC vs CA Penarol | 16/11 06:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/d1b05105b69cb6fa01ddb420f6bc4b13/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-3glrw7h4wg14qdy" tvg-name="New Mexico United vs Sacramento Republic - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh94p5repz/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",New Mexico United vs Sacramento Republic | 17/11 09:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/44ec194b9f8f960c3038ae3a19d64893/playlist.m3u8
@@ -296,18 +291,15 @@ https://lilive1.eu.cc/live/021c03a44f2164a7ce48fe8b0716ec96/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-3glrw7hnd807qdy" tvg-name="Zimbabwe vs Guinea Xích Đạo - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh73wer1ge/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Zimbabwe vs Guinea Xích Đạo | 16/11 20:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/41398672c3ed295dce0aa283960be833/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-l5ergphkolzpr8k" tvg-name="Panama vs Curacao - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zho2eql07/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Panama vs Curacao | 16/11 06:00 | Phá Làng TV | Live
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/5856f61474784ac756a31777f73e2e43/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vjxm8ghk47w4r6o" tvg-name="Nga U21 vs Kyrgyzstan U23 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hggzq86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nga U21 vs Kyrgyzstan U23 | 16/11 19:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/12a83350c6560a1135280b2cbbd9561e/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-x7lm7phxk7kxm2w" tvg-name="Tigres Zipaquira vs Valledupar FC - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhl3nvqwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Tigres Zipaquira vs Valledupar FC | 16/11 06:05 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/e40dcf76635c89cf8aa35a86328faaae/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-y0or5jh8p65nqwz" tvg-name="CD INCA-Aruba vs Aguila - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh12eym0ve/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",CD INCA-Aruba vs Aguila | 16/11 06:00 | Phá Làng TV | Live
+#EXTINF:-1 tvg-id="mhd-match-y0or5jh9l88yqwz" tvg-name="Nữ Toluca vs Nữ Club America - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghnvyemoep/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Nữ Toluca vs Nữ Club America | 16/11 10:10 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://lilive1.eu.cc/live/743378c346758ac955d5355062fcfba1/playlist.m3u8
+https://lilive1.eu.cc/live/e5460277573b9370bc97d6ef702cfca7/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-y0or5jh9lol5qwz" tvg-name="Deportes Quindio vs Real Cartagena - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2578qvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Deportes Quindio vs Real Cartagena | 16/11 08:10 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/39b6fe7353d6c405969776db3b0be2e5/playlist.m3u8
