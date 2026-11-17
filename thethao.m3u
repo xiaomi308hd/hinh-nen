@@ -129,13 +129,15 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-id="mhd-match-69481a51ef91" tvg-name="Russia vs Venezuela - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/ca3445d71de0ef386033037868c58d92.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Russia vs Venezuela | 17/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301263.flv
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
-https://live.hztx2020.com/live/14573900_e328a88f62d2740518b34b135b1272ee_autoChange.m3u8?auth_key=1794910312-0-0-d489844eb4ba10df3081eb5830dca46d
+https://live.hztx2020.com/live/14573900_e328a88f62d2740518b34b135b1272ee_autoChange.m3u8?auth_key=1794915086-0-0-60f00bac99041949ce79144f7cd9774a
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
 https://live05.wecile.app/live/49572724.m3u8
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
 https://live05.yefpwmc.app/live/49572724_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
 https://live05.wecile.app/live/49572724.flv
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
+https://live.hztx2020.com/live/xvkjoi868p0t879_7eeb3e096d785261f626deeb169ad5b4_autoChange.m3u8?auth_key=1794914985-0-0-a9413966c4d8ac92d67e6ea1850d89fc
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
 https://live05.wecile.app/live/59444581.m3u8
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
@@ -283,216 +285,274 @@ https://live05.wecile.app/live/87379114.flv
 #EXTINF:-1 tvg-id="mhd-match-965mkyh87w3pr1g" tvg-name="Bangalore Association vs Bengaluru B - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hk9ydqo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Bangalore Association vs Bengaluru B | 17/11 12:25 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/8cd370fe5f7287931065f28c5945d573/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-dn1m1gh94g09moe" tvg-name="Aksu Yimin FC vs Yining Juherayi - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhvdxdryk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Aksu Yimin FC vs Yining Juherayi | 17/11 14:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/30f764e90c2bd9dce46698972c0a6a2f/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09h5llj5rz8" tvg-name="Yemen vs Malaysia - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hke5q86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Yemen vs Malaysia | 17/11 13:00 | Phá Làng TV | HD1
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://pull.digitalcdn.net/live/25f3872602a14349b3411073956f1886/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09h5llj5rz8" tvg-name="Yemen vs Malaysia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hke5q86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Yemen vs Malaysia | 17/11 13:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/582053ab9ec8cf94ceac39f5a970fc39/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-1l4rjnh9v73om7v-6a0c7c4b1ae4d6db02433c48" tvg-name="Cá MậP vs Livestream - Cá MậP - HLS" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocLBRpp2TTU23eGHGgxgJrdMjAwnSBMi5QkDs2-2aYH4Edmh3Q=s96-c" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Cá MậP vs Livestream | 17/11 13:00 | Cá MậP | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/denuncia/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zh5vyl1ql0-69aa9525f5ec459ae275b43f" tvg-name="CRIS vs Livestream - CRIS - HLS" tvg-logo="https://bucket.antlive.pro/e3328526808d4d9729d12a95fe4241ad-1778870622094-cropped_hinh-nen-mu-100-hinh-anh-manchester-united-dep-nhat-1387-26.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",CRIS vs Livestream | 17/11 19:45 | CRIS | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/farmland/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zhv39vnql0-69a1aaa7230584579e2d5ce1" tvg-name="cố tư nghiêm vs Livestream - cố tư nghiêm - HLS" tvg-logo="https://bucket.antlive.pro/7f48cb6be263b855a4ef00efe73c08fa-1772263379587-photo_2026-02-28_13-24-03.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",cố tư nghiêm vs Livestream | 17/11 09:00 | cố tư nghiêm | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/blv_co/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3glrw7h4wg14qdy-69b8e6f43bcf2231c35d5144" tvg-name="KAYTI vs Livestream - KAYTI - HLS" tvg-logo="https://bucket.antlive.pro/cafc255dc6e263fb0fd6ab2824ff5e08-1773731703855-photo_2026-03-10_09-54-33.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",KAYTI vs Livestream | 17/11 02:00 | KAYTI | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/blvkayti/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3glrw7hn42dpqdy-69be75e0a0a45974afb67776" tvg-name="MeoMeo vs Livestream - MeoMeo - HLS" tvg-logo="https://bucket.antlive.pro/dcc2fccecd101c8d70f03c4e813b6173-1785843264669-cropped_gettyimages-2500781-612x612.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",MeoMeo vs Livestream | 17/11 19:45 | MeoMeo | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/ngotrungkien/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-3glrw7hndng2qdy-69cf6331585c5992182f4160" tvg-name="MáN NúI vs Livestream - MáN NúI - HLS" tvg-logo="https://bucket.antlive.pro/6e4d26eca931a0cad7830266911057bb-1780394555872-cropped_IMG_2318.jpeg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",MáN NúI vs Livestream | 17/11 08:30 | MáN NúI | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/giangcoi/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4jwq2ghnl202m0v-6a439a7fb89dded67b208b87" tvg-name="NGƯỜI KIẾN vs Livestream - NGƯỜI KIẾN - HLS" tvg-logo="https://bucket.antlive.pro/96e9f8e9ea8cffc6edf19ed89a20aff4-1784158626608-cropped_IMG_0054.jpeg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",NGƯỜI KIẾN vs Livestream | 17/11 19:00 | NGƯỜI KIẾN | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/eaglemil/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4wyrn4hy87yzq86-6a7c0d8f65997681f18cacc4" tvg-name="khang hi vs Livestream - khang hi - HLS" tvg-logo="" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",khang hi vs Livestream | 17/11 23:00 | khang hi | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/khanghi/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-4wyrn4hy8ypnq86-6a01a2511e8555d7a3685f5c" tvg-name="RIO vs Livestream - RIO - HLS" tvg-logo="https://bucket.antlive.pro/05dd14ec5ca16286f353f41f71c64d10-1778864077400-cropped_z7830411879851_2d91b21d44a498f08b31501436af69da.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",RIO vs Livestream | 17/11 17:30 | RIO | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/leeking/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8yomo4h1np9xq0j-6a9776215126529dede9bf51" tvg-name="Lữ Bố.vip vs Livestream - Lữ Bố.vip - HLS" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocLYrn4SSfm3AxZS6fFcrr5t099xhInDuTyrHbPBeKbinJEVXusu=s96-c" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Lữ Bố.vip vs Livestream | 17/11 19:00 | Lữ Bố.vip | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/meetingt/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8yomo4h1yln5q0j-6aef22d1f72fb30b985aafbe" tvg-name="gohannguyen vs Livestream - gohannguyen - HLS" tvg-logo="" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",gohannguyen vs Livestream | 17/11 19:45 | gohannguyen | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/goahan/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8yomo4hy7g87q0j-6acdcf4a1ba0f2f86b254fe9" tvg-name="Lá Chanh vs Livestream - Lá Chanh - HLS" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocK_P1qJlTsrpe5MsZbxbc9LgOElhKHax9vDfCzo-uZnaIyz9A=s96-c" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Lá Chanh vs Livestream | 17/11 18:00 | Lá Chanh | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/ureterđị/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dj2ryoh7k9k4q1z-6a2a59b347bbddd62a8dc4e4" tvg-name="SiêU QuậY vs Livestream - SiêU QuậY - HLS" tvg-logo="https://bucket.antlive.pro/9a378fe717baf2b868bb0df595f85842-1788685114524-avt.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",SiêU QuậY vs Livestream | 17/11 14:10 | SiêU QuậY | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/messages/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dj2ryohl768nq1z-69f42e961f739deff81510c0" tvg-name="SAITAMA vs Livestream - SAITAMA - HLS" tvg-logo="https://bucket.antlive.pro/365e54adb02839332a5c321d84c79130-1777610746206-cropped_SaitamaWikipediapage.png" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",SAITAMA vs Livestream | 17/11 19:45 | SAITAMA | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/contextt/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-dn1m1ghl6jkemoe-6a5df755b89dded67b39b8bc" tvg-name="ĐOÀN DỰ vs Livestream - ĐOÀN DỰ - HLS" tvg-logo="" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",ĐOÀN DỰ vs Livestream | 17/11 13:00 | ĐOÀN DỰ | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/doandu123123/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09h5llj5rz8-69ef10b47146e04fbe6d4363" tvg-name="A Long vs Livestream - A Long - HLS" tvg-logo="https://bucket.antlive.pro/72c5d985048b93e07a183b62af1d22a9-1777295016730-cropped_photo_2026-04-21_03-48-56.jpg" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",A Long vs Livestream | 17/11 06:00 | A Long | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/along102/llhls.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09h5lvd0rz8-6ae3500b1ba0f2f86b29d7a5" tvg-name="Lucie23 vs Livestream - Lucie23 - HLS" tvg-logo="" group-title="Tiểu Lâm TV" x-source="tieulam" x-sport="FOOTBALL",Lucie23 vs Livestream | 17/11 14:00 | Lucie23 | HLS
-#EXTVLCOPT:http-referrer=https://tieulamtv.com/
-https://playback.antlive.pro/app/lucie23/llhls.m3u8
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="Xôi Lạc TV" x-source="xoilac" x-sport="FOOTBALL",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
-https://live.hztx2020.com/live/14573900_e328a88f62d2740518b34b135b1272ee_autoChange.m3u8?auth_key=1794910343-0-0-1716ab56759f81b332d4283cff7cafc3
-#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb305" tvg-name="Malaysia vs Yemen - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Malaysia vs Yemen | 17/11 13:00 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/12519
-#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb305" tvg-name="Malaysia vs Yemen - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Malaysia vs Yemen | 17/11 13:00 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/1744
-#EXTINF:-1 tvg-id="mhd-match-2121137606347550722" tvg-name="Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553557097_Zitu1zeZA6UM.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122213946584821762" tvg-name="Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810205227_E6TJpZF2NUCk.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122347212168065026" tvg-name="Messi prime vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Messi prime vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2122347212168065026/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122214054483292162" tvg-name="Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810230853_4FunPygElG1L.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121545860672221185" tvg-name="Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650917433_KKzh7jdsuBm2.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122539581534466050" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 7 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 7 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2122539581534466050/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121546166416011265" tvg-name="Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650994194_iI0gpMTWZl5M.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137616862670849" tvg-name="Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553567171_ddM4RUe27xWo.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122137793035595778" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2122137793035595778/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122214221890547713" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810270129_PqbxYX0a6afM.mp4
+https://live.hztx2020.com/live/14573900_e328a88f62d2740518b34b135b1272ee_autoChange.m3u8?auth_key=1794915126-0-0-48423a839347603a70a5a5e4ceed288d
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="Xôi Lạc TV" x-source="xoilac" x-sport="FOOTBALL",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
+https://live.hztx2020.com/live/xvkjoi868p0t879_7eeb3e096d785261f626deeb169ad5b4_autoChange.m3u8?auth_key=1794915046-0-0-9677f29ecd8eb672f7c86b59cf5ab809
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb306" tvg-name="Singapore vs Brazil - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Singapore vs Brazil | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/129
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb306" tvg-name="Singapore vs Brazil - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Singapore vs Brazil | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/14852
+#EXTINF:-1 tvg-id="mhd-match-6a348a2ee53d7be9f104ce18" tvg-name="Croatia U17 vs U17 Bỉ - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u17.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Croatia U17 vs U17 Bỉ | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/29028
+#EXTINF:-1 tvg-id="mhd-match-6a348a2ee53d7be9f104ce18" tvg-name="Croatia U17 vs U17 Bỉ - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u17.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Croatia U17 vs U17 Bỉ | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/28620
+#EXTINF:-1 tvg-id="mhd-match-6a348a2ee53d7be9f104ce15" tvg-name="Ý U17 vs Pháp U17 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u17.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Ý U17 vs Pháp U17 | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/28539
+#EXTINF:-1 tvg-id="mhd-match-6a348a2ee53d7be9f104ce15" tvg-name="Ý U17 vs Pháp U17 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u17.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Ý U17 vs Pháp U17 | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/7696
+#EXTINF:-1 tvg-id="mhd-match-6a31e6abea5e0af71602ace1" tvg-name="Serbia U17 vs Bồ Đào Nha U17 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u17.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Serbia U17 vs Bồ Đào Nha U17 | 17/11 18:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/31301
+#EXTINF:-1 tvg-id="mhd-match-6a31e6abea5e0af71602ace1" tvg-name="Serbia U17 vs Bồ Đào Nha U17 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u17.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Serbia U17 vs Bồ Đào Nha U17 | 17/11 18:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/12303
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd7a" tvg-name="Hà Lan U19 vs Croatia U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hà Lan U19 vs Croatia U19 | 17/11 18:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/28585
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd7a" tvg-name="Hà Lan U19 vs Croatia U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hà Lan U19 vs Croatia U19 | 17/11 18:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/28647
+#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be767" tvg-name="Trung Quốc vs Bahrain - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Trung Quốc vs Bahrain | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/39142
+#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be767" tvg-name="Trung Quốc vs Bahrain - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Trung Quốc vs Bahrain | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/41711
+#EXTINF:-1 tvg-id="mhd-match-6af25eb624d46db8709aa8a6" tvg-name="Kyrgyzstan vs Việt Nam - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Kyrgyzstan vs Việt Nam | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/31099
+#EXTINF:-1 tvg-id="mhd-match-6af25eb624d46db8709aa8a6" tvg-name="Kyrgyzstan vs Việt Nam - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Kyrgyzstan vs Việt Nam | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/19966
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd77" tvg-name="Phần Lan U19 vs Tây Ban Nha U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Phần Lan U19 vs Tây Ban Nha U19 | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/39618
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd77" tvg-name="Phần Lan U19 vs Tây Ban Nha U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Phần Lan U19 vs Tây Ban Nha U19 | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/4461
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd78" tvg-name="U19 Israel vs U19 Ý - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U19 Israel vs U19 Ý | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/7130
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd78" tvg-name="U19 Israel vs U19 Ý - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U19 Israel vs U19 Ý | 17/11 19:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/8201
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb307" tvg-name="Nhật Bản vs Uruguay - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Nhật Bản vs Uruguay | 17/11 20:10 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/12644
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb307" tvg-name="Nhật Bản vs Uruguay - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Nhật Bản vs Uruguay | 17/11 20:10 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/22196
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb308" tvg-name="Hàn Quốc vs Qatar - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hàn Quốc vs Qatar | 17/11 21:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/9739
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb308" tvg-name="Hàn Quốc vs Qatar - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hàn Quốc vs Qatar | 17/11 21:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/40606
+#EXTINF:-1 tvg-id="mhd-match-6aee6a2b74f43d7ef10b43c5" tvg-name="U19 Hy Lạp vs Pháp U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U19 Hy Lạp vs Pháp U19 | 17/11 21:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/5119
+#EXTINF:-1 tvg-id="mhd-match-6aee6a2b74f43d7ef10b43c5" tvg-name="U19 Hy Lạp vs Pháp U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U19 Hy Lạp vs Pháp U19 | 17/11 21:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/131
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd73" tvg-name="U19 Lithuania vs Đức U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U19 Lithuania vs Đức U19 | 17/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/8628
+#EXTINF:-1 tvg-id="mhd-match-6af25e9e4e495feaee0abd73" tvg-name="U19 Lithuania vs Đức U19 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U19 Lithuania vs Đức U19 | 17/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/23094
+#EXTINF:-1 tvg-id="mhd-match-6aee6a2b74f43d7ef10b43c8" tvg-name="Scotland U19 vs U19 Bỉ - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Scotland U19 vs U19 Bỉ | 17/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/40213
+#EXTINF:-1 tvg-id="mhd-match-6aee6a2b74f43d7ef10b43c8" tvg-name="Scotland U19 vs U19 Bỉ - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/euro-u19.jpg" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Scotland U19 vs U19 Bỉ | 17/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/6133
+#EXTINF:-1 tvg-id="mhd-match-6af501b324d46db8700fc68e" tvg-name="Ả Rập Xê Út vs Uzbekistan - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Ả Rập Xê Út vs Uzbekistan | 17/11 22:30 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/16279
+#EXTINF:-1 tvg-id="mhd-match-6af501b324d46db8700fc68e" tvg-name="Ả Rập Xê Út vs Uzbekistan - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Ả Rập Xê Út vs Uzbekistan | 17/11 22:30 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/41408
+#EXTINF:-1 tvg-id="mhd-match-6aee6b6b74f43d7ef10b43dc" tvg-name="U21 Cộng hòa Séc vs Thổ Nhĩ Kỳ U21 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/vck-u21-chau-au.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U21 Cộng hòa Séc vs Thổ Nhĩ Kỳ U21 | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/11236
+#EXTINF:-1 tvg-id="mhd-match-6aee6b6b74f43d7ef10b43dc" tvg-name="U21 Cộng hòa Séc vs Thổ Nhĩ Kỳ U21 - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/vck-u21-chau-au.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U21 Cộng hòa Séc vs Thổ Nhĩ Kỳ U21 | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/21285
+#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be769" tvg-name="Nga vs Venezuela - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Nga vs Venezuela | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/23868
+#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be769" tvg-name="Nga vs Venezuela - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Nga vs Venezuela | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/30769
+#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be768" tvg-name="Jordan vs Australia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Jordan vs Australia | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/34012
+#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be768" tvg-name="Jordan vs Australia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Jordan vs Australia | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/21213
+#EXTINF:-1 tvg-id="mhd-match-6aea766932c08df19f0fb2fc" tvg-name="Canada vs Guatemala - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Canada vs Guatemala | 17/11 08:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/22578
+#EXTINF:-1 tvg-id="mhd-match-6aea766932c08df19f0fb2fc" tvg-name="Canada vs Guatemala - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Canada vs Guatemala | 17/11 08:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/37446
+#EXTINF:-1 tvg-id="mhd-match-6aee6b7274f43d7ef10b43df" tvg-name="Martinique vs Aruba - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Martinique vs Aruba | 17/11 07:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/5285
+#EXTINF:-1 tvg-id="mhd-match-6aee6b7274f43d7ef10b43df" tvg-name="Martinique vs Aruba - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Martinique vs Aruba | 17/11 07:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/42015
+#EXTINF:-1 tvg-id="mhd-match-6aee6b7274f43d7ef10b43e0" tvg-name="Trinidad & Tobago vs Antigua and Barbuda - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Trinidad & Tobago vs Antigua and Barbuda | 17/11 07:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/1691
+#EXTINF:-1 tvg-id="mhd-match-6aee6b7274f43d7ef10b43e0" tvg-name="Trinidad & Tobago vs Antigua and Barbuda - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Trinidad & Tobago vs Antigua and Barbuda | 17/11 07:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/5965
+#EXTINF:-1 tvg-id="mhd-match-69f695d673ba0b335e0f2ecb" tvg-name="Bắc Macedonia vs Slovenia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Bắc Macedonia vs Slovenia | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/19393
+#EXTINF:-1 tvg-id="mhd-match-69f695d673ba0b335e0f2ecb" tvg-name="Bắc Macedonia vs Slovenia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Bắc Macedonia vs Slovenia | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/23716
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf52" tvg-name="Thụy Sĩ vs Scotland - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Thụy Sĩ vs Scotland | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/37550
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf52" tvg-name="Thụy Sĩ vs Scotland - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Thụy Sĩ vs Scotland | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/22740
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf767" tvg-name="Đức vs Hà Lan - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Đức vs Hà Lan | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/35944
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf767" tvg-name="Đức vs Hà Lan - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Đức vs Hà Lan | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/26823
+#EXTINF:-1 tvg-id="mhd-match-69f695d673ba0b335e0f2ec8" tvg-name="Hy Lạp vs Serbia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hy Lạp vs Serbia | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/39133
+#EXTINF:-1 tvg-id="mhd-match-69f695d673ba0b335e0f2ec8" tvg-name="Hy Lạp vs Serbia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hy Lạp vs Serbia | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/39844
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf78f" tvg-name="Gibraltar vs Malta - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Gibraltar vs Malta | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/19271
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf78f" tvg-name="Gibraltar vs Malta - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Gibraltar vs Malta | 17/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/36603
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf78" tvg-name="Lithuania vs Liechtenstein - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Lithuania vs Liechtenstein | 17/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/7328
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf78" tvg-name="Lithuania vs Liechtenstein - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Lithuania vs Liechtenstein | 17/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/9791
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf76" tvg-name="Estonia vs Bulgaria - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Estonia vs Bulgaria | 17/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/39402
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf76" tvg-name="Estonia vs Bulgaria - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Estonia vs Bulgaria | 17/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/789
+#EXTINF:-1 tvg-id="mhd-match-69f695d673ba0b335e0f2eda" tvg-name="Iceland vs Luxembourg - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Iceland vs Luxembourg | 17/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/828
+#EXTINF:-1 tvg-id="mhd-match-69f695d673ba0b335e0f2eda" tvg-name="Iceland vs Luxembourg - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Iceland vs Luxembourg | 17/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/29733
+#EXTINF:-1 tvg-id="mhd-match-6a35da18dbc86fdf90016047" tvg-name="Central African Republic vs Benin - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Central African Republic vs Benin | 16/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/23839
+#EXTINF:-1 tvg-id="mhd-match-6a35da18dbc86fdf90016047" tvg-name="Central African Republic vs Benin - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Central African Republic vs Benin | 16/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/36312
+#EXTINF:-1 tvg-id="mhd-match-6a35da18dbc86fdf9001603c" tvg-name="Eritrea vs Guinea - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Eritrea vs Guinea | 16/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/2951
+#EXTINF:-1 tvg-id="mhd-match-6a35da18dbc86fdf9001603c" tvg-name="Eritrea vs Guinea - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Eritrea vs Guinea | 16/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/26691
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf6f" tvg-name="Kazakhstan vs Slovakia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Kazakhstan vs Slovakia | 16/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/4275
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf6f" tvg-name="Kazakhstan vs Slovakia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Kazakhstan vs Slovakia | 16/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/25216
+#EXTINF:-1 tvg-id="mhd-match-6a35da18dbc86fdf90016036" tvg-name="Somalia vs Ghana - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Somalia vs Ghana | 16/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/18
+#EXTINF:-1 tvg-id="mhd-match-6a35da18dbc86fdf90016036" tvg-name="Somalia vs Ghana - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Somalia vs Ghana | 16/11 22:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/11820
+#EXTINF:-1 tvg-id="mhd-match-6a372c0432ce87f525086ba4" tvg-name="Namibia vs Cameroon - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Namibia vs Cameroon | 16/11 20:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/25286
+#EXTINF:-1 tvg-id="mhd-match-6a372c0432ce87f525086ba4" tvg-name="Namibia vs Cameroon - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Namibia vs Cameroon | 16/11 20:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/29496
+#EXTINF:-1 tvg-id="mhd-match-6a387d79153ee8455e05572d" tvg-name="Sudan vs Senegal - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Sudan vs Senegal | 16/11 20:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/23065
+#EXTINF:-1 tvg-id="mhd-match-6a387d79153ee8455e05572d" tvg-name="Sudan vs Senegal - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Sudan vs Senegal | 16/11 20:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/14397
+#EXTINF:-1 tvg-id="mhd-match-6a387d79153ee8455e05571a" tvg-name="Zimbabwe vs Guinea Xích đạo - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Zimbabwe vs Guinea Xích đạo | 16/11 20:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/1944
+#EXTINF:-1 tvg-id="mhd-match-6a387d79153ee8455e05571a" tvg-name="Zimbabwe vs Guinea Xích đạo - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/africa-cup-of-nations.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Zimbabwe vs Guinea Xích đạo | 16/11 20:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/42934
+#EXTINF:-1 tvg-id="mhd-match-6aea766932c08df19f0fb2f9" tvg-name="Panama vs Curacao - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Panama vs Curacao | 16/11 06:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/18903
+#EXTINF:-1 tvg-id="mhd-match-6aea766932c08df19f0fb2f9" tvg-name="Panama vs Curacao - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Panama vs Curacao | 16/11 06:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/2204
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf75f" tvg-name="Bỉ vs Ý - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Bỉ vs Ý | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/12392
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf75f" tvg-name="Bỉ vs Ý - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Bỉ vs Ý | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/33583
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf76f" tvg-name="Tây Ban Nha vs Anh - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Tây Ban Nha vs Anh | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/18424
+#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf76f" tvg-name="Tây Ban Nha vs Anh - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Tây Ban Nha vs Anh | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/6590
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf47" tvg-name="Croatia vs Cộng hòa Séc - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Croatia vs Cộng hòa Séc | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/19539
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf47" tvg-name="Croatia vs Cộng hòa Séc - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Croatia vs Cộng hòa Séc | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/4998
+#EXTINF:-1 tvg-id="mhd-match-69f2a1a2bb398665fd0908da" tvg-name="Pháp vs Thổ Nhĩ Kỳ - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Pháp vs Thổ Nhĩ Kỳ | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/4096
+#EXTINF:-1 tvg-id="mhd-match-69f2a1a2bb398665fd0908da" tvg-name="Pháp vs Thổ Nhĩ Kỳ - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Pháp vs Thổ Nhĩ Kỳ | 16/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/5410
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf64" tvg-name="Phần Lan vs San Marino - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Phần Lan vs San Marino | 16/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/27120
+#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf64" tvg-name="Phần Lan vs San Marino - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Phần Lan vs San Marino | 16/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/3319
 #EXTINF:-1 tvg-id="mhd-match-2122214165720428546" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810257867_4Y03Lxdilwad.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121872007280816129" tvg-name="Ronaldinho Goals vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldinho Goals vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2122213946584821762" tvg-name="Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo 2008 vĩ đại nhất lịch sử? Sự thật khiến fan tranh cãi! vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121872007280816129/index.m3u8
+https://static.wex1sora.com/sstboot/temp/video/1794810205227_E6TJpZF2NUCk.mp4
 #EXTINF:-1 tvg-id="mhd-match-2121137540962545665" tvg-name="Khoảnh khắc Ronaldo ghi bàn và ăn mừng đầy cảm xúc bên Georgina! 🥹 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc Ronaldo ghi bàn và ăn mừng đầy cảm xúc bên Georgina! 🥹 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794553546199_7MfhKMoQfgUF.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121476440411172865" tvg-name="Neymar Prime Skill vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Neymar Prime Skill vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121476440411172865/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121137473379725313" tvg-name="Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553536721_wWDVrQr4BNV8.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121545930364776449" tvg-name="Cái chân trái không thuận của Ronaldo vẫn quá đáng sợ 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cái chân trái không thuận của Ronaldo vẫn quá đáng sợ 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650929617_hlxr6lgT514V.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137595199090690" tvg-name="Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553578962_kXJBNKtdBlST.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122213768377233410" tvg-name="Khoảnh khắc Ronaldo cực gắt và siêu phẩm khiến tất cả nín lặng! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc Ronaldo cực gắt và siêu phẩm khiến tất cả nín lặng! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810162430_amIrIX4f5n6T.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121243937435906050" tvg-name="Tuyệt phẩm vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyệt phẩm vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121243937435906050/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122213877508829186" tvg-name="Khi Ronaldo biến mọi thử thách thành động lực vĩ đại! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi Ronaldo biến mọi thử thách thành động lực vĩ đại! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810188304_KqqM8Zuoo2uk.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121546085239451650" tvg-name="Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650955620_uztd7Kmxziab.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121195048880140289" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121195048880140289/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121545996232126465" tvg-name="Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650944966_UbmzBaPBkROc.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121196768217624577" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121196768217624577/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122214278895333377" tvg-name="Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810284366_GSQmY5h0PjB8.mp4
-#EXTINF:-1 tvg-id="mhd-match-2122219436047953921" tvg-name="cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2033838191200518145/2122219436047953921/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2122214111836205057" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794810243813_j8KJGQ4toFh4.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121546155758284801" tvg-name="Cú sút phạt 130km/h của Ronaldo khiến cầu thủ đối phương gục ngã! 😱 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cú sút phạt 130km/h của Ronaldo khiến cầu thủ đối phương gục ngã! 😱 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794650979971_WHNOuShjL85o.mp4
 #EXTINF:-1 tvg-id="mhd-match-2122214001807028226" tvg-name="Khoảnh khắc nào của Ronaldo khiến bạn nhớ nhất? CR7 🐐 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc nào của Ronaldo khiến bạn nhớ nhất? CR7 🐐 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810219425_L1CLGuzhx6Aj.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121545930364776449" tvg-name="Cái chân trái không thuận của Ronaldo vẫn quá đáng sợ 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cái chân trái không thuận của Ronaldo vẫn quá đáng sợ 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794650929617_hlxr6lgT514V.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121243937435906050" tvg-name="Tuyệt phẩm vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyệt phẩm vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121243937435906050/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121476440411172865" tvg-name="Neymar Prime Skill vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Neymar Prime Skill vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121476440411172865/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122347212168065026" tvg-name="Messi prime vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Messi prime vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2122347212168065026/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122214221890547713" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810270129_PqbxYX0a6afM.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121196768217624577" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 5 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121196768217624577/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121545996232126465" tvg-name="Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cháy cùng lửa bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794650944966_UbmzBaPBkROc.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137473379725313" tvg-name="Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá VN bùng nổ! Khoảnh khắc siêu đỉnh không thể rời mắt 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553536721_wWDVrQr4BNV8.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122213768377233410" tvg-name="Khoảnh khắc Ronaldo cực gắt và siêu phẩm khiến tất cả nín lặng! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc Ronaldo cực gắt và siêu phẩm khiến tất cả nín lặng! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810162430_amIrIX4f5n6T.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122214111836205057" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794810243813_j8KJGQ4toFh4.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137595199090690" tvg-name="Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Özil nói gì khi được hỏi chọn Ronaldo hay Messi? 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
+https://static.wex1sora.com/sstboot/temp/video/1794553578962_kXJBNKtdBlST.mp4
 #EXTINF:-1 tvg-id="mhd-match-2122213827667914754" tvg-name="Khoảnh khắc đỉnh cao của CR7 số 17! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc đỉnh cao của CR7 số 17! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
 https://static.wex1sora.com/sstboot/temp/video/1794810176839_mRKid9fNrAlq.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137418908299265" tvg-name="Khoảnh khắc huyền thoại CR7 đỉnh chóp! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc huyền thoại CR7 đỉnh chóp! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-2122219436047953921" tvg-name="cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",cr7  goat 🐐🤯🔥🔥💯#bongda #football #viral #cr7 #ronaldo vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553518695_ahjUFQlr0TeM.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137357818261506" tvg-name="Cái ôm chia tay 2 huyền thoại Ronaldo & Messi của Lamine Yamal 💔 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cái ôm chia tay 2 huyền thoại Ronaldo & Messi của Lamine Yamal 💔 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/hls/2033838191200518145/2122219436047953921/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121546155758284801" tvg-name="Cú sút phạt 130km/h của Ronaldo khiến cầu thủ đối phương gục ngã! 😱 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Cú sút phạt 130km/h của Ronaldo khiến cầu thủ đối phương gục ngã! 😱 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553504748_XH2nJKJH7sAq.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121137301530701826" tvg-name="Bóng đá Việt Nam: Khoảnh khắc bùng nổ khiến triệu fan tự hào! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bóng đá Việt Nam: Khoảnh khắc bùng nổ khiến triệu fan tự hào! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794650979971_WHNOuShjL85o.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137616862670849" tvg-name="Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩ đại nhất bóng đá: Pepe xúc động quay lại khoảnh khắc Ronaldo nâng cúp vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553499471_LwJl5QB9w9BW.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121070352750702593" tvg-name="Manchester City rất mạnh🔥🔥💯#bongda #football #viral #GOAT vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Manchester City rất mạnh🔥🔥💯#bongda #football #viral #GOAT vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794553567171_ddM4RUe27xWo.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122539581534466050" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 7 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 7 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2033838191200518145/2121070352750702593/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121049235965177858" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 3  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 3  #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2122539581534466050/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122137793035595778" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 6 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121049235965177858/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121137148249862146" tvg-name="Khi bóng dính vào chân Cristiano Ronaldo! Đẳng cấp không tuổi 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi bóng dính vào chân Cristiano Ronaldo! Đẳng cấp không tuổi 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2122137793035595778/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2121872007280816129" tvg-name="Ronaldinho Goals vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldinho Goals vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553466639_OtB1Dto1DoJJ.mp4
-#EXTINF:-1 tvg-id="mhd-match-2121048515643797505" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 2 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 2 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/hls/2070039086887878658/2121872007280816129/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122214278895333377" tvg-name="Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tuyển Việt Nam tập cực căng! Sẵn sàng bùng nổ 🇻🇳🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121048515643797505/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2120875824496340993" tvg-name="Beckham sút phạt thì chỉ có đỉnh vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Beckham sút phạt thì chỉ có đỉnh vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794810284366_GSQmY5h0PjB8.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121546085239451650" tvg-name="Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc cực chất của bóng đá Việt Nam 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2070039086887878658/2120875824496340993/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2121137231037034498" tvg-name="Khi CR7 đổi giày và cái kết... 🤯 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi CR7 đổi giày và cái kết... 🤯 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794650955620_uztd7Kmxziab.mp4
+#EXTINF:-1 tvg-id="mhd-match-2122214054483292162" tvg-name="Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức mạnh và sự biến hóa của Ronaldo 2008 đỉnh cao! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794553481680_YyON1Vj4c1N3.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764124736614401" tvg-name="Sức hút khó cưỡng của CR7: Dù lắm tật vẫn vạn người mê! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Sức hút khó cưỡng của CR7: Dù lắm tật vẫn vạn người mê! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794810230853_4FunPygElG1L.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121195048880140289" tvg-name="《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",《Vua bóng đá võ công: Tôi có hệ thống bóng đá vô địch》Tập 4 #bóng đá #ai #Phim truyền hình ngắn tập vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464525053_oG13V6AugAj2.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763944498982913" tvg-name="Nhánh đấu tử thần World Cup 2026: Bồ Đào Nha và ác mộng của Ronaldo! vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Nhánh đấu tử thần World Cup 2026: Bồ Đào Nha và ác mộng của Ronaldo! vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/hls/2081997432392052738/2121195048880140289/index.m3u8
+#EXTINF:-1 tvg-id="mhd-match-2122213877508829186" tvg-name="Khi Ronaldo biến mọi thử thách thành động lực vĩ đại! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khi Ronaldo biến mọi thử thách thành động lực vĩ đại! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464486187_vWs6iDJNHqKa.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763877276872706" tvg-name="4 luật mới tại World Cup cực gắt! Cầu thủ còn dám câu giờ nữa không? ⚽ vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",4 luật mới tại World Cup cực gắt! Cầu thủ còn dám câu giờ nữa không? ⚽ vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794810188304_KqqM8Zuoo2uk.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121545860672221185" tvg-name="Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Vượt qua thử thách, chạm đến vinh quang! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464451248_3jnMl1cojMNW.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764008525033474" tvg-name="Các phiên bản 'quái vật' của Cristiano Ronaldo qua từng thời kỳ 🐐 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Các phiên bản 'quái vật' của Cristiano Ronaldo qua từng thời kỳ 🐐 vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794650917433_KKzh7jdsuBm2.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121546166416011265" tvg-name="Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bóng đá cực chất cuối tuần! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464499502_a6MOJqxTXNi4.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764067488559106" tvg-name="Ronaldo & ĐT Bồ Đào Nha: Ai đúng, ai sai trong câu chuyện cuối? vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Ronaldo & ĐT Bồ Đào Nha: Ai đúng, ai sai trong câu chuyện cuối? vs Đội khách | Bóng 69 TV | Bóng 69 TV
+https://static.wex1sora.com/sstboot/temp/video/1794650994194_iI0gpMTWZl5M.mp4
+#EXTINF:-1 tvg-id="mhd-match-2121137606347550722" tvg-name="Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Tình bạn vĩnh cửu của Ronaldo và Marcelo tại Real Madrid 🤍 vs Đội khách | Bóng 69 TV | Bóng 69 TV
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464516073_kXhmaz3bOvwF.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763738923560962" tvg-name="Thủ môn bỏ sân đi cắt tóc giữa trận và cái kết! 😱 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Thủ môn bỏ sân đi cắt tóc giữa trận và cái kết! 😱 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464435893_Xwm0yjF3g8nf.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120712526392029185" tvg-name="Bốn mục tiêu tôi thích🐐🤯🔥🔥💯#bongda #football #viral #goal#GOAT vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bốn mục tiêu tôi thích🐐🤯🔥🔥💯#bongda #football #viral #goal#GOAT vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/hls/2033838191200518145/2120712526392029185/index.m3u8
-#EXTINF:-1 tvg-id="mhd-match-2120763623219490817" tvg-name="Kỹ năng bóng đá đỉnh cao khiến tất cả phải trầm trồ! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Kỹ năng bóng đá đỉnh cao khiến tất cả phải trầm trồ! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464409390_2pSI13G1BT8r.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763679406387202" tvg-name="Khoảnh khắc bùng nổ bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464422687_PuWdvGZFc8xm.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120763569326878722" tvg-name="Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Khoảnh khắc bùng nổ của bóng đá Việt Nam! 🔥 vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464394062_yZB97NMUMm6E.mp4
-#EXTINF:-1 tvg-id="mhd-match-2120764115580448770" tvg-name="Bồ Đào Nha không Ronaldo vẫn thắng lớn: Lời chia tay hay chương mới? vs Đội khách - Bóng 69 TV - Bóng 69 TV" tvg-logo="" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bồ Đào Nha không Ronaldo vẫn thắng lớn: Lời chia tay hay chương mới? vs Đội khách | Bóng 69 TV | Bóng 69 TV
-#EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-https://static.wex1sora.com/sstboot/temp/video/1794464538509_BGKKSEv2IxmF.mp4
+https://static.wex1sora.com/sstboot/temp/video/1794553557097_Zitu1zeZA6UM.mp4
