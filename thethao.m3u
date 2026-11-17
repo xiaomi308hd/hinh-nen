@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mhd-match-85ed8cac86c7" tvg-name="Yemen vs Malaysia - Chuối Già - HD1" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Yemen vs Malaysia | 17/11 13:00 | Chuối Già | HD1
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-85ed8cac86c7" tvg-name="Yemen vs Malaysia - Chuối Già - HD2" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Yemen vs Malaysia | 17/11 13:00 | Chuối Già | HD2
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-85ed8cac86c7" tvg-name="Yemen vs Malaysia - Chuối Già - FHD" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Yemen vs Malaysia | 17/11 13:00 | Chuối Già | FHD
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-a66d3aa5e799" tvg-name="Afghanistan vs Indonesia U17 - Chuối Lửa - HD1" tvg-logo="https://media.chuoichientv.net/media/20251115_120250_dac8ca8d.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Afghanistan vs Indonesia U17 | 17/11 15:30 | Chuối Lửa | HD1
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
@@ -80,10 +71,19 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-ca875b4f3873" tvg-name="Saudi Arabia vs Uzbekistan - Chuối Kem - FHD" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Saudi Arabia vs Uzbekistan | 17/11 22:30 | Chuối Kem | FHD
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-52b4346187d7" tvg-name="Yemen vs Malaysia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Yemen vs Malaysia | 17/11 13:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-id="mhd-match-52b4346187d7" tvg-name="Yemen vs Malaysia - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Yemen vs Malaysia | 17/11 13:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/432017.flv
+#EXTINF:-1 tvg-id="mhd-match-bd2411dda97f" tvg-name="Russia vs Venezuela - Chuối Già - HD1" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Russia vs Venezuela | 17/11 23:00 | Chuối Già | HD1
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-bd2411dda97f" tvg-name="Russia vs Venezuela - Chuối Già - HD2" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Russia vs Venezuela | 17/11 23:00 | Chuối Già | HD2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-bd2411dda97f" tvg-name="Russia vs Venezuela - Chuối Già - FHD" tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Chuối Chiên TV" x-source="chuoichientv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/chuoichientv.png",Russia vs Venezuela | 17/11 23:00 | Chuối Già | FHD
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4b2dcf5c694d" tvg-name="Brunei Darussalam vs Oman - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Brunei Darussalam vs Oman | 17/11 16:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-id="mhd-match-4b2dcf5c694d" tvg-name="Brunei Darussalam vs Oman - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Brunei Darussalam vs Oman | 17/11 16:00 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/796315.flv
 #EXTINF:-1 tvg-id="mhd-match-5cb9a6a3d78b" tvg-name="Singapore vs Brazil - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Singapore vs Brazil | 17/11 17:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 tvg-id="mhd-match-5cb9a6a3d78b" tvg-name="Singapore vs Brazil - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Singapore vs Brazil | 17/11 17:00 | Gà Vàng TV | Live
@@ -116,26 +116,20 @@ https://live2.zktsva.app/live/307240.flv
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 tvg-id="mhd-match-01d732840bed" tvg-name="Qatar vs South Korea - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/efa8ac06cc6747b1835520f01650a0ab.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Qatar vs South Korea | 17/11 21:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301238.flv
+#EXTINF:-1 tvg-id="mhd-match-a56bdc00481a" tvg-name="United Arab Emirates vs Syria - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",United Arab Emirates vs Syria | 17/11 21:10 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 tvg-id="mhd-match-a56bdc00481a" tvg-name="United Arab Emirates vs Syria - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",United Arab Emirates vs Syria | 17/11 21:10 | Gà Vàng TV | Live
+https://live2.zktsva.app/live/432017.flv
 #EXTINF:-1 tvg-id="mhd-match-4d4f26bb8092" tvg-name="Saudi Arabia vs Uzbekistan - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Saudi Arabia vs Uzbekistan | 17/11 22:30 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 tvg-id="mhd-match-4d4f26bb8092" tvg-name="Saudi Arabia vs Uzbekistan - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/344c0d0b85274807ba668a603ef5a05e.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Saudi Arabia vs Uzbekistan | 17/11 22:30 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/306290.flv
-#EXTINF:-1 tvg-id="mhd-match-8f677dc9461e" tvg-name="Gambia vs Cote d'Ivoire - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/329b389349bbd4ab51e9b50ff0a1a885.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Gambia vs Cote d'Ivoire | 17/11 23:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="mhd-match-8f677dc9461e" tvg-name="Gambia vs Cote d'Ivoire - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/329b389349bbd4ab51e9b50ff0a1a885.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Gambia vs Cote d'Ivoire | 17/11 23:00 | Gà Vàng TV | Live
-https://live2.zktsva.app/live/796315.flv
 #EXTINF:-1 tvg-id="mhd-match-69481a51ef91" tvg-name="Russia vs Venezuela - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/ca3445d71de0ef386033037868c58d92.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Russia vs Venezuela | 17/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-id="mhd-match-69481a51ef91" tvg-name="Russia vs Venezuela - Gà Vàng TV - Live" tvg-logo="https://img.cltvap.cc/football/team/ca3445d71de0ef386033037868c58d92.png" group-title="Gà Vàng TV" x-source="gavangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/gavangtv.png",Russia vs Venezuela | 17/11 23:00 | Gà Vàng TV | Live
 https://live2.zktsva.app/live/301263.flv
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
-https://live.hztx2020.com/live/14573900_e328a88f62d2740518b34b135b1272ee_autoChange.m3u8?auth_key=1794915779-0-0-c75654eac489a4390d1f3b1d4c400f39
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
-https://live05.wecile.app/live/49572724.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
-https://live05.yefpwmc.app/live/49572724_tsc.m3u8
-#EXTINF:-1 tvg-id="mhd-match-xvkjoi299x2h879" tvg-name="Yemen vs Malaysia - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/6692f023cb5f6a8bf462c503e584af53.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Yemen vs Malaysia | 17/11 13:00 | ColaTV | Live
-https://live05.wecile.app/live/49572724.flv
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
+https://live.hztx2020.com/live/xvkjoi868p0t879_7eeb3e096d785261f626deeb169ad5b4_autoChange.m3u8?auth_key=1794917595-0-0-287d409ad0d5e8a6af32aac1a9556885
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
 https://live05.wecile.app/live/59444581.m3u8
 #EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
@@ -244,6 +238,12 @@ https://live05.wecile.app/live/16226575.m3u8
 https://live05.yefpwmc.app/live/16226575_tsc.m3u8
 #EXTINF:-1 tvg-id="mhd-match-vrqwni4wdrwf4qn" tvg-name="Malawi vs Ai Cập - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/dc00471256fd2162677840453cbb2cee.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Malawi vs Ai Cập | 17/11 20:00 | ColaTV | Live
 https://live05.wecile.app/live/16226575.flv
+#EXTINF:-1 tvg-id="mhd-match-l6kegirz0zguv75" tvg-name="Liban vs Palestine - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Liban vs Palestine | 17/11 20:00 | ColaTV | Live
+https://live05.wecile.app/live/49572724.m3u8
+#EXTINF:-1 tvg-id="mhd-match-l6kegirz0zguv75" tvg-name="Liban vs Palestine - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Liban vs Palestine | 17/11 20:00 | ColaTV | Live
+https://live05.yefpwmc.app/live/49572724_tsc.m3u8
+#EXTINF:-1 tvg-id="mhd-match-l6kegirz0zguv75" tvg-name="Liban vs Palestine - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Liban vs Palestine | 17/11 20:00 | ColaTV | Live
+https://live05.wecile.app/live/49572724.flv
 #EXTINF:-1 tvg-id="mhd-match-9gklzi5lp3ebm7x" tvg-name="Nhật Bản vs Paraguay - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Nhật Bản vs Paraguay | 17/11 20:10 | ColaTV | Live
 https://live05.wecile.app/live/33982309.m3u8
 #EXTINF:-1 tvg-id="mhd-match-9gklzi5lp3ebm7x" tvg-name="Nhật Bản vs Paraguay - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV" x-source="colatv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/colatv.png",Nhật Bản vs Paraguay | 17/11 20:10 | ColaTV | Live
@@ -283,18 +283,23 @@ https://live05.wecile.app/live/87379114.flv
 #EXTINF:-1 tvg-id="mhd-match-965mkyh87w3pr1g" tvg-name="Bangalore Association vs Bengaluru B - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hk9ydqo9j/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Bangalore Association vs Bengaluru B | 17/11 12:25 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/8cd370fe5f7287931065f28c5945d573/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-965mkyhkpk9nr1g" tvg-name="Iraq U17 vs Maldives U17 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhy2dqwzv/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Iraq U17 vs Maldives U17 | 17/11 15:00 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/998b649bce1bd1b563065a30204dc0f1/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-dn1m1gh94g09moe" tvg-name="Aksu Yimin FC vs Yining Juherayi - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhvdxdryk0/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Aksu Yimin FC vs Yining Juherayi | 17/11 14:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/30f764e90c2bd9dce46698972c0a6a2f/playlist.m3u8
-#EXTINF:-1 tvg-id="mhd-match-jw2r09h5llj5rz8" tvg-name="Yemen vs Malaysia - Phá Làng TV - HD1" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hke5q86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Yemen vs Malaysia | 17/11 13:00 | Phá Làng TV | HD1
-#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
-https://pull.digitalcdn.net/live/25f3872602a14349b3411073956f1886/index.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09h5llj5rz8" tvg-name="Yemen vs Malaysia - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/e4wyrn4hke5q86p/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Yemen vs Malaysia | 17/11 13:00 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/582053ab9ec8cf94ceac39f5a970fc39/playlist.m3u8
 #EXTINF:-1 tvg-id="mhd-match-jw2r09hk8kv2rz8" tvg-name="Palestine U17 vs Ấn Độ U17 - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2e0eqvy9/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Palestine U17 vs Ấn Độ U17 | 17/11 14:30 | Phá Làng TV | Live
 #EXTVLCOPT:http-referrer=https://sv1.phalang.net/
 https://lilive1.eu.cc/live/368ae905f2f5546dabf9c6e87794f6c5/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-y39mp1hd3oyvmoj" tvg-name="Stride vs Bangalore City - Phá Làng TV - Live" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hz2evqdyj/image/small" group-title="Phá Làng TV" x-source="phalangtv" x-sport="FOOTBALL" group-logo="https://raw.githubusercontent.com/xiaomi308hd/thumbnail/main/phalangtv.png",Stride vs Bangalore City | 17/11 14:55 | Phá Làng TV | Live
+#EXTVLCOPT:http-referrer=https://sv1.phalang.net/
+https://lilive1.eu.cc/live/dca9ebde214733981f2b3b715db07322/playlist.m3u8
+#EXTINF:-1 tvg-id="mhd-match-xvkjoi868p0t879" tvg-name="Palestine U17 vs India U17 - ColaTV - Live" tvg-logo="https://img.cltvap.cc/football/competition/5c287db45efa824791e1deaaf3206832.png!w80" group-title="Xôi Lạc TV" x-source="xoilac" x-sport="FOOTBALL",Palestine U17 vs India U17 | 17/11 14:30 | ColaTV | Live
+https://live.hztx2020.com/live/xvkjoi868p0t879_7eeb3e096d785261f626deeb169ad5b4_autoChange.m3u8?auth_key=1794917630-0-0-c66d121174462a5e6b4eec9dca44f8e1
 #EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb306" tvg-name="Singapore vs Brazil - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Singapore vs Brazil | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
 https://keovip88.net/team/129
 #EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb306" tvg-name="Singapore vs Brazil - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Singapore vs Brazil | 17/11 17:00 | Giờ Vàng TV | Giờ Vàng TV
@@ -367,30 +372,10 @@ https://keovip88.net/team/30769
 https://keovip88.net/team/34012
 #EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be768" tvg-name="Jordan vs Australia - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Jordan vs Australia | 17/11 23:00 | Giờ Vàng TV | Giờ Vàng TV
 https://keovip88.net/team/21213
-#EXTINF:-1 tvg-id="mhd-match-6aee6b6b74f43d7ef10b43dd" tvg-name="U21 Hà Lan vs U21 Đan Mạch - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/vck-u21-chau-au.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U21 Hà Lan vs U21 Đan Mạch | 18/11 00:30 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/8334
-#EXTINF:-1 tvg-id="mhd-match-6aee6b6b74f43d7ef10b43dd" tvg-name="U21 Hà Lan vs U21 Đan Mạch - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/vck-u21-chau-au.gif" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",U21 Hà Lan vs U21 Đan Mạch | 18/11 00:30 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/26905
-#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf4d" tvg-name="Wales vs Bồ Đào Nha - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Wales vs Bồ Đào Nha | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/30632
-#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf4d" tvg-name="Wales vs Bồ Đào Nha - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Wales vs Bồ Đào Nha | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/17458
-#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf4c" tvg-name="Đan Mạch vs Na Uy - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Đan Mạch vs Na Uy | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/36907
-#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf4c" tvg-name="Đan Mạch vs Na Uy - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Đan Mạch vs Na Uy | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/33406
-#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf63" tvg-name="Bosnia & Herzegovina vs Romania - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Bosnia & Herzegovina vs Romania | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/24789
-#EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf63" tvg-name="Bosnia & Herzegovina vs Romania - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Bosnia & Herzegovina vs Romania | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/27118
-#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf77b" tvg-name="Hungary vs Bắc Ireland - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hungary vs Bắc Ireland | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/13192
-#EXTINF:-1 tvg-id="mhd-match-69f3f2b74bff4a0c310bf77b" tvg-name="Hungary vs Bắc Ireland - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Hungary vs Bắc Ireland | 18/11 02:45 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/9462
-#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be76b" tvg-name="Argentina vs Costa Rica - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Argentina vs Costa Rica | 18/11 06:00 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/3309
-#EXTINF:-1 tvg-id="mhd-match-6ae925165e8d2e45cc0be76b" tvg-name="Argentina vs Costa Rica - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Argentina vs Costa Rica | 18/11 06:00 | Giờ Vàng TV | Giờ Vàng TV
-https://keovip88.net/team/2110
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb305" tvg-name="Malaysia vs Yemen - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Malaysia vs Yemen | 17/11 13:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/12519
+#EXTINF:-1 tvg-id="mhd-match-6aea76a432c08df19f0fb305" tvg-name="Malaysia vs Yemen - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/giao-huu-quoc-te.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Malaysia vs Yemen | 17/11 13:00 | Giờ Vàng TV | Giờ Vàng TV
+https://keovip88.net/team/1744
 #EXTINF:-1 tvg-id="mhd-match-6aea766932c08df19f0fb2fc" tvg-name="Canada vs Guatemala - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Canada vs Guatemala | 17/11 08:00 | Giờ Vàng TV | Giờ Vàng TV
 https://keovip88.net/team/22578
 #EXTINF:-1 tvg-id="mhd-match-6aea766932c08df19f0fb2fc" tvg-name="Canada vs Guatemala - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/concacaf-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Canada vs Guatemala | 17/11 08:00 | Giờ Vàng TV | Giờ Vàng TV
@@ -487,33 +472,33 @@ https://keovip88.net/team/5410
 https://keovip88.net/team/27120
 #EXTINF:-1 tvg-id="mhd-match-69f7e7425c39b5554409bf64" tvg-name="Phần Lan vs San Marino - Giờ Vàng TV - Giờ Vàng TV" tvg-logo="https://images.keovip88.net/images/league/uefa-nations-league.png" group-title="Giờ Vàng TV" x-source="giovang" x-sport="FOOTBALL",Phần Lan vs San Marino | 16/11 00:00 | Giờ Vàng TV | Giờ Vàng TV
 https://keovip88.net/team/3319
-#EXTINF:-1 tvg-id="mhd-match-jw2r09h5llj5rz8" tvg-name="Yemen vs Malaysia - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/aa0f9de3c3f38177051c3c8741dac037.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Yemen vs Malaysia | Bóng 69 TV | Bóng 69 TV
+#EXTINF:-1 tvg-id="mhd-match-jw2r09hk8kv2rz8" tvg-name="Palestine U17 vs Ấn Độ U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/5c287db45efa824791e1deaaf3206832.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Palestine U17 vs Ấn Độ U17 | 17/11 14:30 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6MxjKHSaMzEYtHYqsz.m3u8?txSecret=262f08bb1156664f8f0191e0bcfba188&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-jw2r09hk8kv2rz8" tvg-name="Palestine U17 vs Ấn Độ U17 - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/72fb22982ac69857cb2432f13589836e.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Palestine U17 vs Ấn Độ U17 | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6MxipaQEqwVV1q32fv.m3u8?txSecret=5bcaadae4d1bf620444f8795732d15a9&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-y39mp1hd3oyvmoj" tvg-name="Stride vs Bangalore City - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/e6b58b5bfee1910ebdf86bb542ab3776.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Stride vs Bangalore City | 17/11 14:55 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6MxipaQEqwVV1q32fv.m3u8?txSecret=7866443b4db6ee300edc0a1834ca4546&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-y39mp1hd3oyvmoj" tvg-name="Stride vs Bangalore City - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/ea6e7468642b0b6e9f46c23b50a929e4.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Stride vs Bangalore City | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6Mxk46TzoqSwHUu17S.m3u8?txSecret=f38d263bc889ebfec10938506b40e144&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-965mkyhkpk9nr1g" tvg-name="Iraq U17 vs Maldives U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/5c287db45efa824791e1deaaf3206832.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Iraq U17 vs Maldives U17 | 17/11 15:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6Mxk46TzoqSwHUu17S.m3u8?txSecret=e664b75ac3bee59270836a23eea1e979&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-965mkyhkpk9nr1g" tvg-name="Iraq U17 vs Maldives U17 - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/cc40d06ff0a16a793d066dbfa2917bab.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Iraq U17 vs Maldives U17 | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6MxipaQEg8E2ba4fwi.m3u8?txSecret=e3ea67068f72e14568869fddd23a21ed&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-zp5rzghg8g9jq82" tvg-name="Jordan U17 vs Iran U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/5c287db45efa824791e1deaaf3206832.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Jordan U17 vs Iran U17 | 17/11 16:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6MxipaQEg8E2ba4fwi.m3u8?txSecret=2a011aa0ce212af4fbbca4ec20981906&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-zp5rzghg8g9jq82" tvg-name="Jordan U17 vs Iran U17 - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/a54769d9dca7f2ac5a2e1b261c868993.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Jordan U17 vs Iran U17 | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6MxipaQF1Xa4DD3tUk.m3u8?txSecret=cceedfb447b0e7200e96f10afcfe5e91&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-2y8m4zhv39vnql0" tvg-name="Brunei vs Oman - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Brunei vs Oman | 17/11 16:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6MxipaQF1Xa4DD3tUk.m3u8?txSecret=c40966cd75392ae99e8e4c3f325d2b11&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-2y8m4zhv39vnql0" tvg-name="Brunei vs Oman - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Brunei vs Oman | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6Mxk4S1xx3XccTRSSQ.m3u8?txSecret=0019f4bfd2053a6a6c539bfb1a953979&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-k82rekhgdn8prep" tvg-name="Armenia U17 vs Luxembourg U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/dc7cbee49669e640a1e3625d45484bee.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Armenia U17 vs Luxembourg U17 | 17/11 17:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6Mxk4S1xx3XccTRSSQ.m3u8?txSecret=a43326ecffd7c47433756e55fa14fe74&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-k82rekhgdn8prep" tvg-name="Armenia U17 vs Luxembourg U17 - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Armenia U17 vs Luxembourg U17 | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6Mwdpr9noikhX1UFpp.m3u8?txSecret=669b0b68b0a5bc49d19022a67fa48eab&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-l5ergph4j2n6r8k" tvg-name="Bắc Ireland U17 vs Đức U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/dc7cbee49669e640a1e3625d45484bee.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bắc Ireland U17 vs Đức U17 | 17/11 17:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6Mwdpr9noikhX1UFpp.m3u8?txSecret=1c1e83e6d1ad6637265b5dbccb04aa71&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-l5ergph4j2n6r8k" tvg-name="Bắc Ireland U17 vs Đức U17 - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bắc Ireland U17 vs Đức U17 | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6Mwdpr9oeLiDAYR3d6.m3u8?txSecret=6c2b43ba99171d98ef93265954c08f71&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-pxwrxlhyw77vryk" tvg-name="Croatia U17 vs Bỉ U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/dc7cbee49669e640a1e3625d45484bee.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Croatia U17 vs Bỉ U17 | 17/11 17:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6Mwdpr9oeLiDAYR3d6.m3u8?txSecret=c52dea4e5bc6bba49a85e1f75eb823de&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-pxwrxlhyw77vryk" tvg-name="Croatia U17 vs Bỉ U17 - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/0c383e8deecbd58d5cbdfd324132b91f.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Croatia U17 vs Bỉ U17 | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6MwdprAZ8fbq3Sf9Ba.m3u8?txSecret=872c5cb630604935c1c85f5dd0f6c70b&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-pxwrxlhlpe90ryk" tvg-name="Singapore vs Brazil - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Singapore vs Brazil | 17/11 17:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6MwdprAZ8fbq3Sf9Ba.m3u8?txSecret=ef543cbb88dbc9ae44970b9d832c8039&txTime=6AFCAF20
-#EXTINF:-1 tvg-id="mhd-match-pxwrxlhlpe90ryk" tvg-name="Singapore vs Brazil - Bóng 69 TV - Bóng 69 TV" tvg-logo="https://static.wex1sora.com/thesports/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Singapore vs Brazil | Bóng 69 TV | Bóng 69 TV
+http://live.cds78y11d.org/live/sd-6MxjJtc9Amfi4egaPW.m3u8?txSecret=dde680bd890680949e39d109990ec7cf&txTime=6AFCB59C
+#EXTINF:-1 tvg-id="mhd-match-jw2r09hkd774rz8" tvg-name="Bắc Macedonia U17 vs Thổ Nhĩ Kỳ U17 - 69 BONG - Default" tvg-logo="https://static.wex1sora.com/thesports/football/competition/dc7cbee49669e640a1e3625d45484bee.png" group-title="Bóng 69 TV" x-source="bong69" x-sport="FOOTBALL",Bắc Macedonia U17 vs Thổ Nhĩ Kỳ U17 | 17/11 18:00 | 69 BONG | Default
 #EXTVLCOPT:http-referrer=https://bongtvrtm.com/
-http://live.cds78y11d.org/live/sd-6MxjJtc9Amfi4egaPW.m3u8?txSecret=a353d8dde4985eaef072400e42c6899b&txTime=6AFCAF20
+http://live.cds78y11d.org/live/sd-6Mwdpr9noz94cNFfu6.m3u8?txSecret=6620edce3998b59e29fec0565b242c23&txTime=6AFCB59C
